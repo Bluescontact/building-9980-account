@@ -36,6 +36,8 @@ or the dated silence — never supply the seat's answer. 3. Discount the giver's
 repetition: a claim enters only when a primary or public document carries it. 4. State what
 would make it wrong, and where it will be said.
 
-The waiver came first, in writing, May 21, 2025. Nothing here asserts a claim for relief.
+The waiver came first, in writing, May 21, 2025 — addressed to the employer (Kone) and the
+union (Local 131) only; it does not extend to the general contractor, the site, or DOE
+(Kevin's mark, Sep 1, 2026). Nothing here asserts a claim for relief.
 No figure is carried. Corrections supersede prior filings in place; they are not confessed.
 Every characterization is refusable line by line. Not legal advice.

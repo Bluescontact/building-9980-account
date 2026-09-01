@@ -42,7 +42,7 @@ the seat whose it is.
 | 2 | Jan 23, 2025 | Written refusal, OSHA-cited | Kone (operations manager) | Verbal only, as reported | **DELIVERED** — silence since Jan 23, 2025 |
 | 3 | Feb 25, 2025 | Written stop-work over custody of a permit-required space | Kone; permit contractor; the site | Feb 28 written reply: "Whose permit are we on" (assigned to Osterman); no DOE route named | **RESPONDED** — custody outcome unrecorded |
 | 4 | May 14, 2025 | Bound packet: notice, executive summary, template | Local 131 Leadership | — | **DELIVERED** — silence since May 14, 2025 |
-| 5 | May 21, 2025 | Perpetual template license; waiver of all wage/delay claims; three months' silence | Kone Management; Local 131 | — | **DELIVERED** — silence; binds only the giver |
+| 5 | May 21, 2025 | Perpetual template license; waiver of all wage/delay claims; three months' silence | Kone Management; Local 131 | — | **DELIVERED** — silence; binds only the giver. **Scope (Kevin, Sep 1, 2026): the waiver extends to the union and the employer only — not to the GC, the site, or DOE** |
 | 6 | Jun 2, 2025 | Withdrawal with documentation | Local 131 | — | **DELIVERED** — silence |
 | 7 | Aug 19–Sep 1, 2025 | Three letters with packet, template, analysis | Governor of New Mexico | — | **not entered** — misaddressed; my error |
 | 8 | Sep 2–3, 2025 | Named narrative; identity disclosure consented | DOE OIG Hotline | Acknowledgments without a number; Dec 23: "use FOIA"; eligibility question | **RESPONDED** (procedural) — no number, no disposition |

@@ -29,6 +29,10 @@ a verification of the 2022 corrections at SNL-NM.
 **The falsifier.** A document from 2025 in which any seat names the DOE route to the
 worker. None found; producing one collapses the finding, and the account says so.
 
+**Scope note.** The May 21, 2025 waiver extends to the union and the employer only — not
+to DOE. Nothing before these seats is waived; the account asserts no claim by its own
+discipline, and the 10 CFR 708 and FOIA routes remain fully open.
+
 **State.** Omnibus DELIVERED Aug 29, 2026 (attachment correction staged). Oversight seats
 not yet reached — postal/web routes needed. FOIA drafted, not filed (the one entry with a
 statutory clock).

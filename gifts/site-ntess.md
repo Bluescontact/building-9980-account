@@ -1,8 +1,13 @@
 # Gift — the site (NTESS / Sandia) and the general contractor
 
 **Who.** NTESS ECP (Ethicsteam@sandia.gov — reached twice Aug 29, 2026); the site staff on
-the record (Johnson, 04623 IH; Oetzel, 04121 CM); the GC layer (Botone Industries LLC /
-Hidalgo; B&D Industries — `[GAP]` roles unresolved, held until that resolves).
+the record (Johnson, 04623 IH; Oetzel, 04121 CM); the GC layer — **B&D Industries, or
+Botone/Act2** (Kevin, Sep 1, 2026; Hidalgo as superintendent) — document the entity of
+record before public naming.
+
+**Scope note.** The May 21, 2025 waiver extends to the union and the employer only. It
+does not reach the general contractor, the site, or DOE. This account still asserts no
+claim against these seats — but that is the account's discipline, not a waiver's bar.
 
 **What is given.** A documented instance of the exact condition EA's 2022 assessment
 found on this site: subcontracted construction workers operating under OSHA's name

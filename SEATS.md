@@ -36,7 +36,7 @@ date, and where is that recorded. No row characterizes intent.*
 | GM AZ/NM/El Paso, Kone | Brad Smith | D | What did the "whose permit are we on" custody review conclude, and where is that recorded? |
 | Regional Safety Director, Kone | Jacob Osterman (spelling per the Feb 28 cc line; "Ollerman" in one brief) | D | What written record exists of Kone's review of the Jan 23 refusal? |
 | Kone manager, cc | Mark Rogers | D | — |
-| Site Superintendent, Botone Industries LLC | David Hidalgo | OIG narrative; Smith email ("B&D to provide and post") | On what date was a PRCS entry permit posted for the 9980 hoistway, and what air-monitoring record accompanied it? `[GAP]` B&D vs Botone roles — resolve before public naming |
+| Site Superintendent, general contractor | David Hidalgo | OIG narrative; Smith email ("B&D to provide and post") | On what date was a PRCS entry permit posted for the 9980 hoistway, and what air-monitoring record accompanied it? GC identification (Kevin, Sep 1, 2026): **B&D Industries, or Botone/Act2** — document the entity of record before public naming |
 | OHST / Industrial Hygienist, Sandia 04623 | Benjamin H. Johnson | OIG narrative | What was the hoistway's classification before Feb 25, and what triggered reclassification? |
 | Construction Manager, Sandia 04121 | Jamie Oetzel | OIG narrative | On receiving a subcontractor worker's stop-work citing OSHA, did the site correct the authority to 10 CFR 851 and route the report to the ECP? |
 | Local 131 Leadership | `[GAP]` names | E | Was the May 14 packet entered into the Local's minutes or records? |
