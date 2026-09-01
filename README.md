@@ -40,8 +40,8 @@ The operative authority on a DOE site is 10 CFR 851, and the route it provides (
 Employee Concerns Program) was never given **here**. DOE's standing practice is to
 transmit it: the §851.20(a)(10) poster, DOE O 442.1B's publicity duty, annual ECP notices
 at sites like Hanford. At SNL-NM, DOE's own May 2022 assessment found the wrong poster at
-every observed subcontracted construction project (D-NTESS-12) — "displaying the
-incorrect poster misinforms subcontractor workers," in the assessor's words — and
+every observed subcontracted construction project (D-NTESS-12) — displaying the incorrect
+poster "misinforms subcontract workers," in the assessor's words — and
 deficient ECP case handling (D-SFO-1), with no public closure. The non-transmission in
 this record is that documented deficiency, instantiated. Eight venues tested over sixteen
 months; every one that answered, answered with a jurisdiction or a procedure; none

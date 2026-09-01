@@ -34,8 +34,8 @@ worker. None found; producing one collapses the finding, and the account says so
 to DOE. Nothing before these seats is waived; the account asserts no claim by its own
 discipline. The FOIA route remains open; the 41 U.S.C. §4712 window (three years from the
 2025 reprisal) has not run; whether any 10 CFR 708 window survives is a timeliness
-question (90 days, tolled during internal grievance pursuit, late acceptance for good
-cause under §708.15) not assessed here.
+question (90 days under §708.15, tolled while an internal grievance is pending; untimely
+complaints dismissed absent good cause, §708.18) not assessed here.
 
 **State.** Omnibus DELIVERED Aug 29, 2026 (attachment correction staged). Oversight seats
 not yet reached — postal/web routes needed. FOIA drafted, not filed (the one entry with a

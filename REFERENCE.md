@@ -13,9 +13,9 @@ it says — never for what one hopes it says.*
   stop-work is **(b)(9)**. §851.23 incorporates OSHA standards by reference — the standard
   Kevin cited was right; the office was wrong.
 - **10 CFR 708** — DOE Contractor Employee Protection Program. §708.2: subcontractor
-  employees covered; §708.14: **90-day** filing window, tolled during internal grievance
-  pursuit, with late acceptance for good cause (§708.15); §708.36 remedies include
-  reinstatement, back pay, costs. A regulation, not a statute.
+  employees covered; §708.15: **90-day** filing window, tolled while an internal grievance
+  is pending; §708.18: untimely complaints dismissed absent good cause; §708.36 remedies
+  include reinstatement, back pay, costs. A regulation, not a statute.
 - **41 U.S.C. §4712** — contractor and subcontractor employee whistleblower protection;
   internal disclosure to a responsible management official counts; complaint to the agency
   IG within **three years** of the reprisal (§4712(b)(4)); §4712(c)(7) voids waivers of
@@ -48,8 +48,8 @@ it says — never for what one hopes it says.*
 - **EHSS variance**, signed Dec 23, 2025, approved Jan 5, 2026 — covers Office of Nuclear
   Energy reactor-pilot contractors. **Not Sandia/NNSA.** Directional relevance only.
 - **NPRM**, "Worker Safety and Health Requirements To Support Reform of Nuclear Reactor
-  Testing," published Jan 21, 2026 (91 FR 2498); comments closed Feb 20, 2026 (an AFL-CIO
-  extension to Mar 23, 2026 appears in the working record — unverified here).
+  Testing," published Jan 21, 2026 (91 FR 2498); comment period reopened at the AFL-CIO's
+  request and closed Mar 23, 2026 (91 FR 9498, Feb 26, 2026 — verified).
 - **DOE ECP Contact List**, July 2026 · **NNSA org chart**, Feb 9, 2026 — the seat sources.
 - **CDC hantavirus guidance** — particulate protection (P-100/HEPA), not chemical respirators.
 
