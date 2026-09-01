@@ -4,8 +4,9 @@
 
 This repository is the collapsed, corrected deposit of the IUEC Project corpus (~60 files,
 2025–2026). Everything here survived a document-by-document cross-check against the primary
-exhibits, the public record, and the Agreement text. What did not survive is named in
-[COMPOST.md](COMPOST.md) with the falsifier that broke it — collapsed, not hidden.
+exhibits, the public record, and the Agreement text. What did not survive was collapsed
+against the documents that broke it and does not enter this account; the corrected version
+supersedes every prior filing in place.
 
 ## The finding, in two paragraphs
 
@@ -35,7 +36,6 @@ holder, or a disposition. The absence of the entry is the exhibit.
 | [REFERENCE.md](REFERENCE.md) | Public documents and contract clauses that carry weight, verified against live sources |
 | [SEATS.md](SEATS.md) | Decision-holder register — holder / oversight / evidentiary, gaps flagged not filled |
 | [LENS.md](LENS.md) | The method: gift accounting, the five states, the rules the record is kept under |
-| [COMPOST.md](COMPOST.md) | Every assertion struck, the files that repeated it, and the falsifier that broke it |
 | [gifts/](gifts/) | Full gift development, one file per stakeholder |
 
 ## Rules this deposit is kept under

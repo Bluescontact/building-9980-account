@@ -63,8 +63,8 @@ Verified against the text:
 One sentence survives the constitutional cascade: individual statutory rights (OSHA 11(c),
 NLRA §7, 10 CFR 708) are not prospectively waived by a CBA — *Alexander v. Gardner-Denver*,
 415 U.S. 36 (1974), bounded by *14 Penn Plaza v. Pyett* for clear-and-unmistakable waivers.
-*Perry*, *Janus*, *Crosby*, SOX, and the False Claims theory are compost — see
-[COMPOST.md](COMPOST.md).
+*Perry*, *Janus*, *Crosby*, SOX, and the False Claims theory did not survive review and
+are not relied on anywhere in this account.
 
 The trimtab self-audit (Aug 14, 2026) narrowed the viable statutory routes to: **41 U.S.C.
 §4712** (contractor whistleblower protection; §4712(c)(7)) with **FAR 52.203-19(c)**; and
