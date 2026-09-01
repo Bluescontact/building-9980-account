@@ -1,10 +1,10 @@
 # DOE Complaint — the clean record
 
-**Kevin Mears · Building 9980, Sandia National Laboratories · Version 1 · deposited
-September 1, 2026**
+**Kevin Mears · Building 9980, Sandia National Laboratories · Version 2 · restated
+September 1, 2026, the day the first disposition arrived**
 
-Thirteen entries, sixteen months, none disposed. That is the whole of this repository;
-the rest is verification.
+Fifteen entries, sixteen months, one disposed — a written closure that states no date,
+no basis, and no referral. That is the whole of this repository; the rest is verification.
 
 *Terms: a **seat** is a role that held a decision, not a person; an **entry** is something
 that left the giver's hands, dated; a **disposition** is a seat closing an entry in
@@ -35,8 +35,8 @@ cost has not been assigned; so far, it has defaulted. On his own account, entere
 discount, he was homeless within a month of leaving the trade and has been without a
 floor since. See [COST.md](COST.md).
 
-Underneath is the route finding. He cited OSHA — because OSHA was the name on the wall.
-The operative authority on a DOE site is 10 CFR 851, and the route it provides (the
+Underneath is the route finding. He cited OSHA — because OSHA was the name he had been
+given. The operative authority on a DOE site is 10 CFR 851, and the route it provides (the
 Employee Concerns Program) was never given **here**. DOE's standing practice is to
 transmit it: the §851.20(a)(10) poster, DOE O 442.1B's publicity duty, annual ECP notices
 at sites like Hanford. At SNL-NM, DOE's own May 2022 assessment found the wrong poster at
@@ -44,9 +44,14 @@ every observed subcontracted construction project (D-NTESS-12) — displaying th
 poster "misinforms subcontract workers," in the assessor's words — and
 deficient ECP case handling (D-SFO-1), with no public closure. The non-transmission in
 this record is that documented deficiency, instantiated. Eight venues tested over sixteen
-months; every one that answered, answered with a jurisdiction or a procedure; none
-produced a case number, a holder, or a disposition. The absence of the entry is the
-exhibit.
+months; every one that answered, answered with a jurisdiction or a procedure. In all that
+time one produced a case number — the OIG's, 25-0737-C, confirmed opened and already
+closed in the same breath (Dec 29, 2025, as referenced in the account's own filings) —
+and one produced a disposition: on September 1, 2026, the third day after the account was
+published to every seat at once, the OIG closed the complaint in writing, declining to
+state the date of closure, its basis, or whether the safety allegation was ever referred.
+The three questions asked in writing on August 31 stand open as the disposition's residue.
+The shape of the entry is the exhibit.
 
 ## Contents
 
@@ -70,6 +75,7 @@ it wrong, and where it will be said.
 The waiver came first, in writing, May 21, 2025 — addressed to the employer (Kone) and the
 union (Local 131) only; it does not extend to the general contractor, the site, or DOE
 (Kevin's mark, Sep 1, 2026). Nothing here asserts a claim for relief. No figure is carried.
-Corrections supersede prior filings in place; they are not confessed. This is Version 1;
-the account is restated, and the version advances, the day any seat's document arrives.
+Corrections supersede prior filings in place; they are not confessed. This is Version 2,
+restated September 1, 2026, on the OIG's written closure of 25-0737-C — the account is
+restated, and the version advances, the day any seat's document arrives.
 Every characterization is refusable line by line. Not legal advice.

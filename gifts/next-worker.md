@@ -1,8 +1,9 @@
 # Gift — the next worker
 
 **Who.** The next mechanic — union or not — dispatched by a subcontractor to a DOE site,
-who will be told, by the poster on the wall and by everyone around them, that OSHA is the
-authority. And the affected workers already in the record (the apprentice, held out by
+who is likely to be told that OSHA is the authority — by everyone around them, and, per
+DOE's own 2022 assessment of this site, by the wrong poster on the wall at every observed
+subcontracted project. And the affected workers already in the record (the apprentice, held out by
 name-gate; role only).
 
 **What is given.** The route, in a place where someone might be given it:

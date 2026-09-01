@@ -23,12 +23,15 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Sep 2–3, 2025 | OIG Hotline narrative filed; identity disclosure consented; automated acknowledgments, no case number | Gmail; Exhibit I — **IN HAND** |
 | Nov 4, 2025 | Public post on IUEC Facebook page; comments locked | reported (Kevin's Dec 23 email) |
 | Dec 21–23, 2025 | OIG records request; reply: "use FOIA"; "contract or federal employee?" | Gmail — **IN HAND** |
+| Dec 29, 2025 | OIG email confirming complaint **25-0737-C** was opened on the September narrative and is closed | referenced verbatim in the Aug 29, 2026 omnibus (in hand); the email itself was not located in Gmail on this pass — **to be produced**. The number is independently established by the OIG's own Sep 1, 2026 email |
 | Dec 30, 2025 | Materials to EIWPF and IUEC address; "I will make sure Frank sees this"; "nothing to do with policy" | Gmail — **IN HAND** |
 | Jan 16, 2026 | NM OSHA (NMED OHSB) contact after a phone call; template sent; no case opened | Gmail — **IN HAND** |
 | May 19, 2026 | Three-line closure to O'Donoghue & O'Donoghue, outside counsel to the IUEC International: matter closed, no claim, no engagement | reported (essay); Sent copy not yet pulled |
 | Aug 29, 2026 | Disclosure and Account, Version 1, published (Substack: "The Route Existed; I Was Never Given It") | live, verified (the_map) |
 | Aug 29, 2026, 22:01 UTC | Notice **DELIVERED** to NTESS ECP (Ethicsteam@sandia.gov); message size consistent with the PDF attached — attachment not independently verified | Gmail Sent — **IN HAND** |
 | Aug 29, 2026, 22:13 UTC | Omnibus **DELIVERED** to eleven addresses (NNSA ECP, OIG Hotline, NTESS ECP, Kone, IUEC, Local 131 + cc's) — **with the wrong attachment** (an earlier HTML, not the named PDF); reply-all correction staged | Gmail Sent — **IN HAND** |
+| Aug 31, 2026 | OIG Hotline wrote offering a phone call for Sep 1. Kevin replied in writing: no interest in settlement, restitution, or reinstatement; asked that the disposition come in writing — (1) add the attachment to 25-0737-C, (2) the date and basis of closure, (3) whether the safety allegation was referred under DOE O 221.1B ¶5.a(7)(b). He then forwarded the exchange to all eleven addresses | Gmail — **IN HAND** |
+| Sep 1, 2026 | OIG in writing: "Your complaint 25-0737-C has been closed. No other information can be provided by our office," with a FOIA pointer. None of the three questions answered | Gmail — **IN HAND** |
 
 ## 2. Gift ledger — entries and states
 
@@ -45,20 +48,22 @@ the seat whose it is.
 | 5 | May 21, 2025 | Perpetual template license (one condition, the OSHA 11(c) sentence); waiver of all wage/delay claims; three months' silence | Kone Management; Local 131 | — | **DELIVERED** — silence; binds only the giver. **Scope (Kevin, Sep 1, 2026): the waiver extends to the union and the employer only — not to the GC, the site, or DOE** |
 | 6 | Jun 2, 2025 | Withdrawal with documentation | Local 131 | — | **DELIVERED** — silence |
 | 7 | Aug 19–Sep 1, 2025 | Three letters with packet, template, analysis | Governor of New Mexico | — | **not entered** — misaddressed; my error |
-| 8 | Sep 2–3, 2025 | Named narrative; identity disclosure consented | DOE OIG Hotline | Acknowledgments without a number; Dec 23: "use FOIA"; eligibility question | **RESPONDED** (procedural) — no number, no disposition |
+| 8 | Sep 2–3, 2025 | Named narrative; identity disclosure consented | DOE OIG Hotline | Acknowledgments without a number; Dec 23: "use FOIA"; Dec 29 (referenced): 25-0737-C confirmed opened and closed; Sep 1, 2026 in writing: "Your complaint 25-0737-C has been closed. No other information can be provided by our office" | **DISPOSED** — closed in writing under a number by the seat that held it; date, basis, and any referral undisclosed |
 | 9 | Nov 4, 2025 | Public post | IUEC (page administrator) | Comments locked; post left up | **RECEIVED** — open |
 | 10 | Dec 30, 2025 | Post, timeline, framework | EIWPF (channel); IUEC address | "I will make sure Frank sees this"; "nothing to do with policy" | **REFERRED** to the General President's office — silence since |
 | 11 | Jan 16, 2026 | Template, agreement, public report | NM OSHA (NMED OHSB) | Contact only; no case; state plan does not reach DOE contractor employees | **RESPONDED** (contact only) |
 | 12 | May 19, 2026 | Closure: no claim, no engagement | IUEC outside counsel | — | **DELIVERED** — silence since May 19, 2026 |
-| 13 | Aug 29, 2026 | Disclosure and Account, Version 1: published; NTESS notice (22:01Z; size consistent with the PDF, not independently verified); omnibus to eleven addresses (22:13Z, attachment mismatch — correction staged) | NNSA ECP · DOE OIG Hotline · NTESS ECP · Kone · IUEC GP office · Local 131 | — | **DELIVERED** — silence dated from Aug 29, 2026 |
+| 13 | Aug 29, 2026 | Disclosure and Account, Version 1: published; NTESS notice (22:01Z; size consistent with the PDF, not independently verified); omnibus to eleven addresses (22:13Z, attachment mismatch — correction staged) | NNSA ECP · DOE OIG Hotline · NTESS ECP · Kone · IUEC GP office · Local 131 | Aug 31: OIG wrote offering a phone call | **RESPONDED** (one seat of eleven); silence from the rest dated from Aug 29, 2026 |
+| 14 | Aug 31, 2026 | Written reply to the OIG: no settlement, restitution, or reinstatement sought; three questions asked as the written disposition (attachment added to 25-0737-C; date and basis of closure; 221.1B ¶5.a(7)(b) referral) | DOE OIG Hotline | Sep 1: closure restated in writing; none of the three questions answered | **RESPONDED** — the questions open |
+| 15 | Aug 31, 2026 | The OIG exchange forwarded to all eleven addresses | All seats on the omnibus | — | **DELIVERED** |
 
-**Balance.** Thirteen entries. Four responded in writing, one received by act, one referred,
-the rest delivered into silence, one misaddressed. **None disposed.** (The Aug 29 map's
-balance line reads "3 written responses · 1 disposed"; the ledger's counts — four
-responded, none disposed — govern here, and the map's variance is noted, not adopted:
-its "1 disposed" matches the sibling ledger's Aug 10, 2026 closure, not this account.
-The OIG thread carries file reference **25-0737-C**; whether that is a case number
-issued to the complainant remains an open item.)
+**Balance.** Fifteen entries. Five responded in writing, one received by act, one referred,
+six delivered into silence, one misaddressed — and **one disposed**: entry 8, closed in
+writing on September 1, 2026, under complaint number 25-0737-C, by the seat that held it.
+The disposition states no date of closure, no basis, and no referral; those three
+questions, asked in writing on Aug 31, stand open as the entry's residue. (The Aug 29
+map's "1 disposed" matched the sibling ledger's Aug 10, 2026 closure; as of Sep 1 this
+account has its own.)
 
 Not yet reached (no published email; postal/web route needed) — six oversight seats:
 NNSA Sandia Field Office Manager · DOE Enterprise Assessments (Dupuy; Olah) · NNSA ES&H
@@ -73,27 +78,34 @@ foiofficer@nnsa.doe.gov stays).
 | Kone (GM) | Feb 28, 2025 | "Whose permit are we on"; next steps | — | Custody question posed, assigned; outcome unrecorded |
 | Local Leadership; Kone Mgmt | May–Jun 2025 | Silence | — | Nothing |
 | Governor of NM | Aug–Sep 2025 | Nothing (misaddressed) | — | Nothing; the giver's error |
-| DOE OIG Hotline | Sep–Dec 2025 | Acknowledgments; one procedural reply | **none issued** | Receipt without a number |
+| DOE OIG Hotline | Sep 2025 – Sep 2026 | Acknowledgments; "use FOIA"; call offer; written closure | **25-0737-C** — confirmed opened and closed Dec 29, 2025 (referenced); closed again in writing Sep 1, 2026 | A number confirmed only at closure; date, basis, and referral undisclosed |
 | EIWPF / IUEC | Dec 30, 2025 | Forward; "nothing to do with policy" | — | A forward; silence |
 | NM OSHA | Jan 16, 2026 | Contact; no follow-up | **none opened** | Nothing |
 | IUEC outside counsel | May 19, 2026 | Silence | — | Nothing sought |
 
 Eight venues, sixteen months. Every venue that answered, answered with a jurisdiction or
-a procedure (the NM OSHA contact returned no jurisdiction answer in writing). No venue
-named a holder or closed an entry.
+a procedure (the NM OSHA contact returned no jurisdiction answer in writing). Through
+August 31, 2026, no venue had named a holder or closed an entry. On September 1, 2026 —
+the third day after the account was published and forwarded — the OIG closed 25-0737-C in
+writing, stating no date, basis, or referral.
 
 ## 4. What closes an entry, by seat
 
 A case number from the ECP (Sanchez / Castanon) · a FOIA response from the Field Office
-(Hauck) · a disposition under a number from the OIG (Hotline / Nelson) · a referral record
-under DOE O 221.1B ¶5.a(7)(b) (Nelson) · a verification of the 2022 corrections at SNL-NM
-(Dupuy / Olah / Martin) · a line from the International (Christensen) · a sentence about the
-template (Kone Management). Each is entered the day it arrives, and the account is restated.
-Until then the silence is entered as silence, with a date on it.
+(Hauck) · **the OIG disposition — received Sep 1, 2026**; what remains of that line is
+the date and basis of the 25-0737-C closure and a referral record under DOE O 221.1B
+¶5.a(7)(b) (Nelson) · a verification of the 2022 corrections at SNL-NM (Dupuy / Olah /
+Martin) · a line from the International (Christensen) · a sentence about the template
+(Kone Management). Each is entered the day it arrives, and the account is restated — as
+this one was on September 1, 2026. Until then the silence is entered as silence, with a
+date on it.
 
 ## 5. Open items — the giver's to close
 
 1. May 19, 2026 closure email — pull from Sent (the essay is not the exhibit).
+1a. The Dec 29, 2025 OIG email confirming 25-0737-C opened and closed — referenced in the
+   omnibus but not located in Gmail on the Sep 1 pass; produce it or the reference stays
+   at quotation discount.
 2. Feb 25, 2025 restriction — pull the sent email with headers and recipients.
 3. Governor routing — anything outside Gmail, or Entry 7 stays a recollection.
 4. Archived copy of the Nov 4, 2025 post.
