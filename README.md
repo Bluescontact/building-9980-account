@@ -36,7 +36,6 @@ holder, or a disposition. The absence of the entry is the exhibit.
 | [SEATS.md](SEATS.md) | Decision-holder register — holder / oversight / evidentiary, gaps flagged not filled |
 | [LENS.md](LENS.md) | The method: gift accounting, the five states, the rules the record is kept under |
 | [COMPOST.md](COMPOST.md) | Every assertion struck, the files that repeated it, and the falsifier that broke it |
-| [INVENTORY.md](INVENTORY.md) | Every source file catalogued with its disposition |
 | [gifts/](gifts/) | Full gift development, one file per stakeholder |
 
 ## Rules this deposit is kept under
