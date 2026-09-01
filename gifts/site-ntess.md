@@ -14,7 +14,8 @@ found on this site: subcontracted construction workers operating under OSHA's na
 (D-NTESS-12 — the wrong poster at every observed subcontracted project) with ECP
 dispositions flagged (D-SFO-1). The worker's Feb 25, 2025 restriction — citing OSHA
 1910.146 on a site OSHA does not enforce — is the 2022 finding walking around in 2025.
-The site complied with the restriction and never corrected the authority. That pairing
+The site complied with the restriction; no document in the record shows the authority
+corrected. That pairing
 (compliance with the act, silence on the route) is the site's own data point, offered
 with the exhibits attached.
 
@@ -32,5 +33,6 @@ PRCS entry permit posted, with what air-monitoring record?
 **The falsifier.** A 2025 site document transmitting the DOE route (poster, orientation,
 ECP referral) to the subcontractor's crew. Producing it collapses the finding.
 
-**State.** NTESS ECP: notice + PDF and omnibus DELIVERED Aug 29, 2026. GC seats: held
+**State.** NTESS ECP: notice (PDF attachment inferred from message size, unverified) and
+omnibus DELIVERED Aug 29, 2026. GC seats: held
 until B&D/Botone resolves (open item H9).

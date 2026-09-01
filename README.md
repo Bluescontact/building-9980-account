@@ -1,31 +1,52 @@
 # DOE Complaint — the clean record
 
-**Kevin Mears · Building 9980, Sandia National Laboratories · deposited September 1, 2026**
+**Kevin Mears · Building 9980, Sandia National Laboratories · Version 1 · deposited
+September 1, 2026**
 
-This repository is the collapsed, corrected deposit of the IUEC Project corpus (~60 files,
-2025–2026). Everything here survived a document-by-document cross-check against the primary
-exhibits, the public record, and the Agreement text. What did not survive was collapsed
-against the documents that broke it and does not enter this account; the corrected version
-supersedes every prior filing in place.
+Thirteen entries, sixteen months, none disposed. That is the whole of this repository;
+the rest is verification.
 
-## The finding, in two paragraphs
+*Terms: a **seat** is a role that held a decision, not a person; an **entry** is something
+that left the giver's hands, dated; a **disposition** is a seat closing an entry in
+writing, with authority; **silence** is not a state — it is the dated absence of movement.*
 
-A subcontractor's elevator mechanic on a DOE site performed unpermitted work in a
-permit-required confined space for roughly two months. When he raised the concern he lost
-income. He reported safety twice — a written refusal in January 2025 and a written
-restriction in February 2025 — and lost income both times. The correction that followed
-protected every party on that jobsite: the site, the general contractor, the employer, the
-apprentice. It did not protect the reporting worker, who carried the cost of producing it —
-including half his apprentice's lost wages, paid out of his own pocket — and who was
-homeless within a month of leaving the trade. The cost was not assigned by any seat; it
-defaulted to the reporter. See [COST.md](COST.md).
+This repository is the collapsed, corrected deposit of a 2025–2026 working corpus.
+Everything here survived a document-by-document cross-check against the primary exhibits,
+the public record, and the Agreement text. What did not survive was collapsed against the
+documents that broke it and does not enter this account; the corrected version supersedes
+every prior filing in place.
 
-Underneath that is the route finding. He cited OSHA — because OSHA was the name on the
-wall. The operative authority on a DOE site is 10 CFR 851, and the route it provides (the
-Employee Concerns Program) was never transmitted to him by any seat: not the union, not the
-employer, not the site, not the OIG in sixteen months of filings. The route existed; it was
-never given. Eight venues answered with jurisdictions; none produced a case number, a
-holder, or a disposition. The absence of the entry is the exhibit.
+## The finding
+
+A subcontractor's elevator mechanic on a DOE site worked a hoistway that was later
+restricted pending permit-required confined space classification — whether it was
+permit-required during the prior months is a question the site has not answered. He
+reported safety twice in writing: a refusal on January 23, 2025, and a stop-work
+restriction on February 25, 2025. The first cost him income, as reported; the second
+stopped his work for a period whose compensation is not established — the employer's own
+email said the hours would be paid, and no record shows they were. The correction his
+reports produced protected the parties going forward: the site, the general contractor,
+the employer. It did not protect the reporter — nor, until he personally repaid half the
+lost wages on his own account, his apprentice. No seat decided the reporter should carry
+that cost. Seats with authority to decide it existed — 10 CFR 708's Office of Hearings
+and Appeals; the OIG under 41 U.S.C. §4712, whose three-year window has not yet run —
+and none was ever put the question, because the route to them was never transmitted. The
+cost has not been assigned; so far, it has defaulted. On his own account, entered at that
+discount, he was homeless within a month of leaving the trade and has been without a
+floor since. See [COST.md](COST.md).
+
+Underneath is the route finding. He cited OSHA — because OSHA was the name on the wall.
+The operative authority on a DOE site is 10 CFR 851, and the route it provides (the
+Employee Concerns Program) was never given **here**. DOE's standing practice is to
+transmit it: the §851.20(a)(10) poster, DOE O 442.1B's publicity duty, annual ECP notices
+at sites like Hanford. At SNL-NM, DOE's own May 2022 assessment found the wrong poster at
+every observed subcontracted construction project (D-NTESS-12) — "displaying the
+incorrect poster misinforms subcontractor workers," in the assessor's words — and
+deficient ECP case handling (D-SFO-1), with no public closure. The non-transmission in
+this record is that documented deficiency, instantiated. Eight venues tested over sixteen
+months; every one that answered, answered with a jurisdiction or a procedure; none
+produced a case number, a holder, or a disposition. The absence of the entry is the
+exhibit.
 
 ## Contents
 
@@ -42,11 +63,13 @@ holder, or a disposition. The absence of the entry is the exhibit.
 
 1. Enter what left the giver's hands, dated. 2. Enter what the seat did, in its own words,
 or the dated silence — never supply the seat's answer. 3. Discount the giver's own
-repetition: a claim enters only when a primary or public document carries it. 4. State what
-would make it wrong, and where it will be said.
+repetition: a claim enters only when a primary or public document carries it, and a claim
+resting on the giver's statement alone says so where it appears. 4. State what would make
+it wrong, and where it will be said.
 
 The waiver came first, in writing, May 21, 2025 — addressed to the employer (Kone) and the
 union (Local 131) only; it does not extend to the general contractor, the site, or DOE
-(Kevin's mark, Sep 1, 2026). Nothing here asserts a claim for relief.
-No figure is carried. Corrections supersede prior filings in place; they are not confessed.
+(Kevin's mark, Sep 1, 2026). Nothing here asserts a claim for relief. No figure is carried.
+Corrections supersede prior filings in place; they are not confessed. This is Version 1;
+the account is restated, and the version advances, the day any seat's document arrives.
 Every characterization is refusable line by line. Not legal advice.

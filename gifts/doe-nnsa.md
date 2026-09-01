@@ -8,14 +8,15 @@ Olah), NNSA ES&H (Al-Daouk), NNSA Administrator (Williams), EHSS (Martin).
 architecture functioned, from the worker's side, at one subcontracted project on one NNSA
 site — with primary exhibits, a discounted-assertions table, and a falsifier. It is the
 field data the Department's own assessors reached for in 2022 (EA's D-NTESS-12: OSHA
-poster instead of the DOE poster at all observed subcontracted construction) and that the
-2026 rulemaking record lacked: a worker at a DOE site describing how §851 reporting
-functioned in practice. The Sep 3, 2025 narrative was in DOE's hands four months before
-the NPRM published.
+poster instead of the DOE poster at all observed subcontracted construction) and that no
+one has shown the 2026 rulemaking record contained: a worker at a DOE site describing
+how §851 reporting functioned in practice (whether the docket holds such an account is an
+open question, not a finding). The Sep 3, 2025 narrative was in DOE's hands four months
+before the NPRM published.
 
 **What it serves, in the receiver's terms.** §851.20(a)(10) compliance verification;
 ECP architecture assessment (D-SFO-1); the OIG's own referral duty under 221.1B
-¶5.a(7)(b); the rulemaking record's evidentiary gap.
+¶5.a(7)(b); the rulemaking record's possible evidentiary gap.
 
 **The question held.** Did any seat receive an account of the Feb 25, 2025 hoistway
 restriction and route it as §851.20(b) requires — and does the site's approved WS&H
@@ -31,7 +32,10 @@ worker. None found; producing one collapses the finding, and the account says so
 
 **Scope note.** The May 21, 2025 waiver extends to the union and the employer only — not
 to DOE. Nothing before these seats is waived; the account asserts no claim by its own
-discipline, and the 10 CFR 708 and FOIA routes remain fully open.
+discipline. The FOIA route remains open; the 41 U.S.C. §4712 window (three years from the
+2025 reprisal) has not run; whether any 10 CFR 708 window survives is a timeliness
+question (90 days, tolled during internal grievance pursuit, late acceptance for good
+cause under §708.15) not assessed here.
 
 **State.** Omnibus DELIVERED Aug 29, 2026 (attachment correction staged). Oversight seats
 not yet reached — postal/web routes needed. FOIA drafted, not filed (the one entry with a

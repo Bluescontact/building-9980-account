@@ -5,10 +5,10 @@ Secretary seat (Regensberg — evidentiary, Exhibit A).
 
 **What is given.** Three things the Local can use without conceding anything:
 
-1. **Exhibit A read straight.** The 5:10 PM reply is not the villain of this record; it is
-   the honest state of what a BA had been given to work with. "There is only so much
-   protection we have" was wrong — Par. 4 was in the contract — but nothing in the record
-   says the BA knew that. The gift is the correction, addressed to the seat, not the person.
+1. **Exhibit A read straight.** The 5:10 PM reply is not the villain of this record.
+   "There is only so much protection we have" was wrong — Par. 4 was in the contract —
+   but nothing in the record says the BA knew that. The gift is the correction, addressed
+   to the seat, not the person.
 2. **The delegate-facing instruments** (carried in LENS): the briefing-vs-grievance
    falsifier, the clock rule (Art. XV timelines), the cost-routing diagnostic, alternative
    work as check valve (Par. 4(b)) — tools a BA can hand a member on day one.

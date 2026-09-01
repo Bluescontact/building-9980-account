@@ -27,7 +27,7 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Jan 16, 2026 | NM OSHA (NMED OHSB) contact after a phone call; template sent; no case opened | Gmail — **IN HAND** |
 | May 19, 2026 | Three-line closure to O'Donoghue & O'Donoghue, outside counsel to the IUEC International: matter closed, no claim, no engagement | reported (essay); Sent copy not yet pulled |
 | Aug 29, 2026 | Disclosure and Account, Version 1, published (Substack: "The Route Existed; I Was Never Given It") | live, verified (the_map) |
-| Aug 29, 2026, 22:01 UTC | Notice + PDF **DELIVERED** to NTESS ECP (Ethicsteam@sandia.gov) | Gmail Sent — **IN HAND** |
+| Aug 29, 2026, 22:01 UTC | Notice **DELIVERED** to NTESS ECP (Ethicsteam@sandia.gov); message size consistent with the PDF attached — attachment not independently verified | Gmail Sent — **IN HAND** |
 | Aug 29, 2026, 22:13 UTC | Omnibus **DELIVERED** to eleven addresses (NNSA ECP, OIG Hotline, NTESS ECP, Kone, IUEC, Local 131 + cc's) — **with the wrong attachment** (an earlier HTML, not the named PDF); reply-all correction staged | Gmail Sent — **IN HAND** |
 
 ## 2. Gift ledger — entries and states
@@ -42,7 +42,7 @@ the seat whose it is.
 | 2 | Jan 23, 2025 | Written refusal, OSHA-cited | Kone (operations manager) | Verbal only, as reported | **DELIVERED** — silence since Jan 23, 2025 |
 | 3 | Feb 25, 2025 | Written stop-work over custody of a permit-required space | Kone; permit contractor; the site | Feb 28 written reply: "Whose permit are we on" (assigned to Osterman); no DOE route named | **RESPONDED** — custody outcome unrecorded |
 | 4 | May 14, 2025 | Bound packet: notice, executive summary, template | Local 131 Leadership | — | **DELIVERED** — silence since May 14, 2025 |
-| 5 | May 21, 2025 | Perpetual template license; waiver of all wage/delay claims; three months' silence | Kone Management; Local 131 | — | **DELIVERED** — silence; binds only the giver. **Scope (Kevin, Sep 1, 2026): the waiver extends to the union and the employer only — not to the GC, the site, or DOE** |
+| 5 | May 21, 2025 | Perpetual template license (one condition, the OSHA 11(c) sentence); waiver of all wage/delay claims; three months' silence | Kone Management; Local 131 | — | **DELIVERED** — silence; binds only the giver. **Scope (Kevin, Sep 1, 2026): the waiver extends to the union and the employer only — not to the GC, the site, or DOE** |
 | 6 | Jun 2, 2025 | Withdrawal with documentation | Local 131 | — | **DELIVERED** — silence |
 | 7 | Aug 19–Sep 1, 2025 | Three letters with packet, template, analysis | Governor of New Mexico | — | **not entered** — misaddressed; my error |
 | 8 | Sep 2–3, 2025 | Named narrative; identity disclosure consented | DOE OIG Hotline | Acknowledgments without a number; Dec 23: "use FOIA"; eligibility question | **RESPONDED** (procedural) — no number, no disposition |
@@ -50,17 +50,20 @@ the seat whose it is.
 | 10 | Dec 30, 2025 | Post, timeline, framework | EIWPF (channel); IUEC address | "I will make sure Frank sees this"; "nothing to do with policy" | **REFERRED** to the General President's office — silence since |
 | 11 | Jan 16, 2026 | Template, agreement, public report | NM OSHA (NMED OHSB) | Contact only; no case; state plan does not reach DOE contractor employees | **RESPONDED** (contact only) |
 | 12 | May 19, 2026 | Closure: no claim, no engagement | IUEC outside counsel | — | **DELIVERED** — silence since May 19, 2026 |
-| 13 | Aug 29, 2026 | Disclosure and Account, Version 1: published; NTESS notice with PDF (22:01Z); omnibus to eleven addresses (22:13Z, attachment mismatch — correction staged) | NNSA ECP · DOE OIG Hotline · NTESS ECP · Kone · IUEC GP office · Local 131 | — | **DELIVERED** — silence dated from Aug 29, 2026 |
+| 13 | Aug 29, 2026 | Disclosure and Account, Version 1: published; NTESS notice (22:01Z; size consistent with the PDF, not independently verified); omnibus to eleven addresses (22:13Z, attachment mismatch — correction staged) | NNSA ECP · DOE OIG Hotline · NTESS ECP · Kone · IUEC GP office · Local 131 | — | **DELIVERED** — silence dated from Aug 29, 2026 |
 
 **Balance.** Thirteen entries. Four responded in writing, one received by act, one referred,
-the rest delivered into silence, one misaddressed. **None disposed.** (The map's §5 balance
-line reads "1 disposed" — that count is unreconciled with the ledger's "none disposed" and
-is flagged, not adopted. The OIG thread carries file reference **25-0737-C**; whether that
-is a case number issued to the complainant remains an open item.)
+the rest delivered into silence, one misaddressed. **None disposed.** (The Aug 29 map's
+balance line reads "3 written responses · 1 disposed"; the ledger's counts — four
+responded, none disposed — govern here, and the map's variance is noted, not adopted:
+its "1 disposed" matches the sibling ledger's Aug 10, 2026 closure, not this account.
+The OIG thread carries file reference **25-0737-C**; whether that is a case number
+issued to the complainant remains an open item.)
 
-Not yet reached (no email; postal/web route needed): NNSA Sandia Field Office Manager ·
-DOE Enterprise Assessments · NNSA ES&H. FOIA not yet filed (draft to foiofficer@nnsa.doe.gov
-stays).
+Not yet reached (no published email; postal/web route needed) — six oversight seats:
+NNSA Sandia Field Office Manager · DOE Enterprise Assessments (Dupuy; Olah) · NNSA ES&H
+(Al-Daouk) · NNSA Administrator (Williams) · EHSS (Martin). FOIA not yet filed (draft to
+foiofficer@nnsa.doe.gov stays).
 
 ## 3. Every venue tested
 
@@ -75,8 +78,9 @@ stays).
 | NM OSHA | Jan 16, 2026 | Contact; no follow-up | **none opened** | Nothing |
 | IUEC outside counsel | May 19, 2026 | Silence | — | Nothing sought |
 
-Eight venues, sixteen months. Every venue that answered answered with a jurisdiction.
-No venue named a holder or closed an entry.
+Eight venues, sixteen months. Every venue that answered, answered with a jurisdiction or
+a procedure (the NM OSHA contact returned no jurisdiction answer in writing). No venue
+named a holder or closed an entry.
 
 ## 4. What closes an entry, by seat
 
@@ -98,8 +102,11 @@ Until then the silence is entered as silence, with a date on it.
 
 ## 6. Cost account (kept apart — developed in [COST.md](COST.md))
 
-Two months of unpermitted work carried before the correction. Two safety reports; income
-lost both times. Half the apprentice's lost wages paid from the reporter's own pocket.
+Roughly two months of work, on the giver's account, in a hoistway later restricted pending
+PRCS classification — its permit status during that period unanswered by the site. Two
+safety reports: the first cost income, as reported; the second stopped work for a period
+whose compensation is not established. Half the apprentice's lost wages paid from the
+reporter's own pocket, on his own account.
 Eight years in the trade ended May 14, 2025; homeless within a month (an illegal eviction,
 without notice); without a floor since. Whether the restriction period was compensated:
 not established — the employer's own phrase was "not 'lost work'." No figure carried, by

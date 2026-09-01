@@ -7,11 +7,22 @@ it says — never for what one hopes it says.*
 ## 1. Federal regulations
 
 - **10 CFR 851** (§§851.3, .20, .23, .45) — the operative worker safety and health rule on
-  DOE sites. §851.20(a)(10): DOE poster required. §851.20(b): worker rights, including
-  stop-work and hazard reporting without reprisal. §851.23 incorporates OSHA standards by
-  reference — the standard Kevin cited was right; the office was wrong.
-- **10 CFR 708** — DOE Contractor Employee Protection Program. §§708.5, .7, .14:
-  subcontractor employee coverage; **90-day** filing window. A regulation, not a statute.
+  DOE sites. §851.20(a)(10): DOE poster required (verified verbatim: "posting the
+  DOE-designated Worker Protection Poster in the workplace where it is accessible to all
+  workers"). §851.20(b): worker rights — refusal of imminent-danger work is **(b)(8)**,
+  stop-work is **(b)(9)**. §851.23 incorporates OSHA standards by reference — the standard
+  Kevin cited was right; the office was wrong.
+- **10 CFR 708** — DOE Contractor Employee Protection Program. §708.2: subcontractor
+  employees covered; §708.14: **90-day** filing window, tolled during internal grievance
+  pursuit, with late acceptance for good cause (§708.15); §708.36 remedies include
+  reinstatement, back pay, costs. A regulation, not a statute.
+- **41 U.S.C. §4712** — contractor and subcontractor employee whistleblower protection;
+  internal disclosure to a responsible management official counts; complaint to the agency
+  IG within **three years** of the reprisal (§4712(b)(4)); §4712(c)(7) voids waivers of
+  its rights.
+- **42 U.S.C. §5851** (ERA §211) — covers a DOE contractor or subcontractor **only where
+  indemnified under Price-Anderson** (§5851(a)(2)(D)); **180-day** window (§5851(b)(1)).
+  Kone's indemnification status is not established.
 - **29 CFR 1910.146** — permit-required confined spaces (the Feb 25 restriction's citation).
 - **29 CFR 1977.12** — good-faith refusal of unsafe work; recognized inside NEBA Art.
   XXVIII Par. 4. OSHA 11(c) itself carries a **30-day** window and no administrative penalty.
@@ -37,7 +48,8 @@ it says — never for what one hopes it says.*
 - **EHSS variance**, signed Dec 23, 2025, approved Jan 5, 2026 — covers Office of Nuclear
   Energy reactor-pilot contractors. **Not Sandia/NNSA.** Directional relevance only.
 - **NPRM**, "Worker Safety and Health Requirements To Support Reform of Nuclear Reactor
-  Testing," published Jan 21, 2026 (91 FR 2498); comments closed Feb 20, 2026.
+  Testing," published Jan 21, 2026 (91 FR 2498); comments closed Feb 20, 2026 (an AFL-CIO
+  extension to Mar 23, 2026 appears in the working record — unverified here).
 - **DOE ECP Contact List**, July 2026 · **NNSA org chart**, Feb 9, 2026 — the seat sources.
 - **CDC hantavirus guidance** — particulate protection (P-100/HEPA), not chemical respirators.
 
@@ -48,7 +60,7 @@ Verified against the text:
 - **Art. XXVIII Par. 4(a)–(c)** — good-faith refusal recognized (29 CFR 1977.12); the
   refusing employee "shall retain the right to continued employment"; the Company "may
   assign the employee other tasks, when possible"; NLRA §7 named. **The refusal clause was
-  in the contract the whole time; no seat invoked it.**
+  in the contract the whole time; no document in the record shows any seat invoking it.**
 - **Art. XXVIII Par. 2(e)** — confidentiality of the national Labor-Management Safety
   Committee's **minutes**. Nothing else. Not a gag on worker reports.
 - **Art. XXVII Par. 4** — employer must advise, train, and equip for hazardous materials
@@ -67,11 +79,12 @@ NLRA §7, 10 CFR 708) are not prospectively waived by a CBA — *Alexander v. Ga
 are not relied on anywhere in this account.
 
 The trimtab self-audit (Aug 14, 2026) narrowed the viable statutory routes to: **41 U.S.C.
-§4712** (contractor whistleblower protection; §4712(c)(7)) with **FAR 52.203-19(c)**; and
-**ERA §211, 42 U.S.C. §5851(a)(2)(D)** where Price-Anderson indemnification applies (the
-Polizzi / Brown / Ruud ARB line — pin cites not yet independently verified). It also
-demoted OSHA §11(c) on its face: no private right of action (*George v. Aztec Rental*;
-*Taylor v. Brighton*). These are entered as verified-direction, cite-check-pending.
+§4712** (verified — see §1 above; the three-year window from the 2025 events has not run)
+with **FAR 52.203-19(c)**; and **ERA §211, 42 U.S.C. §5851(a)(2)(D)** where Price-Anderson
+indemnification applies (verified as to text and conditions; the Polizzi / Brown / Ruud
+ARB pin cites remain unverified). OSHA §11(c) is demoted on its face: no private right of
+action (*George v. Aztec Rental*, 763 F.2d 184 (5th Cir. 1985); *Taylor v. Brighton*, 616
+F.2d 256 (6th Cir. 1980) — both verified).
 
 ## 5. Primary exhibits (the record's own documents)
 
@@ -84,7 +97,7 @@ F · May 21, 2025 Statement of Gift and Waiver.
 G · NEBA Agreement 2022–2027.
 H · the Safety Documentation Template — its one legal sentence ("protected under OSHA
 Section 11(c)") is accurate off DOE sites; on a DOE site the parallel is 10 CFR
-851.20(b)(7) and the ECP, which no version carries. **That gap is the finding.**
+851.20(b)(8)–(9) and the ECP, which no version carries. **That gap is the finding.**
 I · OIG Hotline acknowledgments (Gmail).
 Plus: Governor emails as sent · EIWPF thread · NM OSHA thread · testimony (*But Did You
 Die*, first-person, signed — the only extant narrative of the pre-Sandia rerope incident

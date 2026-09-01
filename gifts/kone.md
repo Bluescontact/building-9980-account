@@ -5,9 +5,10 @@ Osterman (regional safety), Rogers, and Kone Management (recipient of the May 21
 
 **What is given.**
 
-1. **The Safety Documentation Template** — a perpetual, unconditional license, delivered
+1. **The Safety Documentation Template** — a perpetual license (one condition, the OSHA
+   11(c) sentence), delivered
    May 21, 2025 with the resignation packet. Its one legal sentence is accurate off DOE
-   sites; the DOE-site parallel (10 CFR 851.20(b)(7) + ECP) is the gap the record
+   sites; the DOE-site parallel (10 CFR 851.20(b)(8)–(9) + ECP) is the gap the record
    identifies — a two-line fix Kone can make and own.
 2. **The waiver.** All wage and delay claims waived in writing, May 21, 2025, before
    anything was published. Kone has nothing to defend; every question in this record can

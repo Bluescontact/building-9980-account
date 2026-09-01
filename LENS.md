@@ -15,10 +15,10 @@ a habit with four moves.*
 
 ## The patterns that survived every pass
 
-- **The claim shrinks toward what the documents hold.** Every adversarial pass removed a
-  word — *never, only, no one, confirms* — and replaced it with a bound: *in my record,
-  the only employer response, consistent with.* If a pass returns "the claim holds"
-  without removing a word, it didn't run.
+- **The claim shrinks toward what the documents hold.** Every adversarial pass so far has
+  removed a word — *never, only, no one, confirms* — and replaced it with a bound: *in my
+  record, the only employer response, consistent with.* A pass may legitimately confirm a
+  claim; the test is that it went looking for the word to remove.
 - **Response is not disposition.** A seat that answers has moved an entry, not closed it.
   A jurisdiction answer becomes a disposition only when it names the seat whose it is.
 - **Routed without a decision, not wrongly routed.** The finding is the absence of the
@@ -57,8 +57,10 @@ have decided without a question attached; it protected no worker.
 The decision-holder register · the gift-accounting ledger (with the discounted table as
 its distinguishing organ) · the Disclosure and Account · the single email · the FOIA /
 ECP / OIG-supplement triad · the routing-slip deposit form · the session bridge · Three
-Ledgers, One Method (the general instrument, with one closed proof: the Studio and the
-Institute, closed Aug 10, 2026 by an officer's written decision).
+Ledgers, One Method (the general instrument, with one closed entry as the form's proof:
+the Studio and the Institute, closed Aug 10, 2026 by an officer's written decision —
+against the giver's accounting. The method counts a decision against the giver as a
+closure, which is what distinguishes it from advocacy).
 
 ## Twelve mechanisms that hold without the law they were wrapped in
 

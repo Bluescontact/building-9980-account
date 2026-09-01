@@ -18,19 +18,21 @@ name-gate; role only).
    Art. XXVII Par. 4: your employer must advise, train, and equip you for hazardous
    materials. Ask for both by number.
 3. **The template** (Exhibit H) — with the DOE-site correction this record identified:
-   add the 851.20(b)(7)/ECP citation before using it on a DOE site.
+   add the 851.20(b)(8)–(9)/ECP citation before using it on a DOE site.
 4. **The method** (LENS): enter what leaves your hands, dated; enter what the seat does,
    in its own words; a figure is a handle; response is not disposition.
-5. **The testimony** (*But Did You Die*): what the bench costs, what "I don't feel safe"
-   is engineered to extract, and the sentence that survives instead: *ask for minimum
-   legal compliance, in writing, by citation.*
+5. **The testimony** (*But Did You Die*): what the bench costs, how a meeting works when
+   every participant takes a turn trying to get you to say "I don't feel safe on this
+   job," and what survived it — in the author's own words, "I asked for minimum legal
+   compliance." Put that in writing, by citation.
 
 **What it serves.** This is the entry the whole account exists to close. Kevin's silence
 protected decisions; it protected no worker. The next mechanic who cites the right
 authority on day one is the account's only success condition that no seat controls.
 
-**What closes the entry.** It doesn't close. It compounds: each worker who receives the
-route before the hazard is a closed instance.
+**What closes the entry.** This entry sits outside the ledger's five states by design:
+it doesn't close, it compounds — each worker who receives the route before the hazard is
+a closed instance.
 
 **The falsifier.** A DOE-site orientation, poster, or steward's handout that already
 transmits all of §1 — if that exists somewhere, this gift is redundant there, which is
