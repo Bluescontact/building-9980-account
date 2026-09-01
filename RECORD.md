@@ -96,10 +96,11 @@ Until then the silence is entered as silence, with a date on it.
 5. The IUEC operational-change claim (*Significance of the Closure*): source it or it stays struck.
 6. Published emails for seven federal seats; a mailing address for the FOIA.
 
-## 6. Cost account (kept apart)
+## 6. Cost account (kept apart — developed in [COST.md](COST.md))
 
-Duration: hoistway work restricted from Feb 25, 2025 for a period not exhibited. Wages: no
-figure, by decision. Whether compensated: not established. Who carried the stop: the worker,
-on the employer's own definition ("not 'lost work'"). Beyond the stop: eight years in the
-trade ended May 14, 2025; the labor of keeping this book. Stated so the account is complete;
-not transferred.
+Two months of unpermitted work carried before the correction. Two safety reports; income
+lost both times. Half the apprentice's lost wages paid from the reporter's own pocket.
+Eight years in the trade ended May 14, 2025; homeless within a month (an illegal eviction,
+without notice); without a floor since. Whether the restriction period was compensated:
+not established — the employer's own phrase was "not 'lost work'." No figure carried, by
+decision. Stated so the account is complete; not transferred.
