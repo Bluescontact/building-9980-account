@@ -65,6 +65,11 @@ questions, asked in writing on Aug 31, stand open as the entry's residue. (The A
 map's "1 disposed" matched the sibling ledger's Aug 10, 2026 closure; as of Sep 1 this
 account has its own.)
 
+Read the two columns of the ledger against each other and the balance is one sentence:
+what the entries *reported* was acted on — the hazards addressed, the site complying —
+and what the entries *asked* was never answered. Acted on; never accounted for. Every
+state in this table is an instance of that pair.
+
 Not yet reached (no published email; postal/web route needed) — six oversight seats:
 NNSA Sandia Field Office Manager · DOE Enterprise Assessments (Dupuy; Olah) · NNSA ES&H
 (Al-Daouk) · NNSA Administrator (Williams) · EHSS (Martin). FOIA not yet filed (draft to

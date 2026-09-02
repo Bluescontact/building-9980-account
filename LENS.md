@@ -15,6 +15,14 @@ a habit with four moves.*
 
 ## The patterns that survived every pass
 
+- **Acted on is not accounted for.** A system can address every hazard a report names and
+  still never answer to the person who reported it. The two are different channels, and
+  only the first is checked anywhere. Every other pattern below is a face of this one:
+  response-is-not-disposition is its per-entry form; the-route-existed is the missing
+  accounting channel; the cost default is what goes unassigned when action happens
+  without accounting. (Named Sep 2, 2026 — the record's clearest simplification, found
+  on the third pass.)
+
 - **The claim shrinks toward what the documents hold.** Every adversarial pass so far has
   removed a word — *never, only, no one, confirms* — and replaced it with a bound: *in my
   record, the only employer response, consistent with.* A pass may legitimately confirm a

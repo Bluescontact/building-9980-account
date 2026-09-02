@@ -3,8 +3,18 @@
 **Kevin Mears · Building 9980, Sandia National Laboratories · Version 2 · restated
 September 1, 2026, the day the first disposition arrived**
 
-Fifteen entries, sixteen months, one disposed — a written closure that states no date,
-no basis, and no referral. That is the whole of this repository; the rest is verification.
+**Everything he reported was acted on. Nothing he reported was ever accounted for.**
+
+Both safety reports produced action: the hazard was addressed, the site complied, the
+correction was made. The hazard-control machine worked — on the work. But every question
+about the reports themselves — who held them, what they concluded, who paid for them,
+whether the promised hours were paid, what the closure's basis was — has been asked, in
+writing, of eight venues over sixteen months, and not one has ever been answered. The
+one disposition ever received says, in full: closed, "no other information can be
+provided." A system that acts on reports and does not answer to the people who make
+them. That is the whole of this repository; the rest is verification — fifteen entries,
+one disposed, the falsifier standing: any seat's substantive written answer to any
+question in the ledger breaks the claim, and will be entered the day it arrives.
 
 *Terms: a **seat** is a role that held a decision, not a person; an **entry** is something
 that left the giver's hands, dated; a **disposition** is a seat closing an entry in
@@ -16,7 +26,12 @@ the public record, and the Agreement text. What did not survive was collapsed ag
 documents that broke it and does not enter this account; the corrected version supersedes
 every prior filing in place.
 
-## The finding
+## The finding, in full
+
+The two findings below are the two faces of the sentence above: the cost finding is what
+goes unassigned when action happens without accounting, and the route finding is that the
+accounting channel — the Employee Concerns Program — is the part that was never
+transmitted. The acting channel worked.
 
 A subcontractor's elevator mechanic on a DOE site worked a hoistway that was later
 restricted pending permit-required confined space classification — whether it was
