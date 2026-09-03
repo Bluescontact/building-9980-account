@@ -15,5 +15,5 @@ waiver of May 21, 2025 came first. Nothing here is sent or filed without Kevin's
 - [The site — NTESS / Sandia and the general contractor](site-ntess.md)
 - [The next worker](next-worker.md)
 
-The documents themselves — the May 2025 gift packet as sent to Kone and Local 131, and
-the two Recognition Infrastructure guides — are in [documents/](documents/README.md).
+The documents themselves — the May 2025 gift packet addressed to Kone and Local 131 —
+are in [documents/](documents/README.md).

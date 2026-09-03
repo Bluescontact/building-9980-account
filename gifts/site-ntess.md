@@ -1,9 +1,8 @@
 # Gift — the site (NTESS / Sandia) and the general contractor
 
 **Who.** NTESS ECP (Ethicsteam@sandia.gov — reached twice Aug 29, 2026); the site staff on
-the record (Johnson, 04623 IH; Oetzel, 04121 CM); the GC layer — **B&D Industries, or
-Botone/Act2** (Kevin, Sep 1, 2026; Hidalgo as superintendent) — document the entity of
-record before public naming.
+the record (Johnson, 04623 IH; Oetzel, 04121 CM); the GC layer — **entity of record
+under verification** (open item H9); no entity or person is named until it is documented.
 
 **Scope note.** The May 21, 2025 waiver extends to the union and the employer only. It
 does not reach the general contractor, the site, or DOE. This account still asserts no
@@ -35,4 +34,4 @@ ECP referral) to the subcontractor's crew. Producing it collapses the finding.
 
 **State.** NTESS ECP: notice (PDF attachment inferred from message size, unverified) and
 omnibus DELIVERED Aug 29, 2026. GC seats: held
-until B&D/Botone resolves (open item H9).
+until the entity of record resolves (open item H9).

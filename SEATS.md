@@ -36,7 +36,7 @@ date, and where is that recorded. No row characterizes intent.*
 | GM AZ/NM/El Paso, Kone | Brad Smith | D | What did the "whose permit are we on" custody review conclude, and where is that recorded? |
 | Regional Safety Director, Kone | Jacob Osterman (spelling per the Feb 28 cc line; "Ollerman" in one brief) | D | What written record exists of Kone's review of the Jan 23 refusal? |
 | Kone manager, cc | Mark Rogers | D | — |
-| Site Superintendent, general contractor | *name held to role* — the superintendent appears only in the giver's own OIG narrative; the Smith email names B&D, not a person, so the naming gate holds the name back. **The superintendent quit roughly two weeks before the giver's May 14, 2025 resignation** (~end of April 2025; the giver's statement, Sep 1, 2026) — the seat held during the Jan–Mar events had turned over before the resignation packet was delivered | OIG narrative (role); Smith email ("B&D to provide and post" — permit fact only); giver's statement (departure) | On what date was a PRCS entry permit posted for the 9980 hoistway, and what air-monitoring record accompanied it — and which superintendent, the departed one or a successor, holds the answer? GC identification: **B&D Industries, or Botone/Act2** (source: the author's own statement, Sep 1, 2026 — "Act2" appears nowhere else in the record) — document the entity of record before public naming |
+| Site Superintendent, general contractor | *name held to role* — the superintendent appears only in the giver's own OIG narrative; the Smith email names B&D, not a person, so the naming gate holds the name back. **The superintendent quit roughly two weeks before the giver's May 14, 2025 resignation** (~end of April 2025; the giver's statement, Sep 1, 2026) — the seat held during the Jan–Mar events had turned over before the resignation packet was delivered | OIG narrative (role); Smith email ("B&D to provide and post" — permit fact only); giver's statement (departure) | On what date was a PRCS entry permit posted for the 9980 hoistway, and what air-monitoring record accompanied it — and which superintendent, the departed one or a successor, holds the answer? GC identification: **entity of record under verification** (open item H9) — candidate names rest on the author's own statement alone and are held back until a document carries the entity of record |
 | OHST / Industrial Hygienist, Sandia 04623 | Benjamin H. Johnson | OIG narrative | What was the hoistway's classification before Feb 25, and what triggered reclassification? |
 | Construction Manager, Sandia 04121 | Jamie Oetzel | OIG narrative | On receiving a subcontractor worker's stop-work citing OSHA, did the site correct the authority to 10 CFR 851 and route the report to the ECP? |
 | Local 131 Leadership | `[GAP]` names | E | Was the May 14 packet entered into the Local's minutes or records? |
@@ -45,8 +45,9 @@ date, and where is that recorded. No row characterizes intent.*
 
 ## Held out (not decision holders)
 
-- **Brandon Scott** — affected worker (apprentice; lost wages through association). Private
-  individual; role-only, or with his consent. Nothing about his family circumstances.
+- **The apprentice** — affected worker (lost wages through association). Private
+  individual; name held by the gate, role-only, unless and until he consents in writing.
+  Nothing about his family circumstances.
 - **Carissa Barrett** — EIWPF, channel; said in writing EIWPF is separate from the IUEC
   and holds no policy role.
 
