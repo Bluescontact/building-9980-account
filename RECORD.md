@@ -138,9 +138,14 @@ date on it.
    (addressed in the Sep 3 supplement): confirm from a dated public document. Evidence
    as of Sep 3, 2026 leans Christensen: the AFL-CIO's June 2025 affiliate profile lists
    Frank Christensen as General President, and EIWPF's own announcement lists Jim
-   Chapman III as Assistant General President (appointed Jan 2024). If that holds, the
-   Sep 3 supplement is addressed to the wrong titleholder — enter the correction in the
-   record, not confessed, and restate to the right seat.
+   Chapman III as Assistant General President (appointed Jan 2024). Further verified
+   Sep 3, 2026: Christensen delivered the keynote at the IUEC 2026 Global Safety Summit
+   as General President. **Resolved on the available documents: the Sep 3 supplement is
+   addressed to the wrong titleholder** (Chapman holds the Assistant GP seat). The
+   correction enters the record, not confessed: a restatement to the office of General
+   President Christensen is the giver's to send, on his mark; the complaint and
+   supplement were in any case delivered to the office's address (arichards@iuec.org),
+   so the seat holds them regardless of the salutation.
 9. The 2026 §851 rulemaking docket — public and checkable: does it hold any account of
    a worker at a DOE site describing how §851 reporting functioned in practice?
 10. Pinpoint verification: DOE O 221.1B ¶5.a(7)(b) (the OIG referral duty) and
