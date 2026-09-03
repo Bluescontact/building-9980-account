@@ -32,6 +32,13 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Aug 29, 2026, 22:13 UTC | Omnibus **DELIVERED** to eleven addresses (NNSA ECP, OIG Hotline, NTESS ECP, Kone, IUEC, Local 131 + cc's) — **with the wrong attachment** (an earlier HTML, not the named PDF); reply-all correction staged | Gmail Sent — **IN HAND** |
 | Aug 31, 2026 | OIG Hotline wrote offering a phone call for Sep 1. Kevin replied in writing: no interest in settlement, restitution, or reinstatement; asked that the disposition come in writing — (1) add the attachment to 25-0737-C, (2) the date and basis of closure, (3) whether the safety allegation was referred under DOE O 221.1B ¶5.a(7)(b). He then forwarded the exchange to all eleven addresses | Gmail — **IN HAND** |
 | Sep 1, 2026 | OIG in writing: "Your complaint 25-0737-C has been closed. No other information can be provided by our office," with a FOIA pointer. None of the three questions answered | Gmail — **IN HAND** |
+| Sep 2, 2026, 10:14 AM MDT | First written reply from the Local's address since Jan 22, 2025, to Kevin alone, unsigned, header name "L. Oscar Duran": "not relevant to anything I am working on"; "deleting any email I get from you"; concerns "were addressed by Kone and Sandia Labs"; the only email it will read is one with "Return to the IUEC" in the subject line | Gmail — **IN HAND** |
+| Sep 2, 2026, 17:42 UTC | The Local's reply forwarded to the General President's office in full and unedited, without comment, with a stated commitment to send nothing further to the Local's address | Gmail Sent — **IN HAND** |
+| Sep 2, 2026, 18:23 UTC | Complaint to the General President regarding the conduct of the Local 131 Business Representative seat, Jan 2025 – Sep 2026: five items, four questions (a)–(d); no personal relief sought; copy to the Local's address | Gmail Sent — **IN HAND** |
+| Sep 3, 2026, 8:52 AM MDT | Notice to the members of Local 131, on the Local's own Dec 5, 2024 distribution: admission of the giver's own failure, while a member, to prefer charges in writing under Art. XVIII §2; reachable as a withdrawn member under Art. XV(B) §1; request that charges be brought against both; Statement of facts attached. The notice also went to the Local's address — a breach of the Sep 2 commitment, stated as such in the Sep 3 supplement, no reason offered | Gmail Sent — **IN HAND** |
+| Sep 3, 2026, 9:24 / 9:35 AM MDT | Two replies from the Local's address, to Kevin alone: "What Union business did I revel to you?"; then statements on his mental state ("crazy," "fantasy land," "the guy is out-there"), "Posting something on the internet is not a public record," "You have no say in this Union" | Gmail — **IN HAND** |
+| Sep 3, 2026, 9:52 AM MDT | Third reply, from marvin5908@att.net on the same thread beneath the Local's signature block: charge status before the body ("no one has stepped forward to file charges"); what "mechanics… informed the body" (boards, work quality); the assertion that the giver "admitted buying the mechanics test online" (denied); "I am stating this as an American citizen with free will"; "Keep running your mouth and I will keep insulting you" | Gmail — **IN HAND** |
+| Sep 3, 2026, 16:59 UTC | Supplement to the General President: the three communications quoted verbatim and set beside Art. XIII §4 (the oath), Art. XVIII §1(12), and Art. XVIII §2; asks that they be entered with the Statement of facts as a supplement to Charge 5, that an officer prefer the resulting charge under §2 for hearing by the GEB under §9, and that further Local communication be limited to Art. XVIII §4 notices from an officer other than the accused | Gmail Sent — **IN HAND** |
 
 ## 2. Gift ledger — entries and states
 
@@ -55,10 +62,14 @@ the seat whose it is.
 | 12 | May 19, 2026 | Closure: no claim, no engagement | IUEC outside counsel | — | **DELIVERED** — silence since May 19, 2026 |
 | 13 | Aug 29, 2026 | Disclosure and Account, Version 1: published; NTESS notice (22:01Z; size consistent with the PDF, not independently verified); omnibus to eleven addresses (22:13Z, attachment mismatch — correction staged) | NNSA ECP · DOE OIG Hotline · NTESS ECP · Kone · IUEC GP office · Local 131 | Aug 31: OIG wrote offering a phone call | **RESPONDED** (one seat of eleven); silence from the rest dated from Aug 29, 2026 |
 | 14 | Aug 31, 2026 | Written reply to the OIG: no settlement, restitution, or reinstatement sought; three questions asked as the written disposition (attachment added to 25-0737-C; date and basis of closure; 221.1B ¶5.a(7)(b) referral) | DOE OIG Hotline | Sep 1: closure restated in writing; none of the three questions answered | **RESPONDED** — the questions open |
-| 15 | Aug 31, 2026 | The OIG exchange forwarded to all eleven addresses | All seats on the omnibus | — | **DELIVERED** |
+| 15 | Aug 31, 2026 | The OIG exchange forwarded to all eleven addresses | All seats on the omnibus | Sep 2: the Local's address replied to Kevin alone — first words from that seat since Jan 22, 2025 (quoted in the timeline; entered in full in the Sep 2 complaint) | **RESPONDED** (the Local seat only) |
+| 16 | Sep 2, 2026 | The Local's Sep 2 reply, forwarded in full and unedited, without comment | IUEC General President's office | — | **DELIVERED** |
+| 17 | Sep 2, 2026 | Complaint regarding the conduct of the BR seat: five items, questions (a)–(d); no personal relief; every wage/delay claim already waived May 21, 2025 | IUEC General President's office (copy to the Local's address) | — | **DELIVERED** — silence since Sep 2, 2026 |
+| 18 | Sep 3, 2026 | Notice to the members: the giver's own Art. XVIII §2 admission; Statement of facts; request that charges be brought against both the BR and the giver | Members of Local 131 (the Local's own Dec 5, 2024 distribution); the Local's address (breach of the Sep 2 commitment, stated) | Three replies the same morning from the BR — two from the Local's address, one from a personal address on the Local's thread; no member has replied | **RESPONDED** (by the accused seat; the members silent since Sep 3, 2026) |
+| 19 | Sep 3, 2026 | Supplement: the three communications verbatim, set beside Art. XIII §4 and Art. XVIII §1(12) and §2; two requests (entry with Charge 5 and a §2 preferral for GEB hearing under §9; channel restriction to §4 notices from an officer other than the accused) | IUEC General President's office | — | **DELIVERED** — silence since Sep 3, 2026 |
 
-**Balance.** Fifteen entries. Five responded in writing, one received by act, one referred,
-six delivered into silence, one misaddressed — and **one disposed**: entry 8, closed in
+**Balance.** Nineteen entries. Seven responded in writing, one received by act, one referred,
+eight delivered into silence, one misaddressed — and **one disposed**: entry 8, closed in
 writing on September 1, 2026, under complaint number 25-0737-C, by the seat that held it.
 The disposition states no date of closure, no basis, and no referral; those three
 questions, asked in writing on Aug 31, stand open as the entry's residue. (The Aug 29
@@ -87,8 +98,10 @@ foiofficer@nnsa.doe.gov stays).
 | EIWPF / IUEC | Dec 30, 2025 | Forward; "nothing to do with policy" | — | A forward; silence |
 | NM OSHA | Jan 16, 2026 | Contact; no follow-up | **none opened** | Nothing |
 | IUEC outside counsel | May 19, 2026 | Silence | — | Nothing sought |
+| Local 131 (address) | Aug 29 – Sep 3, 2026 | Sep 2: "not relevant… deleting any email I get from you"; Sep 3: three further replies from the BR, ending "Keep running your mouth and I will keep insulting you" | — | The seat's written position: this is a pay complaint; the address closed except to a return-to-membership request |
+| IUEC General President's office | Sep 2–3, 2026 | Silence as of Sep 3, 2026 | — | Complaint and supplement pending; four questions (a)–(d) plus two requests open |
 
-Eight venues, sixteen months. Every venue that answered, answered with a jurisdiction or
+Nine venues, sixteen months. Every venue that answered, answered with a jurisdiction or
 a procedure (the NM OSHA contact returned no jurisdiction answer in writing). Through
 August 31, 2026, no venue had named a holder or closed an entry. On September 1, 2026 —
 the third day after the account was published and forwarded — the OIG closed 25-0737-C in
@@ -100,7 +113,10 @@ A case number from the ECP (Sanchez / Castanon) · a FOIA response from the Fiel
 (Hauck) · **the OIG disposition — received Sep 1, 2026**; what remains of that line is
 the date and basis of the 25-0737-C closure and a referral record under DOE O 221.1B
 ¶5.a(7)(b) (Nelson) · a verification of the 2022 corrections at SNL-NM (Dupuy / Olah /
-Martin) · a line from the International (Christensen) · a sentence about the template
+Martin) · a written answer from the International to the Sep 2 complaint's questions
+(a)–(d) and the Sep 3 supplement's two requests (Chapman; the earlier rows carried
+Christensen — the Sep 3 supplement is addressed to General President James Chapman III) ·
+a sentence about the template
 (Kone Management). Each is entered the day it arrives, and the account is restated — as
 this one was on September 1, 2026. Until then the silence is entered as silence, with a
 date on it.
@@ -116,6 +132,10 @@ date on it.
 4. Archived copy of the Nov 4, 2025 post.
 5. The IUEC operational-change claim (*Significance of the Closure*): source it or it stays struck.
 6. Published emails for seven federal seats; a mailing address for the FOIA.
+7. The three Sep 3, 2026 messages preserved as .eml exports (named as attachments to the
+   supplement; the exports themselves to be filed with the exhibits).
+8. The General President's name of record — Christensen (earlier rows) vs. Chapman
+   (addressed in the Sep 3 supplement): confirm from a dated public document.
 
 ## 6. Cost account (kept apart — developed in [COST.md](COST.md))
 

@@ -25,13 +25,13 @@ date, and where is that recorded. No row characterizes intent.*
 | Assoc. Administrator ES&H, NNSA | Ahmad Al-Daouk | org chart | **not reached** |
 | Administrator, NNSA | Brandon Williams | org chart; §851.45 signatory | **not reached** |
 | Acting Director, EHSS | Stephanie K. Martin | EHSS chart, Apr 2026 | **not reached** |
-| General President, IUEC | Frank J. Christensen | iuec.org | via referral (Dec 30, 2025) and omnibus (arichards@iuec.org) |
+| General President, IUEC | Frank J. Christensen (earlier rows); the Sep 3, 2026 supplement is addressed to James Chapman III — name of record to be confirmed from a dated public document (RECORD open item 8) | iuec.org | via referral (Dec 30, 2025) and omnibus (arichards@iuec.org); Sep 2, 2026 complaint on the BR seat's conduct; Sep 3, 2026 supplement — silence as of Sep 3, 2026 |
 
 ## Evidentiary (received or acted on the events; named from the giver's own exhibits)
 
 | Seat | Person | Exhibit | The question held |
 |---|---|---|---|
-| BR / Financial Secretary, Local 131 | Marvin L. Regensberg | A | On what basis did the Local advise a member not to document a safety refusal, and does that reflect Local policy, International guidance, or Article XXVIII (whose Par. 4 recognizes the refusal)? |
+| BR / Financial Secretary, Local 131 | Marvin L. Regensberg | A; Gmail Sep 2–3, 2026 (four written replies — quoted verbatim in the Sep 2 complaint and Sep 3 supplement, both **IN HAND**) | On what basis did the Local advise a member not to document a safety refusal, and does that reflect Local policy, International guidance, or Article XXVIII (whose Par. 4 recognizes the refusal)? The question is now before the General President's office (Sep 2 complaint; Sep 3 supplement under Art. XVIII §1(12), Art. XIII §4) |
 | Operations Manager, Kone | Joshua Ferdinandus | C, D | Was the Jan 23 written refusal answered in writing, and by whom? |
 | GM AZ/NM/El Paso, Kone | Brad Smith | D | What did the "whose permit are we on" custody review conclude, and where is that recorded? |
 | Regional Safety Director, Kone | Jacob Osterman (spelling per the Feb 28 cc line; "Ollerman" in one brief) | D | What written record exists of Kone's review of the Jan 23 refusal? |
