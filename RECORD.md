@@ -132,8 +132,10 @@ date on it.
 4. Archived copy of the Nov 4, 2025 post.
 5. The IUEC operational-change claim (*Significance of the Closure*): source it or it stays struck.
 6. Published emails for seven federal seats; a mailing address for the FOIA.
-7. The three Sep 3, 2026 messages preserved as .eml exports (named as attachments to the
-   supplement; the exports themselves to be filed with the exhibits).
+7. ~~The three Sep 3, 2026 messages preserved as .eml exports~~ **Closed Sep 3, 2026:**
+   all four messages of the exchange exported from Gmail as raw MIME; unredacted
+   originals held byte-for-byte by the giver (hashes in charges/README.md); redacted
+   copies (member addresses only) published at charges/eml-redacted/.
 8. The General President's name of record — Christensen (earlier rows) vs. Chapman
    (addressed in the Sep 3 supplement): confirm from a dated public document. Evidence
    as of Sep 3, 2026 leans Christensen: the AFL-CIO's June 2025 affiliate profile lists
