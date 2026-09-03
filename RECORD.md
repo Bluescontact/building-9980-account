@@ -135,7 +135,17 @@ date on it.
 7. The three Sep 3, 2026 messages preserved as .eml exports (named as attachments to the
    supplement; the exports themselves to be filed with the exhibits).
 8. The General President's name of record — Christensen (earlier rows) vs. Chapman
-   (addressed in the Sep 3 supplement): confirm from a dated public document.
+   (addressed in the Sep 3 supplement): confirm from a dated public document. Evidence
+   as of Sep 3, 2026 leans Christensen: the AFL-CIO's June 2025 affiliate profile lists
+   Frank Christensen as General President, and EIWPF's own announcement lists Jim
+   Chapman III as Assistant General President (appointed Jan 2024). If that holds, the
+   Sep 3 supplement is addressed to the wrong titleholder — enter the correction in the
+   record, not confessed, and restate to the right seat.
+9. The 2026 §851 rulemaking docket — public and checkable: does it hold any account of
+   a worker at a DOE site describing how §851 reporting functioned in practice?
+10. Pinpoint verification: DOE O 221.1B ¶5.a(7)(b) (the OIG referral duty) and
+    10 CFR 851.20(b)(8)–(9) — both cited in the account at pinpoint level; the orders
+    are right, the paragraph numbers not yet independently verified.
 
 ## 6. Cost account (kept apart — developed in [COST.md](COST.md))
 

@@ -1,8 +1,10 @@
 # Gift — the IUEC International
 
-**Who.** The General President's office (Christensen; referred Dec 30, 2025 — "I will make
-sure Frank sees this"), arichards@iuec.org, and outside counsel (O'Donoghue & O'Donoghue,
-closure delivered May 19, 2026).
+**Who.** The General President's office (Christensen in the earlier rows; the Sep 3, 2026
+supplement is addressed to James Chapman III — name of record under verification, RECORD
+open item 8; referred Dec 30, 2025 — "I will make sure Frank sees this"),
+arichards@iuec.org, and outside counsel (O'Donoghue & O'Donoghue, closure delivered
+May 19, 2026).
 
 **What is given.** The corrected reading of the International's own contract — the one the
 library's earlier spine got wrong and the correction makes *stronger for the union*:
@@ -36,4 +38,12 @@ issued to members. If the "operational adoption of federal preemption" claim in
 *Significance of the Closure* has a source, it is that document — and it closes this entry
 in the union's favor.
 
-**State.** REFERRED Dec 30, 2025; omnibus DELIVERED Aug 29, 2026; silence dated from each.
+**State.** REFERRED Dec 30, 2025; omnibus DELIVERED Aug 29, 2026. Since then this seat
+holds three further deliveries (RECORD entries 16, 17, 19): the Local's Sep 2 reply
+forwarded; the Sep 2 complaint on the BR seat's conduct (questions (a)–(d)); the Sep 3
+supplement (two requests). Those are the charges arc, not this gift — but the seat now
+holds both, and the gift's question rides with them. Silence dated from each delivery.
+The former-member point cuts both ways and the record says so: the International owes a
+withdrawn member no duty of fair representation, no hearing, and no answer — whatever
+it does with what it holds is a free decision, which is exactly what makes a written
+answer worth entering.
