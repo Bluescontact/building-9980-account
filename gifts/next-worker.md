@@ -27,13 +27,24 @@ name-gate; role only).
    job," and what survived it — in the author's own words, "I asked for minimum legal
    compliance." Put that in writing, by citation.
 
-**What it serves.** This is the entry the whole account exists to close. Kevin's silence
-protected decisions; it protected no worker. The next mechanic who cites the right
-authority on day one is the account's only success condition that no seat controls.
+**What it serves.** This is the entry the whole account exists to close (on what the
+giver's silence protected, see LENS, the weapon distinction). The next mechanic who
+cites the right authority on day one is the account's only success condition that no
+seat controls. **The arming condition, stated plainly:** the route protects only the
+pre-armed. The 708 clock is 90 days, the 11(c) clock is 30; a worker who receives this
+map after the hazard has often already lost the window (on this site's own contractor,
+a 708 complaint was dismissed as untimely by the ECP manager, and OHA later remanded in
+part on whether good cause was ever heard — OHA WBU-17-0006). And the route existing is
+not the route functioning: the ECP manager at Savannah River was herself fired for
+cooperating with auditors and took roughly two years to be reinstated with back pay —
+her own 708 filing (OHA WBA-15-0009) was dismissed on jurisdiction; the reinstatement
+came through DOE's later process. Those are the corruption cases, named. The gift transmits the route
+before day one because that is the only point at which the record shows it working.
 
-**What closes the entry.** This entry sits outside the ledger's five states by design:
-it doesn't close, it compounds — each worker who receives the route before the hazard is
-a closed instance.
+**What closes the entry.** This entry sits outside the ledger's five states by design —
+the arc's one open exemption (named in the README): it doesn't close, it compounds.
+Each worker who receives the route before the hazard is a closed instance, and the
+countable form of closure is a named handout adopted at a named site.
 
 **The falsifier.** A DOE-site orientation, poster, or steward's handout that already
 transmits all of §1 — if that exists somewhere, this gift is redundant there, which is
