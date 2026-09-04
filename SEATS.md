@@ -25,7 +25,7 @@ date, and where is that recorded. No row characterizes intent.*
 | Assoc. Administrator ES&H, NNSA | Ahmad Al-Daouk | org chart | **not reached** |
 | Administrator, NNSA | Brandon Williams | org chart; §851.45 signatory | **not reached** |
 | Acting Director, EHSS | Stephanie K. Martin | EHSS chart, Apr 2026 | **not reached** |
-| General President, IUEC | Frank J. Christensen (earlier rows); the Sep 3, 2026 supplement is addressed to James Chapman III — name of record to be confirmed from a dated public document (RECORD open item 8) | iuec.org | via referral (Dec 30, 2025) and omnibus (arichards@iuec.org); Sep 2, 2026 complaint on the BR seat's conduct; Sep 3, 2026 supplement — silence as of Sep 3, 2026 |
+| General President, IUEC | James Chapman III — appointed at the 33rd General Convention, Aug 2026 (iuec.org leadership page, checked Sep 3, 2026); Frank J. Christensen held the seat for the earlier rows, through the Dec 30, 2025 referral (RECORD open item 8, closed Sep 3, 2026) | iuec.org | via referral (Dec 30, 2025) and omnibus (arichards@iuec.org); Sep 2, 2026 complaint on the BR seat's conduct; Sep 3, 2026 supplement — silence as of Sep 3, 2026 |
 
 ## Evidentiary (received or acted on the events; named from the giver's own exhibits)
 

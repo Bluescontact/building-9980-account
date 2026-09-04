@@ -1,8 +1,9 @@
 # Gift — the IUEC International
 
-**Who.** The General President's office (Christensen in the earlier rows; the Sep 3, 2026
-supplement is addressed to James Chapman III — name of record under verification, RECORD
-open item 8; referred Dec 30, 2025 — "I will make sure Frank sees this"),
+**Who.** The General President's office (James Chapman III since the 33rd General
+Convention, Aug 2026 — the Sep 3, 2026 supplement's addressee; Christensen held the seat
+for the earlier rows, RECORD open item 8, closed; referred Dec 30, 2025 — "I will make
+sure Frank sees this"),
 arichards@iuec.org, and outside counsel (O'Donoghue & O'Donoghue, closure delivered
 May 19, 2026).
 

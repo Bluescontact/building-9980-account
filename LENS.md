@@ -50,12 +50,14 @@ a habit with four moves.*
 - **Existence is not availability** if the price of finding a route exceeds the capacity
   of the one who needs it. (The ECP existed; the January 23 refusal cited OSHA.)
 
-## The weapon distinction (Kevin's decision, Aug 29, 2026)
+## The instrument distinction (Kevin's decision, Aug 29, 2026; renamed from "the weapon
+distinction" Sep 3, 2026 — the distinction is unchanged, the word gave a hostile reader
+a quote the record does not need)
 
-The uncalibrated weapon — the cascade, the exposure theories, the held leverage — stays in
-the ground: each depended on a claim that did not survive a document. The calibrated
-weapon is the account itself: a dated record against which every seat must either decide
-or be seen not to have decided. It cannot be aimed at a person; it can only be addressed
+The uncalibrated material — the cascade, the exposure theories, the held leverage — stays
+in the ground: each depended on a claim that did not survive a document. The calibrated
+instrument is the account itself: a dated record against which every seat must either
+decide or be seen not to have decided. It cannot be aimed at a person; it can only be addressed
 to a seat. Its calibration is the discount rule, the receipt rule, and the falsifier.
 Silence is re-entered as a cost, not a protection: it protected each seat's freedom to
 have decided without a question attached; it protected no worker.

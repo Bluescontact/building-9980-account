@@ -39,6 +39,7 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Sep 3, 2026, 9:24 / 9:35 AM MDT | Two replies from the Local's address, to Kevin alone: "What Union business did I revel to you?"; then statements on his mental state ("crazy," "fantasy land," "the guy is out-there"), "Posting something on the internet is not a public record," "You have no say in this Union" | Gmail — **IN HAND** |
 | Sep 3, 2026, 9:52 AM MDT | Third reply, from marvin5908@att.net on the same thread beneath the Local's signature block: charge status before the body ("no one has stepped forward to file charges"); what "mechanics… informed the body" (boards, work quality); the assertion that the giver "admitted buying the mechanics test online" (denied); "I am stating this as an American citizen with free will"; "Keep running your mouth and I will keep insulting you" | Gmail — **IN HAND** |
 | Sep 3, 2026, 16:59 UTC | Supplement to the General President: the three communications quoted verbatim and set beside Art. XIII §4 (the oath), Art. XVIII §1(12), and Art. XVIII §2; asks that they be entered with the Statement of facts as a supplement to Charge 5, that an officer prefer the resulting charge under §2 for hearing by the GEB under §9, and that further Local communication be limited to Art. XVIII §4 notices from an officer other than the accused | Gmail Sent — **IN HAND** |
+| Sep 3, 2026, 17:10 UTC | Follow-up on the supplement thread to the General President's office: the full exchange attached, with notice that it has been entered in the public repository | Gmail Sent — **IN HAND** |
 
 ## 2. Gift ledger — entries and states
 
@@ -114,8 +115,8 @@ A case number from the ECP (Sanchez / Castanon) · a FOIA response from the Fiel
 the date and basis of the 25-0737-C closure and a referral record under DOE O 221.1B
 ¶5.a(7)(b) (Nelson) · a verification of the 2022 corrections at SNL-NM (Dupuy / Olah /
 Martin) · a written answer from the International to the Sep 2 complaint's questions
-(a)–(d) and the Sep 3 supplement's two requests (Chapman; the earlier rows carried
-Christensen — the Sep 3 supplement is addressed to General President James Chapman III) ·
+(a)–(d) and the Sep 3 supplement's two requests (General President James Chapman III,
+seated Aug 2026; Christensen held the seat for the earlier rows — see open item 8, closed) ·
 a sentence about the template
 (Kone Management). Each is entered the day it arrives, and the account is restated — as
 this one was on September 1, 2026. Until then the silence is entered as silence, with a
@@ -124,9 +125,18 @@ date on it.
 ## 5. Open items — the giver's to close
 
 1. May 19, 2026 closure email — pull from Sent (the essay is not the exhibit).
+   **Searched Sep 3, 2026:** Gmail searches for the firm's name and domain, and for
+   Sent mail May 15–25, 2026 on closure terms, return nothing. If it went by web form,
+   postal mail, or another account, name the channel; otherwise the entry stays at the
+   giver's-report discount.
 1a. The Dec 29, 2025 OIG email confirming 25-0737-C opened and closed — referenced in the
-   omnibus but not located in Gmail on the Sep 1 pass; produce it or the reference stays
-   at quotation discount.
+   omnibus but not located in Gmail on the Sep 1 pass. **Searched again Sep 3, 2026:**
+   a full-mailbox search for "25-0737" returns nothing before Aug 29, 2026, and the only
+   OIG traffic Dec 20, 2025 – Jan 15, 2026 is the Dec 21–23 records-request thread and
+   automated acknowledgments (Dec 22, Dec 25). No Dec 29 email exists in this mailbox.
+   The reference stays at quotation discount; the date, the channel, or the recollection
+   itself may be wrong. The case number is independently established by the OIG's own
+   Sep 1, 2026 closure email.
 2. Feb 25, 2025 restriction — pull the sent email with headers and recipients.
 3. Governor routing — anything outside Gmail, or Entry 7 stays a recollection.
 4. Archived copy of the Nov 4, 2025 post.
@@ -136,18 +146,19 @@ date on it.
    all four messages of the exchange exported from Gmail as raw MIME; unredacted
    originals held byte-for-byte by the giver (hashes in charges/README.md); redacted
    copies (member addresses only) published at charges/eml-redacted/.
-8. The General President's name of record — Christensen (earlier rows) vs. Chapman
-   (addressed in the Sep 3 supplement): confirm from a dated public document. Evidence
-   as of Sep 3, 2026 leans Christensen: the AFL-CIO's June 2025 affiliate profile lists
-   Frank Christensen as General President, and EIWPF's own announcement lists Jim
-   Chapman III as Assistant General President (appointed Jan 2024). Further verified
-   Sep 3, 2026: Christensen delivered the keynote at the IUEC 2026 Global Safety Summit
-   as General President. **Resolved on the available documents: the Sep 3 supplement is
-   addressed to the wrong titleholder** (Chapman holds the Assistant GP seat). The
-   correction enters the record, not confessed: a restatement to the office of General
-   President Christensen is the giver's to send, on his mark; the complaint and
-   supplement were in any case delivered to the office's address (arichards@iuec.org),
-   so the seat holds them regardless of the salutation.
+8. **Closed Sep 3, 2026, corrected in place.** The General President's name of record:
+   the IUEC's own leadership page (iuec.org, checked Sep 3, 2026) states that James
+   Chapman III was appointed General President at the 33rd General Convention in
+   August 2026, having held Assistant General President since January 2024. The Sep 3
+   supplement was therefore addressed to the correct titleholder. An earlier resolution
+   in this item read the other way, on the AFL-CIO's June 2025 affiliate profile and a
+   2026 Safety Summit keynote — both true when made and both predating the August 2026
+   convention. That resolution was itself the stale entry, and it is superseded here,
+   not confessed. Rule entered from the failure: for a current officeholder, a current
+   first-party organizational source outranks older third-party or pre-transition
+   evidence, and every seat-identity row carries the date it was last checked.
+   Christensen held the seat for the earlier rows (through the Dec 30, 2025 referral);
+   Chapman holds it for the Sep 2–3, 2026 filings.
 9. The 2026 §851 rulemaking docket — public and checkable: does it hold any account of
    a worker at a DOE site describing how §851 reporting functioned in practice?
 10. Pinpoint verification: DOE O 221.1B ¶5.a(7)(b) (the OIG referral duty) and

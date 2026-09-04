@@ -14,7 +14,7 @@ not a gift; the two are kept apart.
 it was given before anything was published, and it stands whether or not any seat
 answers. The question belongs to the ledger, not the gift: a dated non-answer costs a
 seat only what any dated record costs. LENS calls the same object "the calibrated
-weapon"; both names are true, one per channel — the gift serves the acted-on channel,
+instrument"; both names are true, one per channel — the gift serves the acted-on channel,
 the record keeps the accounted-for channel. No seat is obliged to answer, and the
 DOE record shows seats of this kind answering only to claims — which this account has
 waived (GAO-16-618; the Hanford and Savannah River precedents). What the account
