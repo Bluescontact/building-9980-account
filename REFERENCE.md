@@ -25,7 +25,8 @@ it says — never for what one hopes it says.*
   Kone's indemnification status is not established.
 - **29 CFR 1910.146** — permit-required confined spaces (the Feb 25 restriction's citation).
 - **29 CFR 1977.12** — good-faith refusal of unsafe work; recognized inside NEBA Art.
-  XXVIII Par. 4. OSHA 11(c) itself carries a **30-day** window and no administrative penalty.
+  XXVIII Par. 4. OSHA 11(c) itself carries a **30-day** window and no private right of
+  action — enforcement is the Secretary's to pursue (see §4).
 - **OSHA Field Operations Manual, ch. 17** — DOE GOCO sites: OSHA does not enforce; DOE does.
 
 ## 2. DOE orders and public documents

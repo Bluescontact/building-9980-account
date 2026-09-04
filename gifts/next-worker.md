@@ -28,7 +28,7 @@ name-gate; role only).
    compliance." Put that in writing, by citation.
 
 **What it serves.** This is the entry the whole account exists to close (on what the
-giver's silence protected, see LENS, the weapon distinction). The next mechanic who
+giver's silence protected, see LENS, the instrument distinction). The next mechanic who
 cites the right authority on day one is the account's only success condition that no
 seat controls. **The arming condition, stated plainly:** the route protects only the
 pre-armed. The 708 clock is 90 days, the 11(c) clock is 30; a worker who receives this
