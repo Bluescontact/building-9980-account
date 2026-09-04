@@ -27,10 +27,10 @@ ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
         dara=google.com
 ARC-Authentication-Results: i=1; mx.google.com;
        dkim=pass header.i=@att.net header.s=s1024 header.b=BqgfupvN;
-       spf=pass (google.com: domain of marvin5908@att.net designates
- 66.163.189.86 as permitted sender) smtp.mailfrom=marvin5908@att.net;
+       spf=pass (google.com: domain of [personal-address-redacted] designates
+ 66.163.189.86 as permitted sender) smtp.mailfrom=[personal-address-redacted];
        dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=att.net
-Return-Path: <marvin5908@att.net>
+Return-Path: <[personal-address-redacted]>
 Received: from sonic306-24.consmr.mail.ne1.yahoo.com
  (sonic306-24.consmr.mail.ne1.yahoo.com. [66.163.189.86])
         by mx.google.com with ESMTPS id
@@ -38,12 +38,12 @@ Received: from sonic306-24.consmr.mail.ne1.yahoo.com
         for <kevin.mears@gmail.com>
         (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
         Thu, 03 Sep 2026 08:52:51 -0700 (PDT)
-Received-SPF: pass (google.com: domain of marvin5908@att.net designates
+Received-SPF: pass (google.com: domain of [personal-address-redacted] designates
  66.163.189.86 as permitted sender) client-ip=66.163.189.86;
 Authentication-Results: mx.google.com;
        dkim=pass header.i=@att.net header.s=s1024 header.b=BqgfupvN;
-       spf=pass (google.com: domain of marvin5908@att.net designates
- 66.163.189.86 as permitted sender) smtp.mailfrom=marvin5908@att.net;
+       spf=pass (google.com: domain of [personal-address-redacted] designates
+ 66.163.189.86 as permitted sender) smtp.mailfrom=[personal-address-redacted];
        dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=att.net
 DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=att.net; s=s1024;
  t=1788450771; bh=rK9nd/q1hFz6WOAy0Eq1o3oDu6d655vV0+SK3dv4bWw=;
@@ -85,14 +85,14 @@ X-YMail-OSG: iiyBEmsVM1kLfqu0mu5k2QFfIHD76Oso_LAXM979nv8h.rcmTIXv3NXvsnqEDAT
  NbUF476_Au2RDsKE9smXHzERM_Fs7NgVoTutMaYm.2vfYS99Kd3I5q55hxELTge.8BMW5OZdVHhI
  C3QfmVQUZUOFb.Z1g7OOE3pNDKuJRHodJ7K0N0vrVUWN1kPGGw4wDjg0JJ8KhxEH.o4xzsD_12FZ
  4.xbFlxbLrw--
-X-Sonic-MF: <marvin5908@att.net>
+X-Sonic-MF: <[personal-address-redacted]>
 X-Sonic-ID: eeca6d46-3fdd-4e15-b785-0ab6669b42e7
 Received: from sonic.gate.mail.ne1.yahoo.com by
  sonic306.consmr.mail.ne1.yahoo.com with HTTP; Thu, 3 Sep 2026 15:52:51 +0000
 Received: by hermes--production-bf1-54b5569bdc-mnb2s (Yahoo Inc. Hermes SMTP
  Server) with ESMTPA ID 0866ca4a5cd79d7ffde85826d7d617b9;
           Thu, 03 Sep 2026 15:52:45 +0000 (UTC)
-From: Marvin Regensberg <marvin5908@att.net>
+From: Marvin Regensberg <[personal-address-redacted]>
 Subject: Re: dues table
 Thread-Topic: dues table
 Thread-Index: ASQ2MiRkJvCsNNWni1CXHg/Q6w3++kErSktV8AG4Sdw=

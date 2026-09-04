@@ -15,21 +15,28 @@ Gmail message of Sep 3, 2026, 8:52 AM MDT (the notice to the members on the
 ## The exchange as .eml — redacted for the name gate
 
 `eml-redacted/` holds the four messages of September 3, 2026, exported from the
-sender's Gmail as raw MIME and published with one class of redaction: every
-member email address (84 in the notice's Cc line; the same list quoted inside
-each reply) is replaced with `[member-address-redacted]`. Members of Local 131
-are private individuals; the record's naming gate holds their addresses back.
-Nothing else in any message is altered — bodies, dates, senders, subjects, and
-server Message-ID headers stand as received. The unredacted originals are held
-byte-for-byte by the author (SHA-256 of each recorded below) and can be produced
-to any seat with a legitimate need.
+sender's Gmail as raw MIME and published with two classes of redaction. First:
+every member email address (84 in the notice's Cc line; the same list quoted
+inside each reply) is replaced with `[member-address-redacted]`. Members of
+Local 131 are private individuals; the record's naming gate holds their
+addresses back. Second (added Sep 3, 2026, by the same gate): the Business
+Representative's personal email address — the sender of the 9:52 AM reply —
+is replaced with `[personal-address-redacted]` wherever it appears, including
+routing headers. The record needs the fact that the message came from the BR's
+personal address, not the address itself; SHA-256 of the address string is
+`db8975267bf7889cc16464000e1a22538b0f65d482cc5d3ddb91f2757ad949db`, so any
+holder of the address can verify it against this record. Nothing else in any
+message is altered — bodies, dates, subjects, and server Message-ID headers
+stand as received. The unredacted originals are held byte-for-byte by the
+author (SHA-256 of each recorded below) and can be produced to any seat with
+a legitimate need.
 
 | File | SHA-256 of unredacted original (first 16) |
 |---|---|
 | 01 … KM notice to members, 8:52 AM MDT | ac5eef5efb640616 |
 | 02 … Local 131 reply, 9:24 AM | 538fa8d1b3becc04 |
 | 03 … Local 131 reply, 9:35 AM | c053e4aaab39ac19 |
-| 04 … marvin5908@att.net reply, 9:52 AM | a46c48e32bec88f3 |
+| 04 … reply from the BR's personal address, 9:52 AM | a46c48e32bec88f3 |
 
 The exhibit starts at the September 3 notice by the author's decision; the
 thread's December 5, 2024 origin (the Local's dues-table mailing) is not
