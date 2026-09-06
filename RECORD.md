@@ -40,6 +40,14 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Sep 3, 2026, 9:52 AM MDT | Third reply, from the BR's personal email address (held — SHA-256 in charges/README.md) on the same thread beneath the Local's signature block: charge status before the body ("no one has stepped forward to file charges"); what "mechanics… informed the body" (boards, work quality); the assertion that the giver "admitted buying the mechanics test online" (denied); "I am stating this as an American citizen with free will"; "Keep running your mouth and I will keep insulting you" | Gmail — **IN HAND** |
 | Sep 3, 2026, 16:59 UTC | Supplement to the General President: the three communications quoted verbatim and set beside Art. XIII §4 (the oath), Art. XVIII §1(12), and Art. XVIII §2; asks that they be entered with the Statement of facts as a supplement to Charge 5, that an officer prefer the resulting charge under §2 for hearing by the GEB under §9, and that further Local communication be limited to Art. XVIII §4 notices from an officer other than the accused | Gmail Sent — **IN HAND** |
 | Sep 3, 2026, 17:10 UTC | Follow-up on the supplement thread to the General President's office: the full exchange attached, with notice that it has been entered in the public repository | Gmail Sent — **IN HAND** |
+| Sep 3, 2026, 1:39 / 1:44 PM MDT | Fourth and fifth replies from the BR — near-identical texts from the Local's address and the personal address ("You are correct, I don't get to decide… The reason I advised you to not write anything down is that I did not want you to get fired. KONE wanted to write letters on you… What a loser") | quoted in the Sep 5, 2026 BA letter; **originals not located in the mailbox** (searched Sep 6, 2026, all folders incl. Trash) — quotation discount |
+| On or about Sep 4, 2026 | A further message from the BR's personal address: a link to bewellnm.com, "Here is a website that will help you with your autism and struggles in society. Good luck." | quoted in the Sep 5, 2026 BA letter (which itself flags the date as possibly a transcription error); **original not located in the mailbox** (searched Sep 6, 2026) — quotation discount |
+| Sep 5, 2026, 13:37 UTC | Employee concern for determination sent to the NNSA ECP (ecp@nnsa.doe.gov, cc DOE HQ ECP), with the Version 1 disclosure PDF; the sent copy retains an unremoved staging line ("Crossing 1 of 3… Delete this line"), entered as sent | Gmail Sent — **IN HAND** |
+| Sep 5, 2026, 14:03 UTC | FOIA request filed with the NNSA FOIA Officer (foiofficer@nnsa.doe.gov): NNSA Sandia Field Office records, Building 9980, SNL-NM, 2025 | Gmail Sent — **IN HAND** |
+| Sep 5, 2026, 14:08 UTC | Notice to Kone Inc. (Ferdinandus): the published account, Version 1 — notice, not a claim | Gmail Sent — **IN HAND** |
+| Sep 5, 2026, 14:20 / 14:30 / 14:47 UTC | Letter to the Business Agents of the other Locals, Bcc in three batches: the hoistway rodent-contamination hazard with a draft minor-decon procedure, and the BR's conduct quoted verbatim for each seat's own judgment under Art. XVIII §2; attachments: the decon draft and the Charges Statement. Recipient list: the published BA addresses (74 of 75 Locals carry one; Local 138 none — coverage note held) | Gmail Sent — **IN HAND** |
+| Sep 5, 2026, 14:21 UTC | One reply: Local 3's BA address-change auto-notice (new address effective Dec 1) | Gmail — **IN HAND** |
+| Sep 5, 2026, 15:11 UTC | The BA letter re-sent to Local 3's current address | Gmail Sent — **IN HAND** |
 
 ## 2. Gift ledger — entries and states
 
@@ -68,9 +76,12 @@ the seat whose it is.
 | 17 | Sep 2, 2026 | Complaint regarding the conduct of the BR seat: five items, questions (a)–(d); no personal relief; every wage/delay claim already waived May 21, 2025 | IUEC General President's office (copy to the Local's address) | — | **DELIVERED** — silence since Sep 2, 2026 |
 | 18 | Sep 3, 2026 | Notice to the members: the giver's own Art. XVIII §2 admission; Statement of facts; request that charges be brought against both the BR and the giver | Members of Local 131 (the Local's own Dec 5, 2024 distribution); the Local's address (breach of the Sep 2 commitment, stated) | Three replies the same morning from the BR — two from the Local's address, one from a personal address on the Local's thread; no member has replied | **RESPONDED** (by the accused seat; the members silent since Sep 3, 2026) |
 | 19 | Sep 3, 2026 | Supplement: the three communications verbatim, set beside Art. XIII §4 and Art. XVIII §1(12) and §2; two requests (entry with Charge 5 and a §2 preferral for GEB hearing under §9; channel restriction to §4 notices from an officer other than the accused) | IUEC General President's office | — | **DELIVERED** — silence since Sep 3, 2026 |
+| 20 | Sep 5, 2026 | Employee concern for determination, with the Version 1 disclosure PDF | NNSA ECP (cc DOE HQ ECP) | — | **DELIVERED** — silence since Sep 5, 2026 |
+| 21 | Sep 5, 2026 | FOIA request: NNSA Sandia Field Office records, Building 9980, 2025 | NNSA FOIA Officer | — | **DELIVERED** — silence since Sep 5, 2026; closes the "FOIA not yet filed" note below |
+| 22 | Sep 5, 2026 | The BA letter: the hazard with a draft decon procedure, and the BR's conduct for each seat's judgment under Art. XVIII §2 | Business Agents of the other Locals (74 published addresses; Local 3 re-sent to its current address same day) | One address-change auto-notice (Local 3); no substantive reply | **DELIVERED** — the seats' silence dated from Sep 5, 2026 |
 
-**Balance.** Nineteen entries. Seven responded in writing, one received by act, one referred,
-eight delivered into silence, one misaddressed — and **one disposed**: entry 8, closed in
+**Balance.** Twenty-two entries. Seven responded in writing, one received by act, one
+referred, eleven delivered into silence, one misaddressed — and **one disposed**: entry 8, closed in
 writing on September 1, 2026, under complaint number 25-0737-C, by the seat that held it.
 The disposition states no date of closure, no basis, and no referral; those three
 questions, asked in writing on Aug 31, stand open as the entry's residue. (The Aug 29
@@ -84,8 +95,8 @@ state in this table is an instance of that pair.
 
 Not yet reached (no published email; postal/web route needed) — six oversight seats:
 NNSA Sandia Field Office Manager · DOE Enterprise Assessments (Dupuy; Olah) · NNSA ES&H
-(Al-Daouk) · NNSA Administrator (Williams) · EHSS (Martin). FOIA not yet filed (draft to
-foiofficer@nnsa.doe.gov stays).
+(Al-Daouk) · NNSA Administrator (Williams) · EHSS (Martin). FOIA filed Sep 5, 2026
+(entry 21).
 
 ## 3. Every venue tested
 
@@ -101,8 +112,11 @@ foiofficer@nnsa.doe.gov stays).
 | IUEC outside counsel | May 19, 2026 | Silence | — | Nothing sought |
 | Local 131 (address) | Aug 29 – Sep 3, 2026 | Sep 2: "not relevant… deleting any email I get from you"; Sep 3: three further replies from the BR, ending "Keep running your mouth and I will keep insulting you" | — | The seat's written position: this is a pay complaint; the address closed except to a return-to-membership request |
 | IUEC General President's office | Sep 2–3, 2026 | Silence as of Sep 3, 2026 | — | Complaint and supplement pending; four questions (a)–(d) plus two requests open |
+| NNSA ECP | Sep 5, 2026 | Silence as of Sep 6, 2026 | — | Concern for determination pending |
+| NNSA FOIA | Sep 5, 2026 | Silence as of Sep 6, 2026 | — | Request pending |
+| Business Agents, other Locals | Sep 5, 2026 | One address-change auto-notice (Local 3) | — | Each seat's Art. XVIII §2 judgment requested; pending |
 
-Nine venues, sixteen months. Every venue that answered, answered with a jurisdiction or
+Twelve venues, sixteen months. Every venue that answered, answered with a jurisdiction or
 a procedure (the NM OSHA contact returned no jurisdiction answer in writing). Through
 August 31, 2026, no venue had named a holder or closed an entry. On September 1, 2026 —
 the third day after the account was published and forwarded — the OIG closed 25-0737-C in
@@ -164,6 +178,19 @@ date on it.
 10. Pinpoint verification: DOE O 221.1B ¶5.a(7)(b) (the OIG referral duty) and
     10 CFR 851.20(b)(8)–(9) — both cited in the account at pinpoint level; the orders
     are right, the paragraph numbers not yet independently verified.
+11. The 1:39 / 1:44 PM Sep 3 replies and the bewellnm-link message: quoted in the
+    Sep 5 BA letter, but a Sep 6, 2026 full-mailbox search (all folders, Trash
+    included) locates no original of any of the three. They stand at quotation
+    discount until an original is produced from another device, an export made
+    before deletion, or the sender's own records. The link message's date is also
+    unresolved (the BA letter's own header flags Sep 4 as a possible transcription
+    error). No surface may call these three "exhibits."
+12. **Preservation, urgent:** on Sep 6, 2026 the mailbox source threads for
+    exhibits 01–04 (the "dues table" thread) and for the Sep 1 OIG written closure
+    were found sitting in Gmail's Trash, which purges permanently after ~30 days.
+    The repo's redacted .eml exports and hashes are unaffected, but the unredacted
+    originals the record promises to produce live in that mailbox. Restore both
+    threads from Trash before the purge window closes.
 
 ## 6. Cost account (kept apart — developed in [COST.md](COST.md))
 
