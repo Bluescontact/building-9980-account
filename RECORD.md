@@ -40,14 +40,17 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Sep 3, 2026, 9:52 AM MDT | Third reply, from the BR's personal email address (held — SHA-256 in charges/README.md) on the same thread beneath the Local's signature block: charge status before the body ("no one has stepped forward to file charges"); what "mechanics… informed the body" (boards, work quality); the assertion that the giver "admitted buying the mechanics test online" (denied); "I am stating this as an American citizen with free will"; "Keep running your mouth and I will keep insulting you" | Gmail — **IN HAND** |
 | Sep 3, 2026, 16:59 UTC | Supplement to the General President: the three communications quoted verbatim and set beside Art. XIII §4 (the oath), Art. XVIII §1(12), and Art. XVIII §2; asks that they be entered with the Statement of facts as a supplement to Charge 5, that an officer prefer the resulting charge under §2 for hearing by the GEB under §9, and that further Local communication be limited to Art. XVIII §4 notices from an officer other than the accused | Gmail Sent — **IN HAND** |
 | Sep 3, 2026, 17:10 UTC | Follow-up on the supplement thread to the General President's office: the full exchange attached, with notice that it has been entered in the public repository | Gmail Sent — **IN HAND** |
-| Sep 3, 2026, 1:39 / 1:44 PM MDT | Fourth and fifth replies from the BR — near-identical texts from the Local's address and the personal address ("You are correct, I don't get to decide… The reason I advised you to not write anything down is that I did not want you to get fired. KONE wanted to write letters on you… What a loser") | quoted in the Sep 5, 2026 BA letter; **originals not located in the mailbox** (searched Sep 6, 2026, all folders incl. Trash) — quotation discount |
-| On or about Sep 4, 2026 | A further message from the BR's personal address: a link to bewellnm.com, "Here is a website that will help you with your autism and struggles in society. Good luck." | quoted in the Sep 5, 2026 BA letter (which itself flags the date as possibly a transcription error); **original not located in the mailbox** (searched Sep 6, 2026) — quotation discount |
+| Sep 3, 2026, 1:39 / 1:44 PM MDT | Fourth and fifth replies from the BR — near-identical texts from the Local's address (1:39) and the personal address (1:44). Both carry "You lost wages because you are stupid," "IUEC Local 131 members are getting tired of you. I would be careful," and "You are not a member now… file charges from outside the Union"; **"What a loser" and "You are a moron" appear only in the 1:44 personal-address version** | .eml exports with SHA-256, `eml-preservation-2026-09-09/` (Gmail ids 1a068ca190c6d94c, 1a068cd1758ea77b) — **IN HAND** (recovered Sep 9, 2026; quotation discount lifted) |
+| Sep 4, 2026, 12:44 PM MDT | Message from the BR's personal address: a link to bewellnm.com, "Here is a website that will help you with your autism and struggles in society. Good luck." Date now exact; the BA letter's transcription-error flag resolves — Sep 4 was correct | .eml export with SHA-256, `eml-preservation-2026-09-09/` (Gmail id 1a06dbcd7946a309) — **IN HAND** (recovered Sep 9, 2026) |
 | Sep 5, 2026, 13:37 UTC | Employee concern for determination sent to the NNSA ECP (ecp@nnsa.doe.gov, cc DOE HQ ECP), with the Version 1 disclosure PDF; the sent copy retains an unremoved staging line ("Crossing 1 of 3… Delete this line"), entered as sent | Gmail Sent — **IN HAND** |
 | Sep 5, 2026, 14:03 UTC | FOIA request filed with the NNSA FOIA Officer (foiofficer@nnsa.doe.gov): NNSA Sandia Field Office records, Building 9980, SNL-NM, 2025 | Gmail Sent — **IN HAND** |
 | Sep 5, 2026, 14:08 UTC | Notice to Kone Inc. (Ferdinandus): the published account, Version 1 — notice, not a claim | Gmail Sent — **IN HAND** |
 | Sep 5, 2026, 14:20 / 14:30 / 14:47 UTC | Letter to the Business Agents of the other Locals, Bcc in three batches: the hoistway rodent-contamination hazard with a draft minor-decon procedure, and the BR's conduct quoted verbatim for each seat's own judgment under Art. XVIII §2; attachments: the decon draft and the Charges Statement. Recipient list: the published BA addresses (74 of 75 Locals carry one; Local 138 none — coverage note held) | Gmail Sent — **IN HAND** |
 | Sep 5, 2026, 14:21 UTC | One reply: Local 3's BA address-change auto-notice (new address effective Dec 1) | Gmail — **IN HAND** |
 | Sep 5, 2026, 15:11 UTC | The BA letter re-sent to Local 3's current address | Gmail Sent — **IN HAND** |
+| Sep 9, 2026 | EEOC Public Portal inquiry submitted against IUEC Local 131 (perceived disability · perceived sexual orientation · retaliation; adverse actions Sep 3–4, 2026), **Inquiry No. 543-2026-01452**. An inquiry, not yet a charge — the charge exists when signed after intake interview; NM HRB cross-filing to be requested at that step | Portal confirmation screen, reported by Kevin same day — confirmation email **to be pulled** when it arrives |
+| Sep 9, 2026 | NM Human Rights Bureau intake inquiry submitted against IUEC Local 131 (same bases and adverse actions as the EEOC inquiry; EEOC Inquiry No. 543-2026-01452 cross-referenced), **Reference No. 26-09-0983-E**. An intake inquiry, not yet a docketed complaint — an intake officer contacts the complainant to prepare the formal complaint for signature | Reported by Kevin same day — confirmation **to be pulled** when it arrives |
+| Sep 10, 2026, 7:51 AM MDT | The four-document packet sent, subject "Charges on Kevin Mears," to the members of Local 131 on the Local's own Dec 2024 distribution (84 Cc) and to the Office of the General President (To: arichards@iuec.org): (1) The Charges Against Kevin Mears — an unsigned Art. XVIII §3 form, two counts, on the sender's own writings; (2) The Charges Against Marvin L. Regensberg — an unsigned §3 form with its evidence reproduced in full as Parts A and B; (3) The Protections Invoked and Held; (4) The Question Before the Local. Both agency reference numbers stated (NM HRB 26-09-0983-E; EEOC 543-2026-01452). Neither form signed or filed; signing and filing left with the membership. Sent the morning of the Local's Sep 10 meeting | Gmail Sent — **IN HAND** (id 1a08b964bf434ddd, four PDF attachments; the packet as sent published at charges/packet-2026-09-10/) |
 
 ## 2. Gift ledger — entries and states
 
@@ -79,9 +82,10 @@ the seat whose it is.
 | 20 | Sep 5, 2026 | Employee concern for determination, with the Version 1 disclosure PDF | NNSA ECP (cc DOE HQ ECP) | — | **DELIVERED** — silence since Sep 5, 2026 |
 | 21 | Sep 5, 2026 | FOIA request: NNSA Sandia Field Office records, Building 9980, 2025 | NNSA FOIA Officer | — | **DELIVERED** — silence since Sep 5, 2026; closes the "FOIA not yet filed" note below |
 | 22 | Sep 5, 2026 | The BA letter: the hazard with a draft decon procedure, and the BR's conduct for each seat's judgment under Art. XVIII §2 | Business Agents of the other Locals (74 published addresses; Local 3 re-sent to its current address same day) | One address-change auto-notice (Local 3); no substantive reply | **DELIVERED** — the seats' silence dated from Sep 5, 2026 |
+| 23 | Sep 10, 2026 | The four-document packet ("Charges on Kevin Mears"): two unsigned §3 charge forms — one naming the giver, one naming the Business Representative with the evidence inside — the protections page, and the boundary document; signing, filing, or declining left entirely with the membership | Members of Local 131 (the Dec 2024 distribution, 84 Cc); Office of the General President (arichards@iuec.org) | — | **DELIVERED** — the morning of the Local's Sep 10 meeting; silence dated from Sep 10, 2026 |
 
-**Balance.** Twenty-two entries. Seven responded in writing, one received by act, one
-referred, eleven delivered into silence, one misaddressed — and **one disposed**: entry 8, closed in
+**Balance.** Twenty-three entries. Seven responded in writing, one received by act, one
+referred, twelve delivered into silence, one misaddressed — and **one disposed**: entry 8, closed in
 writing on September 1, 2026, under complaint number 25-0737-C, by the seat that held it.
 The disposition states no date of closure, no basis, and no referral; those three
 questions, asked in writing on Aug 31, stand open as the entry's residue. (The Aug 29
@@ -178,19 +182,31 @@ date on it.
 10. Pinpoint verification: DOE O 221.1B ¶5.a(7)(b) (the OIG referral duty) and
     10 CFR 851.20(b)(8)–(9) — both cited in the account at pinpoint level; the orders
     are right, the paragraph numbers not yet independently verified.
-11. The 1:39 / 1:44 PM Sep 3 replies and the bewellnm-link message: quoted in the
-    Sep 5 BA letter, but a Sep 6, 2026 full-mailbox search (all folders, Trash
-    included) locates no original of any of the three. They stand at quotation
-    discount until an original is produced from another device, an export made
-    before deletion, or the sender's own records. The link message's date is also
-    unresolved (the BA letter's own header flags Sep 4 as a possible transcription
-    error). No surface may call these three "exhibits."
-12. **Preservation, urgent:** on Sep 6, 2026 the mailbox source threads for
-    exhibits 01–04 (the "dues table" thread) and for the Sep 1 OIG written closure
-    were found sitting in Gmail's Trash, which purges permanently after ~30 days.
-    The repo's redacted .eml exports and hashes are unaffected, but the unredacted
-    originals the record promises to produce live in that mailbox. Restore both
-    threads from Trash before the purge window closes.
+11. **CLOSED Sep 9, 2026.** All three originals recovered and exported from Gmail
+    as raw MIME with SHA-256 hashes (`eml-preservation-2026-09-09/`, manifest in
+    the folder): the 1:39 PM reply (Local's address), the 1:44 PM reply (personal
+    address), and the bewellnm message (personal address, Sep 4, 2026, 12:44 PM
+    MDT exactly — the transcription-error flag resolves). Quotation discount
+    lifted; the timeline rows restate the quotes with a precision correction
+    ("What a loser" / "You are a moron" are 1:44-only). The same export pass
+    preserved the Sep 1 OIG closure, the Aug 29 omnibus, the Aug 31 exchange,
+    and the Dec 2025 records-request thread — the compost mark on the mailbox
+    threads (item 12) stands, and no longer costs the record anything.
+12. **CLOSED by Kevin's mark, Sep 9, 2026 — the trashed threads stay trashed.**
+    The Sep 6 finding stands as history: the mailbox source threads for exhibits
+    01–04 and the Sep 1 OIG closure sit in Gmail's Trash (a Sep 9 sweep found at
+    least eight evidentiary threads there, including the Jan 22, 2025 "Right to
+    Refusal" thread). Kevin's ruling: they are compost for the present work; no
+    restore. Consequences entered, not hidden: (a) the Jan 22, 2025 thread was
+    exported as raw MIME to local .eml files with SHA-256 hashes on Sep 9, 2026
+    (`DSS content/exhibits-preserved-2026-09-09/`) before the mark — those
+    exports stand and are the basis of Form-of-Charge Attachment A; (b) for
+    exhibits 01–04, Kevin confirmed Sep 9, 2026 that the unredacted byte-for-byte
+    originals are on his own disk, outside the mailbox — the charges/README.md
+    production promise holds regardless of the purge; (c) once purged, the Sep 1 OIG closure and other in-mailbox
+    entries drop from IN HAND to the repo-export or quotation discount their
+    surviving copies support. Silence about a purged original is not claimed as
+    possession.
 
 ## 6. Cost account (kept apart — developed in [COST.md](COST.md))
 
