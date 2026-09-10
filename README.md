@@ -111,18 +111,6 @@ treated as evidence anywhere in this account: primary documents and public sourc
 the factual authority, and every publication and correction decision is the author's own
 mark. The models render; the documents decide.
 
-**History rewrite — Kevin's mark, September 5, 2026.** This repository's convention is
-supersession in place, never erasure. One exception has been made, on the author's own
-decision, recorded here: the Business Representative's personal email address, redacted
-from the working tree on September 3, remained readable in prior commits. On September 5
-the entire history was rewritten to replace it with `[personal-address-redacted]`
-everywhere it ever appeared, and the rewritten history was force-pushed. The rule the
-exception serves: no third party should hold, through this repository's history, what its
-naming gate redacts from its face. Nothing else was altered by the rewrite; the address's
-SHA-256 remains recorded in charges/README.md, and the unredacted originals are held by
-the author. Commit identifiers before this date changed as a consequence and any external
-citation of a pre-rewrite SHA should be re-anchored to [MANIFEST.sha256](MANIFEST.sha256).
-
 **Integrity.** [MANIFEST.sha256](MANIFEST.sha256) holds the full SHA-256 digest of every
 file in this repository, regenerated at each restatement. Git history shows development
 but is rewritable by a repository owner; the manifest, and any externally archived copy
