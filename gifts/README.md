@@ -27,6 +27,8 @@ closure (a named handout adopted at a named site). Everything else in this folde
 provenance for that one gift.
 
 - [The next worker](next-worker.md) — the spine
+- [The decon procedure](decon-procedure.md) — the spine's first concrete instance:
+  built Sep 5, 2026, routed to 74 Locals the same day, deposited Sep 11, 2026
 - [DOE / NNSA — the federal seats](doe-nnsa.md)
 - [The IUEC International](iuec-international.md)
 - [Local 131 and the business agents](local-131.md)
@@ -44,7 +46,13 @@ discount rule — a gift described is an assertion; a gift built is a document:
   Direct Action Guide* — Art. XV timelines by number) · the **IUEC Field Manual**
   (the cost-flow map: authority flows toward the member, cost flows away from it).
 - **Names only, counting as nothing until built:** business management tools for the
-  Local's paper · rodent-contamination safety training materials.
+  Local's paper.
+- **Promoted out of this register (Sep 11, 2026):** the rodent-contamination safety
+  training materials were listed above as a name only; that was stale by this
+  register's own discount rule. A draft minor-decon procedure was in fact built and
+  routed to 74 Locals on Sep 5, 2026 (RECORD entry 22) — it is now deposited at
+  [documents/Hoistway_Rodent_Decon_Procedure.md](documents/Hoistway_Rodent_Decon_Procedure.md)
+  and developed at [decon-procedure.md](decon-procedure.md).
 
 None of the built drafts is public or routed; each enters this folder only after its
 own audit and on the author's mark.

@@ -1,4 +1,4 @@
-# The documents themselves — the May 2025 gift packet
+# The documents themselves — the May 2025 gift packet, and later deposits
 
 These are the four documents of the May 2025 gift packet, addressed to Kone and IUEC
 Local 131 — the bound packet delivered to Local 131 leadership on May 14, 2025 (Exhibit
@@ -18,6 +18,13 @@ are entered in [RECORD.md](../../RECORD.md) at their own source class.
 
 The packet's named item 3, the Economic Analysis of Safety Documentation, is not yet
 reproduced here — it enters when the as-sent copy is identified (open item).
+
+**Later deposit, September 11, 2026:**
+
+- [Hoistway Rodent-Contamination Minor-Decontamination Procedure — Draft 1](Hoistway_Rodent_Decon_Procedure.md) —
+  the text sent Sep 5, 2026 to the Business Agents of 74 Locals (RECORD entry 22),
+  reproduced from the giver's retained working copy; [IH] thresholds and policy hooks
+  deliberately blank; developed at [decon-procedure.md](../decon-procedure.md)
 
 Nothing here asks for anything. The waiver came first; these are the gifts it cleared
 the ground for. The per-stakeholder development of what each gift serves is one level
