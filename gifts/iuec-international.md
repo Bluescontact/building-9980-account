@@ -39,11 +39,15 @@ issued to members. If the "operational adoption of federal preemption" claim in
 *Significance of the Closure* has a source, it is that document — and it closes this entry
 in the union's favor.
 
-**State.** REFERRED Dec 30, 2025; omnibus DELIVERED Aug 29, 2026. Since then this seat
-holds three further deliveries (RECORD entries 16, 17, 19): the Local's Sep 2 reply
-forwarded; the Sep 2 complaint on the BR seat's conduct (questions (a)–(d)); the Sep 3
-supplement (two requests). Those are the charges arc, not this gift — but the seat now
-holds both, and the gift's question rides with them. Silence dated from each delivery.
+**State** (calibrated Sep 25, 2026). REFERRED Dec 30, 2025 (269 days); omnibus
+DELIVERED Aug 29, 2026. Since then this seat holds five further deliveries: the Local's
+Sep 2 reply forwarded; the Sep 2 complaint on the BR seat's conduct (questions (a)–(d));
+the Sep 3 supplement (two requests) — RECORD entries 16, 17, 19; the Sep 10
+four-document packet (entry 23, copied to the GP office); and the Sep 24 records
+request with preservation notice (entry 26, copied to the GP office, forwarded Sep 25
+to headquarters after no confirmation of receipt). The charges arc and the records
+request are not this gift — but the seat now holds all of it, and the gift's question
+rides along. Silence dated from each delivery; the oldest of them has run 269 days.
 The former-member point cuts both ways and the record says so: the International owes a
 withdrawn member no duty of fair representation, no hearing, and no answer — whatever
 it does with what it holds is a free decision, which is exactly what makes a written

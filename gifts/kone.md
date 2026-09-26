@@ -36,5 +36,8 @@ custody disposition, predating Aug 29, 2026 — either makes the premise (unansw
 refusal; unrecorded outcome) wrong, and the account restates the day it appears. A
 post-publication answer does not falsify; it closes.
 
-**State.** Entries 2, 3, 5: DELIVERED (silence since Jan 23, 2025) / RESPONDED (Feb 28,
-2025, outcome unrecorded) / DELIVERED (silence since May 21, 2025); omnibus Aug 29, 2026.
+**State** (calibrated Sep 25, 2026). Entries 2, 3, 5: DELIVERED (silence since Jan 23,
+2025 — 610 days, the account's second-oldest) / RESPONDED (Feb 28, 2025, outcome
+unrecorded — 574 days) / DELIVERED (silence since May 21, 2025 — 492 days); omnibus
+Aug 29, 2026; notice of the published account sent to Kone Sep 5, 2026 (timeline —
+notice, not a claim), silence since.

@@ -7,9 +7,10 @@ closed again in writing Sep 1, 2026, date and basis undisclosed). The oversight 
 (Hauck), EA (Dupuy, Olah), NNSA ES&H (Al-Daouk), NNSA Administrator (Williams), EHSS
 (Martin).
 
-**What is given.** A thirteen-entry dated account of how §851's worker-protection
-architecture functioned, from the worker's side, at one subcontracted project on one NNSA
-site — with primary exhibits, a discounted-assertions table, and a falsifier. It is the
+**What is given.** A dated account of how §851's worker-protection architecture
+functioned, from the worker's side, at one subcontracted project on one NNSA site —
+thirteen entries when delivered Aug 29, 2026; twenty-six at the Sep 25, 2026
+restatement, growing as seats act or decline to — with primary exhibits, a discounted-assertions table, and a falsifier. It is the
 condition EA documented in 2022, instanced (D-NTESS-12: OSHA poster instead of the DOE
 poster at all observed subcontracted construction). Whether the 2026 rulemaking docket
 holds any account of a worker at a DOE site describing how §851 reporting functioned in
@@ -44,8 +45,15 @@ discipline. The FOIA route remains open; the 41 U.S.C. §4712 window (three year
 question (90 days under §708.15, tolled while an internal grievance is pending; untimely
 complaints dismissed absent good cause, §708.17(c)(1), appealable under §708.18) not assessed here.
 
-**State.** Omnibus DELIVERED Aug 29, 2026 (attachment correction staged). OIG: call
-offered Aug 31; three questions asked in writing; **25-0737-C closed in writing Sep 1,
-2026** — the account's first disposition, with its date, basis, and referral standing
-open as the residue. Oversight seats not yet reached — postal/web routes needed. FOIA
-drafted, not filed — and now the OIG's own closure letter points to it.
+**State** (calibrated Sep 25, 2026). Omnibus DELIVERED Aug 29, 2026 (attachment
+correction staged). OIG: call offered Aug 31; three questions asked in writing;
+**25-0737-C closed in writing Sep 1, 2026** — the account's first disposition, with its
+date, basis, and referral standing open as the residue (24 days at this calibration).
+Employee concern for determination DELIVERED to the NNSA ECP (cc DOE HQ ECP) Sep 5,
+2026, with the Version 1 disclosure PDF — silence, 20 days (RECORD entry 20). FOIA
+**filed Sep 5, 2026** and acknowledged in writing Sep 10 as case **FOIA 26-00666-PV**
+(RECORD entry 21) — the case number this file's close conditions name now exists; the
+records response itself is what remains. Oversight seats still not reached — postal/web
+routes needed (RECORD, "Not yet reached"). An earlier version of this block read "FOIA
+drafted, not filed"; it lagged the ledger by fifteen days and is superseded here, per
+the record's rule.

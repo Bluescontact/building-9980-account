@@ -30,9 +30,15 @@ its records.
 
 **The falsifier.** Local guidance predating Jan 22, 2025 that names Par. 4 to members.
 
-**State.** Entries 1, 4, 6: RESPONDED (Jan 22, 2025) / DELIVERED into silence (May 14 and
-Jun 2, 2025); omnibus DELIVERED Aug 29, 2026. The seat is no longer silent: four written
-replies, Sep 2–3, 2026 (RECORD entries 15, 18 — quoted verbatim in the timeline and in
-the Sep 2 complaint and Sep 3 supplement). None addresses the May 14 packet or the
-question held. The address is closed by its own statement except to a
+**State** (calibrated Sep 25, 2026). Entries 1, 4, 6: RESPONDED (Jan 22, 2025 — the
+question held has stood open 611 days) / DELIVERED into silence (May 14 and Jun 2, 2025
+— 499 and 480 days); omnibus DELIVERED Aug 29, 2026. The seat is no longer silent: four
+written replies, Sep 2–3, 2026 (RECORD entries 15, 18 — quoted verbatim in the timeline
+and in the Sep 2 complaint and Sep 3 supplement). None addresses the May 14 packet or
+the question held. The address is closed by its own statement except to a
 return-to-membership request; per the Sep 2 commitment, nothing further is sent to it.
+The business agents this file also covers: the Sep 5, 2026 letter to the published BA
+addresses of 74 other Locals (entry 22 — its hazard half is the decon gift, its conduct
+half the ledger's) stands in silence, 20 days; the Sep 10 four-document packet to the
+members on the Local's own distribution (entry 23) stands in silence, 15 days — the
+members, not the accused seat, being the readers whose move it left open.
