@@ -101,11 +101,17 @@ the seat whose it is.
 | 25 | Sep 24, 2026 | Appeal to the Trustees on the Benefits Office's named channel: reverse the denial, or amend the New-Annuity lock for participants separated from the industry; disclose any prior pre-retirement New-Annuity exception; hear in December and sooner by designated committee (expedited review); documents requested; ERISA §502(a) reserved | Board of Trustees, EC Annuity and 401(k) Retirement Plan, via the Benefits Office | Sep 25, in writing: "received and forwarded to the manager for submission at the next Trustee meeting which is in December"; then the Accounting Manager's letter: presentation to the Trustees **December 8, 2026**, decision by mail after. The letter does not address the expedited-review request or name the seat that declined it | **RESPONDED** — received and queued for December 8; the expedited-review ask and asks 2–3 (amendment; prior exceptions) unanswered, dated from Sep 25, 2026 |
 | 26 | Sep 24, 2026 | Request for the giver's complete union record, with a preservation notice citing both agency numbers; forwarded Sep 25 to IUEC headquarters after no confirmation of receipt | IUEC Regional Director (cc Office of the General President); IUEC headquarters | — | **DELIVERED** — no confirmation of receipt from any seat; silence dated from Sep 24, 2026 |
 
-**Balance.** Twenty-six entries. Eight responded in writing, one received by act, one
-referred, thirteen delivered into silence, one misaddressed — and **two disposed**. The
-second is entry 24, the Plan's provision-citing refusal of Sep 25, 2026 — a decision
-against the giver, counted as the closure it is. The first remains entry 8, closed in
-writing on September 1, 2026, under complaint number 25-0737-C, by the seat that held it.
+**Balance.** Twenty-six entries. Nine responded in writing, one received by act, one
+referred, twelve delivered into silence, one misaddressed — and **two disposed**.
+*(Corrected by a scripted recount of this table, Sep 25, 2026: the sub-counts had lagged
+the table twice — "seven responded / twelve delivered" was never advanced when entry 21
+moved to RESPONDED on Sep 10, and the Sep 25 restatement inherited the lag as
+"eight / thirteen." No state ever moved wrongly; the tally of them had. Corrected in
+place, and the recount is now part of every restatement — see the receipt line below.)*
+The second disposition is entry 24, the Plan's provision-citing refusal of Sep 25, 2026 —
+a decision against the giver, counted as the closure it is. The first remains entry 8,
+closed in writing on September 1, 2026, under complaint number 25-0737-C, by the seat
+that held it.
 The disposition states no date of closure, no basis, and no referral; those three
 questions, asked in writing on Aug 31, stand open as the entry's residue. (The Aug 29
 map's "1 disposed" matched the sibling ledger's Aug 10, 2026 closure; as of Sep 1 this
@@ -115,6 +121,48 @@ Read the two columns of the ledger against each other and the balance is one sen
 what the entries *reported* was acted on — the hazards addressed, the site complying —
 and what the entries *asked* was never answered. Acted on; never accounted for. Every
 state in this table is an instance of that pair.
+
+**Time in state** (days each open entry has sat in its current state, computed by script
+from the table's own dates, as of September 25, 2026 — the measurement that converts
+"the process is slow" from testimony into record):
+
+| Entry | State | In this state since | Days |
+|---|---|---|---|
+| 1 | RESPONDED — open | Jan 22, 2025 | 611 |
+| 2 | DELIVERED — silence | Jan 23, 2025 | 610 |
+| 3 | RESPONDED — open | Feb 28, 2025 | 574 |
+| 4 | DELIVERED — silence | May 14, 2025 | 499 |
+| 5 | DELIVERED — silence | May 21, 2025 | 492 |
+| 6 | DELIVERED — silence | Jun 2, 2025 | 480 |
+| 9 | RECEIVED — open | Nov 4, 2025 | 325 |
+| 10 | REFERRED — open | Dec 30, 2025 | 269 |
+| 11 | RESPONDED — open | Jan 16, 2026 | 252 |
+| 12 | DELIVERED — silence | May 19, 2026 | 129 |
+| 13 | RESPONDED — open | Aug 31, 2026 | 25 |
+| 14 | RESPONDED — questions open | Sep 1, 2026 | 24 |
+| 15 | RESPONDED — open | Sep 2, 2026 | 23 |
+| 16 | DELIVERED — silence | Sep 2, 2026 | 23 |
+| 17 | DELIVERED — silence | Sep 2, 2026 | 23 |
+| 18 | RESPONDED — members silent | Sep 3, 2026 | 22 |
+| 19 | DELIVERED — silence | Sep 3, 2026 | 22 |
+| 20 | DELIVERED — silence | Sep 5, 2026 | 20 |
+| 21 | RESPONDED — records pending | Sep 10, 2026 | 15 |
+| 22 | DELIVERED — silence | Sep 5, 2026 | 20 |
+| 23 | DELIVERED — silence | Sep 10, 2026 | 15 |
+| 25 | RESPONDED — queued for Dec 8 | Sep 25, 2026 | 0 |
+| 26 | DELIVERED — silence | Sep 24, 2026 | 1 |
+
+The twelve silences, by age band: **four over a year** (610, 499, 492, 480 days — the
+employer's service channel and the Local's three), one at 91–365 (129 days — outside
+counsel), seven at 0–30 days. The record does not just count its silences; it ages them,
+and the ages advance on their own.
+
+**The receipt line.** The balance above publishes as a receipt, not a handle, under the
+three conditions any running count owes its reader: every entry is dated; every entry
+cites its trail (a Gmail id, an exhibit, or a stated discount); every entry carries the
+five-state closure rule that says exactly what would close it. The tally is recomputed by
+script from the table itself at each restatement — the Sep 25 recount that corrected the
+lagged sub-counts is the condition enforced, not merely promised.
 
 Not yet reached (no published email; postal/web route needed) — six oversight seats:
 NNSA Sandia Field Office Manager · DOE Enterprise Assessments (Dupuy; Olah) · NNSA ES&H
@@ -162,6 +210,14 @@ a sentence about the template
 (Kone Management). Each is entered the day it arrives, and the account is restated — as
 this one was on September 1, 2026. Until then the silence is entered as silence, with a
 date on it.
+
+One further kind, named September 25, 2026, from a live instance the same day: **the
+deferral entry** — a decision postponed with no named deferrer and no stated basis. The
+worked example is the expedited-review request to the Plan's Trustees: asked in writing
+Sep 25 under the Plan's own procedure, answered the same day by a letter that sets the
+December 8 meeting and says nothing about expedition, who declined it, or on what basis.
+A deferral without a named seat is the route finding at process scale: the clock ran
+without anyone recorded as deciding it should.
 
 ## 5. Open items — the giver's to close
 

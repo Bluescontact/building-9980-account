@@ -50,6 +50,40 @@ a habit with four moves.*
 - **Existence is not availability** if the price of finding a route exceeds the capacity
   of the one who needs it. (The ECP existed; the January 23 refusal cited OSHA.)
 
+## Named September 25, 2026 — what the method gained after publication
+
+The working corpus kept developing after this repository's first restatements; these are
+the instruments that earned entry here, each dated, each already applied in RECORD.md:
+
+- **Time in state.** Days each open entry has sat where it sits, computed from the
+  ledger's own dates. Converts "the process is slow" from testimony into measurement,
+  and the ages advance on their own.
+- **Aged-silence bands.** Silences reported by age, not just count. Four of this
+  record's twelve have passed a year.
+- **The deferral entry.** A decision postponed with no named deferrer and no stated
+  basis, entered as its own dated kind — the route finding at process scale. Worked
+  example: the expedited-review request of Sep 25, 2026 (RECORD §4).
+- **The notice gap.** Date-of-knowledge and date-of-notice, held apart in the record;
+  the space between them is the finding. The route finding is its worked case: DOE's own
+  2022 assessment fixed a date of knowledge that the wrong poster stood at every observed
+  subcontracted project at this site; this worker's date of notice of the ECP route,
+  before his reports, is: never. "The route existed; it was not transmitted" and "the
+  notice gap" are one finding in two dresses, and the second one travels to any case
+  with two dates.
+- **The costless ask.** Asking exactly what cannot be refused without the refusal itself
+  becoming the record. This record was already built from them — the Aug 31 three
+  questions, the records request, the expedited-review question: each is answered, or
+  its non-answer is the entry. Named now so the mechanism is visible instead of merely
+  running.
+- **The receipt rule, made mechanical.** Any count this record publishes must pass three
+  conditions — dated entries, a cited trail, a per-entry closure rule — and the tally is
+  recomputed by script from the table at each restatement. Adopted after the Sep 25
+  recount caught the balance's sub-counts lagging the table (RECORD, Balance).
+- **A fix is a new claim.** The text changed in any restatement is that restatement's
+  least-checked text, and the record says so where it stands rather than presenting
+  fixes as settled. This restatement's own least-checked text is this section and the
+  RECORD additions it names.
+
 ## The instrument distinction (Kevin's decision, Aug 29, 2026; renamed from "the weapon
 distinction" Sep 3, 2026 — the distinction is unchanged, the word gave a hostile reader
 a quote the record does not need)

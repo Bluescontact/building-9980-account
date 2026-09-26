@@ -62,3 +62,7 @@ are in [documents/](documents/README.md). The seats-not-persons, documents-only
 discipline throughout is not style: a withdrawn member stands outside LMRDA Title I's
 speech shield, and the discipline is the standing defense. Nothing here is sent or
 filed without Kevin's own mark.
+
+---
+
+*Entered September 25, 2026, verifiable from the ledger itself: every gift in this folder predates any return, and no ask has ever ridden one — the charges arc asks procedure and is kept apart (above); the ledger's questions are the calibrated record, not conditions on anything given. The gifts stand whether or not any seat ever answers.*

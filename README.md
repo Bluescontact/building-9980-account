@@ -1,14 +1,17 @@
 # Building 9980 — the account
 
-**Kevin Mears · Building 9980, Sandia National Laboratories · Version 2 · restated
-September 25, 2026 — two things at once: this front page's counts brought level with
-the ledger (they had stood at the September 3 figures while RECORD.md advanced — a
-staleness this account's own versioning rule catches), and the record extended through
-September 25: the union records request and preservation notice (entry 26), and the
-Plan denial-and-appeal thread (entries 24–25), entered whole at [annuity/](annuity/) —
-an adjacent question, the floor, kept in the same states. Prior restatement
-September 3, 2026: the General President's name of record, ledger counts, documentary
-bounds**
+**Kevin Mears · Building 9980, Sandia National Laboratories · Version 3 · restated
+September 25, 2026 — the method advanced, and the record is restated under it: time in
+state and aged-silence bands on every open entry (RECORD, after the Balance), the
+deferral entry named as a kind (RECORD §4), the notice gap named as the route finding's
+general form (LENS), the receipt rule made mechanical — and the recount it requires
+caught the balance's own sub-counts lagging the table (nine responded, twelve into
+silence; the published seven/twelve, then eight/thirteen, had drifted after entry 21
+moved on Sep 10 — no state was ever wrong, the tally of them was; corrected in place).
+Earlier the same day, as Version 2's last acts: the front page brought level, the union
+records request (entry 26) and the Plan denial-and-appeal thread (entries 24–25) entered
+whole at [annuity/](annuity/). Prior restatement September 3, 2026: the General
+President's name of record, ledger counts, documentary bounds**
 
 **Everything he reported was acted on. Nothing he reported was ever accounted for.**
 
@@ -25,7 +28,8 @@ this repository; the rest is verification — twenty-six entries, two disposed (
 is the Plan's provision-citing denial in the adjacent annuity matter, Sep 25, 2026 — the
 reports' accounting questions themselves still hold exactly one), the falsifier
 standing: any seat's substantive written answer to any question in the ledger breaks the
-claim, and will be entered the day it arrives.
+claim, and will be entered the day it arrives — and the age of every silence is on its
+face, advancing on its own.
 
 *Terms: a **seat** is a role that held a decision, not a person; an **entry** is something
 that left the giver's hands, dated; a **disposition** is a seat closing an entry in

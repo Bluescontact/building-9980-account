@@ -68,6 +68,18 @@ What it does: it completes the account. The eviction and the year without a floo
 personal layer running the same grammar as the institutional one — a cost landing on the
 giver with no seat, no entry, and no disposition.
 
+**The deferred-wage layer (entered September 25, 2026).** One cost row now has a
+custodian with a name and a date, and so it moved from this account's grammar into the
+ledger proper: the giver's deferred wages — earned in covered hours, 2017–2025 — sit in
+the Elevator Constructors Annuity and 401(k) Plan under a rule that opens them at 55 and
+not before, a line the Trustees drew and can redraw. The hardship request was refused
+with provisions cited (RECORD entry 24, disposed against the giver); the appeal is queued
+for the Trustees' December 8, 2026 meeting (entry 25); the whole exchange is public at
+[annuity/](annuity/). No figure is carried here beyond what that account already
+publishes. The cost-routing diagnostic reads it the same way it reads the table above —
+the reporting side carries the interval — with one difference this account has never had
+before: a named seat, holding a dated decision, with a date certain to decide it.
+
 ## 5. Falsifiers
 
 Row by row, above. The two that would do the most work: a payroll record showing the
