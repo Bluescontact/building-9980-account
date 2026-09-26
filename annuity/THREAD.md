@@ -284,7 +284,7 @@ occurred; their publication state is in the folder README.
 > *[quoted history omitted]*
 
 ## 8a · The attached letter, quoted whole
-*(Dated September 25, 2026, on Elevator Constructors Annuity & 401(k) Retirement Plan letterhead, signed Alicia Naccarella, Accounting Manager; enclosure: Appeals Procedures. The PDF itself is held unpublished for now — it carries the giver's postal address, redacted here by this file's stated rule — pending the giver's mark on a redacted or as-is copy. SHA-256 of the original as received: recorded below the quote. Bold as in the original.)*
+*(Dated September 25, 2026, on Elevator Constructors Annuity & 401(k) Retirement Plan letterhead, signed Alicia Naccarella, Accounting Manager; enclosure: Appeals Procedures. Published as a redacted copy at exhibits/Mears_Acknowledgement_2026-09-25.redacted.pdf on the giver's mark of Sep 25, 2026: the postal-address block and the masked personal identifier removed from the text layer and the rendered image alike (true redaction, not overlay), document metadata scrubbed; nothing else altered. The unredacted original is held by the giver; its SHA-256, recorded below the quote, lets any holder verify it. Bold as in the original.)*
 
 > September 25, 2026
 >

@@ -49,7 +49,7 @@ folder is evidence on it.
 | [EMPOWER.md](EMPOWER.md) | The recordkeeper's two standalone messages, quoted whole: the Sep 23 document-upload receipt (the filing date, in the recordkeeper's own words) and the Sep 24 unable-to-process notice whose single listed issue is "No funds available for the requested distribution." |
 | exhibits/EC Annuity 401k Appeal Procedure Notice 2016.pdf | The Plan's appeal procedure notice as received Sep 24, 2026, byte-for-byte |
 | exhibits/1000017953.jpg | The photograph sent Sep 25, 2026, 17:46 UTC, as the thread's last word — published from the giver's own copy, filename as sent. The record claims nothing about its contents |
-| ("Mears Acknowledgement.pdf") | The office's Sep 25 letter: quoted whole at THREAD.md §8a, SHA-256 recorded there; the PDF held unpublished (it carries the giver's postal address — the EEOC-letter rule), pending the giver's mark on a redacted or as-is copy. RECORD.md open item 13 is otherwise closed |
+| exhibits/Mears_Acknowledgement_2026-09-25.redacted.pdf | The office's Sep 25 letter, published as a redacted copy on the giver's mark: address block and personal identifier removed from text layer and image alike; metadata scrubbed; nothing else altered. Quoted whole at THREAD.md §8a; SHA-256 of the unredacted original recorded there. RECORD.md open item 13 closed |
 
 ## Rules this folder is kept under
 
