@@ -15,10 +15,18 @@ Osterman (regional safety), Rogers, and Kone Management (recipient of the May 21
    this record can be answered without creating one. (The waiver binds the giver only —
    it does not speak to regulatory exposure or to anyone else's claims, and this account
    asserts none.)
-3. **Credit where the record gives it.** The Feb 28 email is the only written employer
-   response in the account: it posed the custody question ("whose permit are we on"),
-   assigned it, and stated the hours were "not 'lost work'… will thus be paid for." The
-   account carries that verbatim, in Kone's favor.
+3. **Credit where the record gives it — enlarged Sep 25, 2026.** The Feb 28 email is
+   the only written employer response *to the two written safety reports*: it posed the
+   custody question ("whose permit are we on"), assigned it, and stated the hours were
+   "not 'lost work'… will thus be paid for." The account carries that verbatim, in
+   Kone's favor. And the Sep 25, 2026 mailbox pass recovered a second written Kone
+   engagement, earlier and also to Kone's credit: the Jan 20, 2025 reply to the
+   pre-refusal personal statement — the matter "was brought up with our Safety Manager
+   last week," Kone "already working with D&B" on Sandia-compliant cleanup, the
+   training need acknowledged, and the open question named in Kone's own words: "we
+   need to establish who will be responsible for these additional cost and delays."
+   The employer engaged early and in writing; what no record shows is the question it
+   posed ever being answered — by Kone or by anyone.
 
 **What it serves, in the receiver's terms.** A subcontractor operating on DOE sites whose
 crews are told OSHA is the authority carries the compliance risk EA documented in 2022.

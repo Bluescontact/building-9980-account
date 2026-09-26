@@ -39,6 +39,35 @@ it has defaulted. That default is dated, and it is still open to any seat that d
 | ~Jun 2025 | Homeless a month after leaving the trade — roommate evicted him illegally, without notice | Kevin's statement (Sep 1, 2026); "from a bus with an empty bank account" appears in the signed testimony (*But Did You Die*). Giver's statement; no external falsifier by nature |
 | Jun 2025 – present | Surviving without a floor: the bus, the homestead build, the retirement hardship withdrawal (paperwork in hand; no figure carried), the labor of keeping this book | Kevin's statements; withdrawal paperwork; the testimony. Giver's statement; no external falsifier by nature |
 
+## 2a. The mechanism, corrected (Kevin's statement, September 25, 2026, at the giver's discount; entered on his instruction — "This point deserves correction")
+
+The account's "income lost" rows compressed a mechanism the giver has now stated
+plainly, and the corrected form is narrower and stronger than the compressed one. He
+was not docked by the employer; he was **allowed to stay on the clock without the
+ability to produce forward momentum on the project.** During the periods of safety
+delay — on his account, about a week of sitting idle before refusing to operate for
+the pest-control inspection he had been told was a hazmat situation, and roughly three
+weeks of delay after the confined-space restriction — no sufficient alternative work
+was assigned. NEBA Art. XXVIII Par. 4(b) names alternative work as what a good-faith
+refusal is met with; the record holds no document showing it was provided. Faced with
+ten-hour days of idleness, he chose to leave after eight; the hours between are the
+loss, and the choosing is part of the cost, not a waiver of it. His own words, entered
+verbatim with their ambiguity held rather than resolved: "The effect i lost from
+recolection 12 hours to get an approval for a bottle of lysol" — whether the twelve
+hours counts the loss or the approval delay is his to fix; the approval request
+itself is now documented (the Jan 16, 2025, 6:37 PM MST "Request for Basic Safety
+Tool Access" for a 10:1 bleach solution, in hand). Falsifier, unchanged in kind:
+timekeeping or dispatch records for the periods; either narrows this section the day
+it appears.
+
+**And the employer named the question first.** The Sep 25, 2026 mailbox pass
+recovered Kone's written reply of Jan 20, 2025 — five days before the restriction:
+"We understand the additional safety training needed to preform this work, but **we
+need to establish who will be responsible for these additional cost and delays.**"
+The cost-assignment question this account finds unanswered was posed, in writing, by
+the employer itself, at the start — and no record shows it was ever established by
+anyone.
+
 ## 3. What the distribution shows
 
 Run the cost-routing diagnostic on the table above: the same cost appears repeatedly in
@@ -49,8 +78,11 @@ cost was not assigned; it defaulted — to the reporter, and to the apprentice u
 reporter personally repaid half. A correction the other parties were protected by was
 produced at the expense of the people who reported the need for it.
 
-The one written employer response says the hours are "not 'lost work'" and "will thus be
-paid for." No document in the record shows they were. That gap — between the employer's
+The one written employer response to the two written safety reports says the hours are
+"not 'lost work'" and "will thus be paid for." No document in the record shows they
+were. (The Jan 20, 2025 reply recovered Sep 25, 2026 — §2a — answered the pre-refusal
+personal statement, not either report; the bound on this sentence is stated where the
+recovery is.) That gap — between the employer's
 own sentence and the absence of the payroll record that would close it — is the cost
 account's whole case, and either document ends it.
 

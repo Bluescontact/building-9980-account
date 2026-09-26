@@ -9,10 +9,17 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Date | Event | Source |
 |---|---|---|
 | Jan 16, 2025 | Training and PPE requested from Kone for rodent contamination | Exhibit B (names the request); NEBA Art. XXVII Par. 4 |
+| Jan 15, 2025, 10:23 PM MST | "Bio Haz" to the Local's address: the contamination described ("mouse droppings all over the headers and rail brackets all the way up the building"; "I cant just start spraying bleach around on base"), with a full written Hoistway Biohazard Remediation Safety Plan attached in the body — hazards, 10:1 bleach method, PPE, ventilation, approvals sought | Gmail — **IN HAND** (recovered by mailbox pass Sep 25, 2026; thread 1946d8a5aa85a4c5) |
+| Jan 16, 2025, 5:30 AM MST | The Local's written reply: "Read the KONE safety program and address the situation there. Leave the mouse droppings untouched. I would wear a mask. Trying to get overscale out of this is a bad idea. You will be the first one laid off when work slows down." — quoted whole; the earliest written advice in the record, six days before the refusal-help request | Gmail — **IN HAND** (id 1946f1817703750e) |
+| Jan 16, 2025, 6:37 PM MST | "Request for Basic Safety Tool Access" to Kone (Ferdinandus): "requesting approval to use a 10:1 water/bleach solution with appropriate PPE to safely handle contaminated components" | Gmail — **IN HAND**, **in Trash — export before purge** (id 19471e8ed45665bd) |
+| Jan 17, 2025 | "Rodent Droppings" exchange with the Local: a formal safety-protocol adaptation request drafted; the Local's reply ("You're not a licensed mechanic… You could simply ask for extra PPE… We can't do that at this time"); two revisions; the giver's close: "I hate feeling like i'm stuck between taking care of my personal safety, and the pressure to not say anything, and just get the job done." | Gmail — **IN HAND** (thread 194746c7216aa1e7) |
+| Jan 20, 2025, ~8:08–8:56 AM MST | The Personal Statement sent three ways — to the Local's address, to the site superintendent (Botone Industries), and to Kone (Ferdinandus): the hazard, the Orkin pest-control background, the stoppage-pressure problem, and a three-point proposal (respirator fitting, CDC cleaning protocols, authorization to address contamination on discovery) | Gmail Sent — **IN HAND** (ids 19484422d12cf6b3, 1948446ed8bb2a1a, 1948ff63e99b7965/194846d4d982ce91) |
+| Jan 20, 2025, 9:24 AM MST | Kone's written reply (Ferdinandus, cc Osterman): "This was brought up with our Safety Manager last week when first discovered. I'm already working with D&B on how we can complete this work in-line with Sandias standard procedures on this type of cleanup. We understand the additional safety training needed to preform this work, **but we need to establish who will be responsible for these additional cost and delays.**" — the employer's own written statement of the unassigned-cost question, five days before the restriction; recovered by the Sep 25, 2026 mailbox pass, which supersedes in place the account's earlier "the Feb 28 email is the only written employer response" (that claim now bounds to: the only written employer response *to the two written safety reports*) | Gmail — **IN HAND** (id 1948487cb5ab390f) |
+| Jan 22, 2025, 11:58 AM MST | The site superintendent's "Area bio hazard de contamination protocol" order — to Kone, Sandia (Oetzel), and two B&D Industries addresses, cc the giver: "Kona: To have readily available mechanic/employees to operate and remove headers with" the hazmat teams the next day — the operation the Jan 22–23 refusal answered | Gmail — **IN HAND** (id 1948f61729de3bcc) |
 | Jan 22, 2025, 4:26 PM | Kevin asks the Local for help with a written refusal statement | Exhibit A — **IN HAND** |
 | Jan 22, 2025, 5:10 PM | Reply from iueclocal131@comcast.net, signed Marvin L. Regensberg: advised against writing; "only so much protection"; pointed to a MOD opening at TK | Exhibit A — **IN HAND** |
 | Jan 23, 2025 | Written "Refusal to Perform Unsafe Work"; OSHA citations only (29 CFR 1910.134, 1910.132, 1977.12; OSHA 11(c)); no DOE authority cited | Exhibit B — **IN HAND** |
-| Feb 20, 2025 | 9980 Passenger Elevator Safety Walk | reported (Kevin's narratives) |
+| Feb 20, 2025, 11:25 AM MST | 9980 Passenger Elevator Safety Walk — the site superintendent's own forward of the walk, whose signature block carries the entity of record: "David Hidalgo, Site Superintendent, Botone Industries LLC… Applied Construction Technologies is a joint venture between B&D [Industries and Botone]" | Gmail — **IN HAND** (id 195249ba574cc919; lifted from "reported" by the Sep 25, 2026 mailbox pass; the signature block is the document that closes the GC identification — see SEATS) |
 | Feb 25, 2025, 8:38 AM | Kevin to Ferdinandus: "Permit Required Confined Space Job Shut Down" — access restricted pending PRCS classification per 1910.146; the worker restricted the hoistway himself and the site complied | Exhibit C — **IN HAND** (quoted in full inside D) |
 | Feb 28, 2025, 3:10 PM | Smith to Kevin, cc Ferdinandus, Rogers, Osterman: "Whose permit are we on"; hours "not 'lost work'… will thus be paid for" | Exhibit D — **IN HAND** |
 | Feb 25 – Mar 2025 | Hoistway work restricted for a period not exhibited; whether compensated not established | reported; no figure carried |
@@ -236,7 +243,15 @@ without anyone recorded as deciding it should.
    The reference stays at quotation discount; the date, the channel, or the recollection
    itself may be wrong. The case number is independently established by the OIG's own
    Sep 1, 2026 closure email.
-2. Feb 25, 2025 restriction — pull the sent email with headers and recipients.
+2. **CLOSED Sep 25, 2026, by the mailbox pass.** The Feb 25, 2025 restriction located
+   in Sent (id 1953dc1d5699d687, thread 19538f78f1e88b53, 8:37 AM MST, to Ferdinandus:
+   "Effective Immediately: 2-25-2025 — Access is now restricted to the elevator
+   hoistway pending proper PRCS classification and documentation per OSHA 1910.146"),
+   and the Feb 28 Kone reply located alive in the Inbox (id 1954e9c509c0f5c3) — neither
+   purged. Both on the export worklist for .eml preservation with hashes. The same pass
+   recovered the Jan 15–22 exchanges now entered in the timeline; one of them — the
+   Jan 16 bleach-solution approval request — sits in Trash and must be exported before
+   purge.
 3. Governor routing — anything outside Gmail, or Entry 7 stays a recollection.
 4. Archived copy of the Nov 4, 2025 post.
 5. The IUEC operational-change claim (*Significance of the Closure*): source it or it stays struck.

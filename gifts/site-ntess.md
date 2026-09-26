@@ -2,7 +2,9 @@
 
 **Who.** NTESS ECP (Ethicsteam@sandia.gov — reached twice Aug 29, 2026); the site staff on
 the record (Johnson, 04623 IH; Oetzel, 04121 CM); the GC layer — **entity of record
-under verification** (open item H9); no entity or person is named until it is documented.
+documented Sep 25, 2026**: Applied Construction Technologies, a joint venture between
+B&D Industries and Botone Industries LLC, per the site superintendent's own dated
+correspondence (SEATS; formerly open item H9).
 
 **Scope note.** The May 21, 2025 waiver extends to the union and the employer only. It
 does not reach the general contractor, the site, or DOE. This account still asserts no
