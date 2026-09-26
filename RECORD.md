@@ -94,7 +94,7 @@ the seat whose it is.
 | 18 | Sep 3, 2026 | Notice to the members: the giver's own Art. XVIII §2 admission; Statement of facts; request that charges be brought against both the BR and the giver | Members of Local 131 (the Local's own Dec 5, 2024 distribution); the Local's address (breach of the Sep 2 commitment, stated) | Three replies the same morning from the BR — two from the Local's address, one from a personal address on the Local's thread; no member has replied | **RESPONDED** (by the accused seat; the members silent since Sep 3, 2026) |
 | 19 | Sep 3, 2026 | Supplement: the three communications verbatim, set beside Art. XIII §4 and Art. XVIII §1(12) and §2; two requests (entry with Charge 5 and a §2 preferral for GEB hearing under §9; channel restriction to §4 notices from an officer other than the accused) | IUEC General President's office | — | **DELIVERED** — silence since Sep 3, 2026 |
 | 20 | Sep 5, 2026 | Employee concern for determination, with the Version 1 disclosure PDF | NNSA ECP (cc DOE HQ ECP) | — | **DELIVERED** — silence since Sep 5, 2026 |
-| 21 | Sep 5, 2026 | FOIA request: NNSA Sandia Field Office records, Building 9980, 2025 | NNSA FOIA Officer | Sep 10, 2026: acknowledged in writing, case number FOIA 26-00666-PV | **RESPONDED** — acknowledgement with a number; the records response itself pending; closes the "FOIA not yet filed" note below |
+| 21 | Sep 5, 2026 | FOIA request: NNSA Sandia Field Office records, Building 9980, 2025 | NNSA FOIA Officer | Sep 10, 2026: acknowledged in writing, case number FOIA 26-00666-PV | **RESPONDED** — acknowledgement with a number; the records response itself pending (an earlier "FOIA not yet filed" note elsewhere in this file was closed by this row and has since been superseded out; this clause preserves that it existed) |
 | 22 | Sep 5, 2026 | The BA letter: the hazard with a draft decon procedure, and the BR's conduct for each seat's judgment under Art. XVIII §2 | Business Agents of the other Locals (74 published addresses; Local 3 re-sent to its current address same day) | One address-change auto-notice (Local 3); no substantive reply | **DELIVERED** — the seats' silence dated from Sep 5, 2026 |
 | 23 | Sep 10, 2026 | The four-document packet ("Charges on Kevin Mears"): two unsigned §3 charge forms — one naming the giver, one naming the Business Representative with the evidence inside — the protections page, and the boundary document; signing, filing, or declining left entirely with the membership | Members of Local 131 (the Dec 2024 distribution, 84 Cc); Office of the General President (arichards@iuec.org) | — | **DELIVERED** — the morning of the Local's Sep 10 meeting; silence dated from Sep 10, 2026 |
 | 24 | Sep 23, 2026 | Hardship withdrawal request — the only door the Plan's own forms offer a separated participant under 55 | EC Annuity and 401(k) Plan (recordkeeper Empower), Plan No. 770430-01 | Sep 24, in writing: "No funds available for the requested distribution" (Work Item ID 36804743), no provisions cited; then Sep 25, the Accounting Manager's signed letter citing §7.1 and §7.3(b) of the Plan Document: not eligible, the New Annuity Account excluded as a hardship source | **DISPOSED — against the request**, Sep 25, 2026: refused with reasons and provisions by a seat that names itself. The method counts a decision against the giver as a closure; the underlying claim continues as entry 25 |
@@ -153,8 +153,10 @@ from the table's own dates, as of September 25, 2026 — the measurement that co
 | 26 | DELIVERED — silence | Sep 24, 2026 | 1 |
 
 The twelve silences, by age band: **four over a year** (610, 499, 492, 480 days — the
-employer's service channel and the Local's three), one at 91–365 (129 days — outside
-counsel), seven at 0–30 days. The record does not just count its silences; it ages them,
+Jan 23, 2025 written refusal, with the employer; the May 14 packet, with the Local's
+leadership; the May 21 license, with the employer's management and the Local jointly;
+the Jun 2 withdrawal, with the Local), one at 91–365 (129 days — outside counsel),
+seven at 0–30 days. The record does not just count its silences; it ages them,
 and the ages advance on their own.
 
 **The receipt line.** The balance above publishes as a receipt, not a handle, under the
