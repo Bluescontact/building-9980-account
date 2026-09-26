@@ -11,7 +11,7 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Jan 16, 2025 | Training and PPE requested from Kone for rodent contamination | Exhibit B (names the request); NEBA Art. XXVII Par. 4 |
 | Jan 15, 2025, 10:23 PM MST | "Bio Haz" to the Local's address: the contamination described ("mouse droppings all over the headers and rail brackets all the way up the building"; "I cant just start spraying bleach around on base"), with a full written Hoistway Biohazard Remediation Safety Plan attached in the body — hazards, 10:1 bleach method, PPE, ventilation, approvals sought | Gmail — **IN HAND** (recovered by mailbox pass Sep 25, 2026; thread 1946d8a5aa85a4c5) |
 | Jan 16, 2025, 5:30 AM MST | The Local's written reply: "Read the KONE safety program and address the situation there. Leave the mouse droppings untouched. I would wear a mask. Trying to get overscale out of this is a bad idea. You will be the first one laid off when work slows down." — quoted whole; the earliest written advice in the record, six days before the refusal-help request | Gmail — **IN HAND** (id 1946f1817703750e) |
-| Jan 16, 2025, 6:37 PM MST | "Request for Basic Safety Tool Access" to Kone (Ferdinandus): "requesting approval to use a 10:1 water/bleach solution with appropriate PPE to safely handle contaminated components" | Gmail — **IN HAND**, **in Trash — export before purge** (id 19471e8ed45665bd) |
+| Jan 16, 2025, 6:37 PM MST | "Request for Basic Safety Tool Access" to Kone (Ferdinandus): "requesting approval to use a 10:1 water/bleach solution with appropriate PPE to safely handle contaminated components" | Gmail — **IN HAND**; removed from Trash and exported as raw .eml with SHA-256, Sep 25, 2026 (id 19471e8ed45665bd; eml-preservation-2026-09-25/) |
 | Jan 17, 2025 | "Rodent Droppings" exchange with the Local: a formal safety-protocol adaptation request drafted; the Local's reply ("You're not a licensed mechanic… You could simply ask for extra PPE… We can't do that at this time"); two revisions; the giver's close: "I hate feeling like i'm stuck between taking care of my personal safety, and the pressure to not say anything, and just get the job done." | Gmail — **IN HAND** (thread 194746c7216aa1e7) |
 | Jan 20, 2025, ~8:08–8:56 AM MST | The Personal Statement sent three ways — to the Local's address, to the site superintendent (Botone Industries), and to Kone (Ferdinandus): the hazard, the Orkin pest-control background, the stoppage-pressure problem, and a three-point proposal (respirator fitting, CDC cleaning protocols, authorization to address contamination on discovery) | Gmail Sent — **IN HAND** (ids 19484422d12cf6b3, 1948446ed8bb2a1a, 1948ff63e99b7965/194846d4d982ce91) |
 | Jan 20, 2025, 9:24 AM MST | Kone's written reply (Ferdinandus, cc Osterman): "This was brought up with our Safety Manager last week when first discovered. I'm already working with D&B on how we can complete this work in-line with Sandias standard procedures on this type of cleanup. We understand the additional safety training needed to preform this work, **but we need to establish who will be responsible for these additional cost and delays.**" — the employer's own written statement of the unassigned-cost question, five days before the restriction; recovered by the Sep 25, 2026 mailbox pass, which supersedes in place the account's earlier "the Feb 28 email is the only written employer response" (that claim now bounds to: the only written employer response *to the two written safety reports*) | Gmail — **IN HAND** (id 1948487cb5ab390f) |
@@ -248,10 +248,13 @@ without anyone recorded as deciding it should.
    "Effective Immediately: 2-25-2025 — Access is now restricted to the elevator
    hoistway pending proper PRCS classification and documentation per OSHA 1910.146"),
    and the Feb 28 Kone reply located alive in the Inbox (id 1954e9c509c0f5c3) — neither
-   purged. Both on the export worklist for .eml preservation with hashes. The same pass
-   recovered the Jan 15–22 exchanges now entered in the timeline; one of them — the
-   Jan 16 bleach-solution approval request — sits in Trash and must be exported before
-   purge.
+   purged. Both exported the same day as raw .eml with SHA-256 hashes, alongside the
+   full recovered Jan 15 – Feb 20 set (sixteen originals, giver-held at
+   eml-preservation-2026-09-25/ with its own manifest; every file re-hashed and
+   MIME-parse-verified after export). The Jan 16 bleach-solution approval request was
+   additionally removed from Trash before export. One preserved-as-is anomaly, the
+   original's own: the Feb 28 message's Subject header carries a recipient name pasted
+   mid-word; it is kept byte-for-byte.
 3. Governor routing — anything outside Gmail, or Entry 7 stays a recollection.
 4. Archived copy of the Nov 4, 2025 post.
 5. The IUEC operational-change claim (*Significance of the Closure*): source it or it stays struck.
