@@ -62,8 +62,8 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Sep 24, 2026, 21:58 UTC → Sep 25, 02:39 UTC | On the appeal thread: a published essay's link; then "I was told I'd receive a call this afternoon and didn't. Please confirm my appeal was received and let me know when to expect a response." | Gmail Sent — **IN HAND** (ids 1a0d56d90fe163b3, 1a0d66e804f3416c) |
 | Sep 25, 2026, 11:36 UTC | The Benefits Office in writing: "Your appeal has been received and forwarded to the manager for submission at the next Trustee meeting which is in December." | Gmail — **IN HAND** (id 1a0d859fa3963b8e, cc 401KGroup@neibenefits.org) |
 | Sep 25, 2026, 15:41 / 16:15 UTC | The expedited-review question — "I also asked for expedited review as allowed by the procedure, has that request been denied?" — then a request for the name of the seat responsible for declining it, with notice that the office's responses would be included for publication | Gmail Sent — **IN HAND** (ids 1a0d93a5b5480ced, 1a0d95a1c1f742b9) |
-| Sep 25, 2026, 16:47 UTC | The Benefits Office: "Please reference the attached letter." Attachment: "Mears Acknowledgement.pdf" — **the letter itself is not yet read into this record**; what it decides is not claimed either way until it is (open item 13) | Gmail — **IN HAND** as message (id 1a0d977085f8d73e); attachment **to be pulled** |
-| Sep 25, 2026, 17:46 UTC | Reply on the appeal thread carrying one photograph (1000017953.jpg) and no new text | Gmail Sent — **IN HAND** as message (id 1a0d9ad0fcfe5fa6); the photograph **to be pulled** and published (open item 14) |
+| Sep 25, 2026, 16:47 UTC | The Benefits Office: "Please reference the attached letter." Attachment: "Mears Acknowledgement.pdf" — read into this record the same day (superseding this row's first form, which held it unread): a letter dated Sep 25, 2026, signed Alicia Naccarella, Accounting Manager, citing the Plan Document as amended through Jan 1, 2025 — §6.3(b)(3)(C) (New Annuity distribution only at 55+ with NEI pension or Social Security), §2.14 (Disability = an SSA determination), §7.3(b) and §7.1 (a participant "may not withdraw any portion" of the New Annuity Account as a hardship source) — concluding "you are not yet eligible" for a distribution and "not eligible for a Hardship Withdrawal," and stating: "Your appeal will be presented to the Trustees at their next meeting on **December 8, 2026**. Shortly after the meeting, you will be notified by mail." **The expedited-review request of 15:41/16:15 UTC is not addressed anywhere in the letter**, nor is the request for the name of the seat that declined it — both stand as dated absences | Gmail — **IN HAND** (id 1a0d977085f8d73e); the letter quoted whole at annuity/THREAD.md §8a; SHA-256 of the original recorded there; the PDF itself held unpublished for now — it carries the filer's home address (the EEOC-letter rule) — pending the giver's mark on a redacted or as-is copy |
+| Sep 25, 2026, 17:46 UTC | Reply on the appeal thread carrying one photograph (1000017953.jpg) and no new text | Gmail Sent — **IN HAND** (id 1a0d9ad0fcfe5fa6); the photograph published at annuity/exhibits/1000017953.jpg from the giver's own copy, supplied Sep 25 |
 | Sep 25, 2026, 20:24 UTC | The records request forwarded to IUEC headquarters (iuechdq@iuec.org): "left unanswered at the regional level. I've received no confirmation of receipt." | Gmail Sent — **IN HAND** (id 1a0da3db967bd28d) |
 
 ## 2. Gift ledger — entries and states
@@ -97,12 +97,14 @@ the seat whose it is.
 | 21 | Sep 5, 2026 | FOIA request: NNSA Sandia Field Office records, Building 9980, 2025 | NNSA FOIA Officer | Sep 10, 2026: acknowledged in writing, case number FOIA 26-00666-PV | **RESPONDED** — acknowledgement with a number; the records response itself pending; closes the "FOIA not yet filed" note below |
 | 22 | Sep 5, 2026 | The BA letter: the hazard with a draft decon procedure, and the BR's conduct for each seat's judgment under Art. XVIII §2 | Business Agents of the other Locals (74 published addresses; Local 3 re-sent to its current address same day) | One address-change auto-notice (Local 3); no substantive reply | **DELIVERED** — the seats' silence dated from Sep 5, 2026 |
 | 23 | Sep 10, 2026 | The four-document packet ("Charges on Kevin Mears"): two unsigned §3 charge forms — one naming the giver, one naming the Business Representative with the evidence inside — the protections page, and the boundary document; signing, filing, or declining left entirely with the membership | Members of Local 131 (the Dec 2024 distribution, 84 Cc); Office of the General President (arichards@iuec.org) | — | **DELIVERED** — the morning of the Local's Sep 10 meeting; silence dated from Sep 10, 2026 |
-| 24 | Sep 23, 2026 | Hardship withdrawal request — the only door the Plan's own forms offer a separated participant under 55 | EC Annuity and 401(k) Plan (recordkeeper Empower), Plan No. 770430-01 | Sep 24, in writing: "No funds available for the requested distribution" (Work Item ID 36804743); no Plan provisions cited | **RESPONDED** — a denial without the provisions the Plan's own appeal procedure describes for a denial notice; appealed the same week |
-| 25 | Sep 24, 2026 | Appeal to the Trustees on the Benefits Office's named channel: reverse the denial, or amend the New-Annuity lock for participants separated from the industry; disclose any prior pre-retirement New-Annuity exception; hear in December and sooner by designated committee (expedited review); documents requested; ERISA §502(a) reserved | Board of Trustees, EC Annuity and 401(k) Retirement Plan, via the Benefits Office | Sep 25, in writing: "received and forwarded to the manager for submission at the next Trustee meeting which is in December"; the expedited-review question answered the same day by a letter attachment not yet read into this record | **RESPONDED** — received and queued for December; the expedited disposition rests in the unread letter (open item 13) |
+| 24 | Sep 23, 2026 | Hardship withdrawal request — the only door the Plan's own forms offer a separated participant under 55 | EC Annuity and 401(k) Plan (recordkeeper Empower), Plan No. 770430-01 | Sep 24, in writing: "No funds available for the requested distribution" (Work Item ID 36804743), no provisions cited; then Sep 25, the Accounting Manager's signed letter citing §7.1 and §7.3(b) of the Plan Document: not eligible, the New Annuity Account excluded as a hardship source | **DISPOSED — against the request**, Sep 25, 2026: refused with reasons and provisions by a seat that names itself. The method counts a decision against the giver as a closure; the underlying claim continues as entry 25 |
+| 25 | Sep 24, 2026 | Appeal to the Trustees on the Benefits Office's named channel: reverse the denial, or amend the New-Annuity lock for participants separated from the industry; disclose any prior pre-retirement New-Annuity exception; hear in December and sooner by designated committee (expedited review); documents requested; ERISA §502(a) reserved | Board of Trustees, EC Annuity and 401(k) Retirement Plan, via the Benefits Office | Sep 25, in writing: "received and forwarded to the manager for submission at the next Trustee meeting which is in December"; then the Accounting Manager's letter: presentation to the Trustees **December 8, 2026**, decision by mail after. The letter does not address the expedited-review request or name the seat that declined it | **RESPONDED** — received and queued for December 8; the expedited-review ask and asks 2–3 (amendment; prior exceptions) unanswered, dated from Sep 25, 2026 |
 | 26 | Sep 24, 2026 | Request for the giver's complete union record, with a preservation notice citing both agency numbers; forwarded Sep 25 to IUEC headquarters after no confirmation of receipt | IUEC Regional Director (cc Office of the General President); IUEC headquarters | — | **DELIVERED** — no confirmation of receipt from any seat; silence dated from Sep 24, 2026 |
 
-**Balance.** Twenty-six entries. Nine responded in writing, one received by act, one
-referred, thirteen delivered into silence, one misaddressed — and **one disposed**: entry 8, closed in
+**Balance.** Twenty-six entries. Eight responded in writing, one received by act, one
+referred, thirteen delivered into silence, one misaddressed — and **two disposed**. The
+second is entry 24, the Plan's provision-citing refusal of Sep 25, 2026 — a decision
+against the giver, counted as the closure it is. The first remains entry 8, closed in
 writing on September 1, 2026, under complaint number 25-0737-C, by the seat that held it.
 The disposition states no date of closure, no basis, and no referral; those three
 questions, asked in writing on Aug 31, stand open as the entry's residue. (The Aug 29
@@ -137,7 +139,7 @@ NNSA Sandia Field Office Manager · DOE Enterprise Assessments (Dupuy; Olah) · 
 | NNSA FOIA | Sep 5, 2026 | Silence as of Sep 6, 2026 | — | Request pending |
 | Business Agents, other Locals | Sep 5, 2026 | One address-change auto-notice (Local 3) | — | Each seat's Art. XVIII §2 judgment requested; pending |
 | IUEC Regional Director; IUEC headquarters | Sep 24–25, 2026 | Silence as of Sep 25, 2026 — no confirmation of receipt | — | The complete union record requested; preservation notice served |
-| EC Annuity & 401(k) Plan (Empower; NEI Benefits Office; Trustees) | Sep 23–25, 2026 | Rejection in writing ("No funds available"); the appeal procedures; "received and forwarded" to the December Trustee meeting; a letter in answer to the expedited request, not yet read into this record | Plan No. 770430-01; Work Item ID 36804743 | A different question than the rest of this table — not the reports' accounting but the floor: whether the Plan that holds the giver's deferred wages opens before age 55 for a member the trade is finished with |
+| EC Annuity & 401(k) Plan (Empower; NEI Benefits Office; Trustees) | Sep 23–25, 2026 | Rejection in writing ("No funds available"); the appeal procedures; "received and forwarded"; then a signed, provision-citing denial letter (Sep 25) setting the Trustee date — December 8, 2026 — and passing over the expedited-review request in silence | Plan No. 770430-01; Work Item ID 36804743 | A different question than the rest of this table — not the reports' accounting but the floor: whether the Plan that holds the giver's deferred wages opens before age 55 for a member the trade is finished with |
 
 Fourteen venues, January 2025 – September 2026 (the fourteenth holds the floor question,
 not the reports' accounting — entered because it is a seat, it answered in writing, and
@@ -228,14 +230,17 @@ date on it.
     entries drop from IN HAND to the repo-export or quotation discount their
     surviving copies support. Silence about a purged original is not claimed as
     possession.
-13. The Sep 24, 2026 Empower rejection email and the Sep 25, 2026 "Mears
-    Acknowledgement.pdf" letter — pull both from the mailbox into annuity/exhibits/.
-    Entry 24's quoted denial and entry 25's expedited-review disposition rest on them;
-    until the letter is read, what it decides is not claimed either way, in this record
-    or anywhere that cites it.
-14. The Sep 25, 2026 photograph (1000017953.jpg, sent 17:46 UTC on the appeal thread) —
-    pull from Sent and publish at annuity/exhibits/. Until then the timeline row carries
-    only the fact of its sending; nothing about its contents is claimed.
+13. **Partially closed Sep 25, 2026, same day.** The "Mears Acknowledgement.pdf" letter
+    was pulled, read, and entered: entry 24 moved to DISPOSED on its provisions, entry 25's
+    December 8 date and the expedited-review silence entered, the letter quoted whole at
+    annuity/THREAD.md §8a with the original's SHA-256 recorded. The PDF itself is held
+    unpublished — it carries the filer's home address (the EEOC-letter rule) — pending the
+    giver's mark on a redacted or as-is copy. Still open: the Sep 24 Empower rejection
+    email, to be pulled into annuity/exhibits/; entry 24's "No funds available" quotation
+    rests meanwhile on the appeal's verbatim citation of it, in hand.
+14. **Closed Sep 25, 2026, same day.** The photograph pulled from the giver's own copy
+    and published at annuity/exhibits/1000017953.jpg. The record claims nothing about
+    its contents; it is the message, as sent.
 
 ## 6. Cost account (kept apart — developed in [COST.md](COST.md))
 

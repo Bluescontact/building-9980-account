@@ -28,13 +28,18 @@ folder is evidence on it.
   designated committee.
 - Sep 25 — in writing: "Your appeal has been received and forwarded to the
   manager for submission at the next Trustee meeting which is in December."
-  The expedited-review question was answered the same day by a letter
-  attachment ("Mears Acknowledgement.pdf") **not yet read into this record**
-  (RECORD.md open item 13). What that letter decides is not claimed either
-  way until it is read.
+  Then, the same afternoon, a signed letter from the Accounting Manager
+  (quoted whole at THREAD.md §8a): the provision-citing denial — Plan
+  Document §6.3(b)(3)(C), §2.14, §7.3(b), §7.1 — and the Trustee date:
+  **December 8, 2026**, decision by mail after. The letter does not address
+  the expedited-review request, does not name the seat that declined it,
+  and does not touch the appeal's amendment or prior-exceptions asks — each
+  a dated absence from Sep 25.
 - States as entered (RECORD.md entries 24–25): the hardship request
-  RESPONDED — denied without cited provisions; the appeal RESPONDED —
-  received and queued for December. Nothing here is DISPOSED.
+  **DISPOSED — against the request** (refused with reasons by a seat that
+  names itself; a decision against the giver is a closure); the appeal
+  RESPONDED — received and queued for December 8. The thread's last word is
+  the giver's photograph, sent 17:46 UTC with no text.
 
 ## Files
 
@@ -42,7 +47,8 @@ folder is evidence on it.
 |---|---|
 | [THREAD.md](THREAD.md) | The complete email thread with the Benefits Office, Sep 24–25, 2026, transcribed verbatim under the rules stated at its head |
 | exhibits/EC Annuity 401k Appeal Procedure Notice 2016.pdf | The Plan's appeal procedure notice as received Sep 24, 2026, byte-for-byte |
-| exhibits/ (pending) | "Mears Acknowledgement.pdf" (the office's Sep 25 letter) and 1000017953.jpg (the photograph sent Sep 25, 17:46 UTC) — open items 13–14; entered the day they are pulled |
+| exhibits/1000017953.jpg | The photograph sent Sep 25, 2026, 17:46 UTC, as the thread's last word — published from the giver's own copy, filename as sent. The record claims nothing about its contents |
+| ("Mears Acknowledgement.pdf") | The office's Sep 25 letter: quoted whole at THREAD.md §8a, SHA-256 recorded there; the PDF held unpublished for now (it carries the giver's postal address — the EEOC-letter rule), pending the giver's mark on a redacted or as-is copy. Still to be pulled: the Sep 24 Empower rejection email (RECORD.md open item 13) |
 
 ## Rules this folder is kept under
 

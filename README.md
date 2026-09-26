@@ -21,7 +21,9 @@ the closure's basis was — has been asked, in writing, of thirteen venues from 
 and no record in this account holds an answer to any of them. The one disposition ever
 received says, in full: closed, "no other information can be provided." A system that
 acts on reports and does not answer to the people who make them. That is the whole of
-this repository; the rest is verification — twenty-six entries, one disposed, the falsifier
+this repository; the rest is verification — twenty-six entries, two disposed (the second
+is the Plan's provision-citing denial in the adjacent annuity matter, Sep 25, 2026 — the
+reports' accounting questions themselves still hold exactly one), the falsifier
 standing: any seat's substantive written answer to any question in the ledger breaks the
 claim, and will be entered the day it arrives.
 
@@ -72,8 +74,8 @@ poster "misinforms subcontract workers," in the assessor's words — and
 deficient ECP case handling (D-SFO-1), with no public closure. The non-transmission in
 this record is consistent with the same failure mode DOE documented at this site in 2022;
 whether it continued into Building 9980 in 2025 rests on this record's own exhibits, not
-on the 2022 finding. Nine venues tested over sixteen
-months; every one that answered, answered with a jurisdiction or a procedure. In all that
+on the 2022 finding. Thirteen venues tested, January 2025 through September 2026;
+every one that answered, answered with a jurisdiction or a procedure. In all that
 time one produced a case number — the OIG's, 25-0737-C, confirmed opened and already
 closed in the same breath (Dec 29, 2025, as referenced in the account's own filings) —
 and one produced a disposition: on September 1, 2026, the third day after the account was

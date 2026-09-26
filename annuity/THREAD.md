@@ -7,9 +7,11 @@ full, verbatim; the quoted history each message carries below it is omitted
 and marked, because every quoted layer already stands above as its own
 message. Signature boilerplate (address block, confidentiality notice) is
 transcribed once, on its first appearance, and marked as repeated thereafter.
-Two redactions, stated: the giver's postal address and phone number are
-replaced with [address held] and [phone held] in this public copy; they stand
-in the originals. Nothing else is altered, including errors. Times are UTC;
+Three redactions, stated: the giver's postal address, his phone number, and
+the masked personal identifier on the office's letter are replaced with
+[held] markers in this public copy; all stand in the originals. No other
+personal data of the giver's appears in this file beyond what he himself
+wrote into the messages. Nothing else is altered, including errors. Times are UTC;
 Gmail message ids are given per message. Attachments are named where they
 occurred; their publication state is in the folder README.
 
@@ -268,7 +270,7 @@ occurred; their publication state is in the folder README.
 > *[quoted history omitted]*
 
 ## 8 · Sep 25, 2026, 16:47 UTC — KHanlon@neibenefits.org → kevin.mears@gmail.com
-*(id 1a0d977085f8d73e · attachment: "Mears Acknowledgement.pdf" — not yet read into this record; open item 13)*
+*(id 1a0d977085f8d73e · attachment: "Mears Acknowledgement.pdf" — read into this record the same day; quoted whole at §8a below)*
 
 > Kevin,
 >
@@ -281,8 +283,104 @@ occurred; their publication state is in the folder README.
 >
 > *[quoted history omitted]*
 
+## 8a · The attached letter, quoted whole
+*(Dated September 25, 2026, on Elevator Constructors Annuity & 401(k) Retirement Plan letterhead, signed Alicia Naccarella, Accounting Manager; enclosure: Appeals Procedures. The PDF itself is held unpublished for now — it carries the giver's postal address, redacted here by this file's stated rule — pending the giver's mark on a redacted or as-is copy. SHA-256 of the original as received: recorded below the quote. Bold as in the original.)*
+
+> September 25, 2026
+>
+> Kevin Mears
+> [address held]
+>
+> Re: Your Elevator Constructors Annuity and 401(k) Retirement Plan Appeal
+> ID#: [held — a masked personal identifier; redacted here in full]
+>
+> Dear Mr. Mears:
+>
+> I am in receipt of your emails dated September 24, 2026, regarding your
+> request to receive a distribution from your Non-Elective Annuity
+> Contribution Account ("Annuity Account") in the Elevator Constructors
+> Annuity and 401(k) Retirement Plan (the "Plan"). Significantly, as of the
+> date of this letter, your Annuity Account in the Plan is comprised solely
+> of monies which are attributable to Employer Non-Elective Contributions
+> received on or after January 1, 2011 ("New Annuity Account"). You state
+> that you need to access your New Annuity Account to address an immediate
+> financial hardship.
+>
+> **Relevant Provisions of the Plan Document.**
+>
+> Article VI of the Elevator Constructors Annuity and 401(k) Retirement Plan
+> (as amended through January 1, 2025) (the "Plan Document") sets forth the
+> rules governing distributions from the Plan and Article VII of the Plan
+> Document includes the rules governing Hardship Withdrawals from the Plan.
+>
+> **A. You are not eligible for a Distribution from your New Annuity
+> Account.**
+>
+> Section 6.3(b)(3)(C) of the Plan Document sets forth the eligibility rules
+> for New Annuity Account Distributions, and provides in relevant part:
+>
+> > . . . a Participant may receive a distribution of all or a portion of
+> > . . . his [New Annuity Account] . . . **after he has attained age 55 and
+> > he either is receiving a pension from the National Elevator Industry
+> > Pension Fund or is receiving Social Security Retirement benefits**.
+>
+> In addition, a Participant may receive a distribution from his or her New
+> Annuity Account if the Participant incurs a "Disability" as that term is
+> defined in Section 2.14 of the Plan Document:
+>
+> > "Disability" means a Participant's **disability that has been determined
+> > by the Social Security Administration to qualify the Participant for
+> > benefits under Title II and XVI of the Social Security Act**. A
+> > Participant shall present such evidence as may be reasonably requested
+> > by the Trustees of his or her Disability.
+>
+> At this time, you are not yet age 55, you are not receiving a pension from
+> the National Elevator Industry Pension Plan, and you are not receiving
+> Social Security benefits. Therefore, you are not yet eligible to receive a
+> distribution from your New Annuity Account.
+>
+> **B. Your New Annuity Account cannot be a source account for a Hardship
+> Withdrawal.**
+>
+> The Plan Document permits Hardship Withdrawals made "on account of an
+> immediate and heavy financial need . . . of the Participant . . . [that]
+> is necessary . . . to satisfy such immediate and heavy financial need."
+> (Plan Document at Section 7.3(b)). *However*, the Plan Document places
+> limits on the source accounts from which a Participant may draw from when
+> seeking a Hardship Withdrawal. In particular, for purposes of the Plan
+> Document's Hardship Withdrawal rules, a Participant "*may not withdraw any
+> portion* of his or her [New Annuity Account]." (Plan Document at Section
+> 7.1).
+>
+> You are not eligible for a Hardship Withdrawal because your account
+> balance in the Plan is comprised solely of your New Annuity Account.
+>
+> **Your Appeal Rights**
+>
+> Your appeal will be presented to the Trustees at their next meeting on
+> December 8, 2026. Shortly after the meeting, you will be notified by mail
+> of the Trustees' decision regarding this appeal.
+>
+> Sincerely,
+>
+> Alicia Naccarella
+> Accounting Manager
+>
+> Enclosure: Appeals Procedures
+
+*What the letter does in this ledger: it is a signed, provision-citing
+refusal — entry 24 (the hardship request) moves to DISPOSED, against the
+request, by the record's own rule that a decision against the giver is a
+closure. What it does not do: it does not address the expedited-review
+request of messages 6–7, does not name the seat that declined it, and does
+not touch the appeal's asks 2 (amendment) or 3 (prior exceptions) — each of
+those stands as a dated absence from September 25, 2026. SHA-256 of
+"Mears Acknowledgement.pdf" as received:*
+`c6139b715e4f4932d655c4a956ca45c186b069a07db0de80748cfea567639af8`
+*— any holder of the letter can verify it against this record.*
+
 ## 9 · Sep 25, 2026, 17:46 UTC — Kevin Mears → KHanlon@neibenefits.org
-*(id 1a0d9ad0fcfe5fa6 · attachment: 1000017953.jpg — to be pulled and published; open item 14. No new body text.)*
+*(id 1a0d9ad0fcfe5fa6 · attachment: 1000017953.jpg — published at exhibits/1000017953.jpg from the giver's own copy, supplied Sep 25. No new body text; the photograph is the message, as sent. This record claims nothing about its contents.)*
 
 > *[quoted history only; one photograph attached]*
 
