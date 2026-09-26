@@ -18,3 +18,7 @@ Cc) and to the Office of the General President (To). Gmail Sent id
 
 Neither form is signed or filed. Signing, filing, or declining remains entirely
 with the membership.
+
+The attachment order is by design — the sender's own charges come first. The
+shape is stated at [../README.md](../README.md), "The order of the charges:
+the giver first."

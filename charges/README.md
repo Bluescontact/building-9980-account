@@ -1,5 +1,35 @@
 # Charges — the statement of facts
 
+## The order of the charges: the giver first
+
+Named here September 25, 2026, because the shape was carried in the documents
+without being stated; every sentence below rests on rows and files already in
+this repository, none of it new. The charges arc points its instrument at the
+giver before the officer, by the giver's own hand, in three documented steps:
+
+1. **Sep 3, 2026** — the notice to the members opens with the giver's own
+   admission: his failure, while still a member, to prefer charges in writing
+   under Art. XVIII §2. It asks that charges be brought **against both** — the
+   Business Representative *and the giver* (RECORD timeline, Sep 3, 8:52 AM
+   row; ledger entry 18).
+2. **Sep 10, 2026** — the packet's subject line is "Charges on Kevin Mears,"
+   and its **first attachment** is `The_Charges_Against_Kevin_Mears.pdf`: an
+   unsigned Art. XVIII §3 form, two counts, "every underlying act admitted in
+   the sender's own writings." The form of charge against the officer is
+   second ([packet-2026-09-10/](packet-2026-09-10/README.md); ledger entry 23).
+3. **Neither form is signed or filed.** Signing, filing, or declining remains
+   entirely with the membership — the giver drafted the case against himself
+   and handed the verdict to the only body with jurisdiction over it.
+
+This is the same rule the whole record runs on, applied inward: LENS states
+that the method counts a decision against the giver as a closure, which is
+what distinguishes it from advocacy. Here the giver did not wait for that
+test — he filed the instrument against himself first and put it ahead of the
+one naming the officer. A reader weighing this record's fairness can start
+with the fact that its keeper's own charges are Attachment 1.
+
+---
+
 `Charges_Statement_Regensberg_Attachment_2026-09-03.pdf` — the Statement of facts
 under Article XVIII, Section 3 concerning the Business Representative / Financial
 Secretary seat of Local 131, attached to the Sep 3, 2026 notice to the members and
