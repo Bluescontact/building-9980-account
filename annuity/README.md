@@ -60,10 +60,12 @@ made here the way the main record makes them: (1) the appeal email of Sep 24,
 ECP staging line. (2) The giver's Sep 25, 16:15 UTC message states his own
 stakes in his own words and gives notice of publication; it is transcribed as
 sent, and this folder is that notice carried out. The Benefits Office
-correspondent is named from her own signed institutional correspondence,
-after written notice of publication on the thread itself; the giver's postal
-address and phone number are redacted from the public transcription and stand
-in the originals.
+correspondents — the accountant on the thread and the Accounting Manager who
+signed the letter — are named from their own signed institutional
+correspondence, after written notice of publication on the thread itself.
+Three redactions run through this folder's public copies, stated where they
+occur: the giver's postal address, his phone number, and the masked personal
+identifier on the office's letter; all stand in the originals.
 
 *Falsifier: any message or document contradicting a state, a date, or a
 quoted line defeats that row; the correction enters here, superseding in
