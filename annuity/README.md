@@ -46,9 +46,10 @@ folder is evidence on it.
 | File | What it holds |
 |---|---|
 | [THREAD.md](THREAD.md) | The complete email thread with the Benefits Office, Sep 24–25, 2026, transcribed verbatim under the rules stated at its head |
+| [EMPOWER.md](EMPOWER.md) | The recordkeeper's two standalone messages, quoted whole: the Sep 23 document-upload receipt (the filing date, in the recordkeeper's own words) and the Sep 24 unable-to-process notice whose single listed issue is "No funds available for the requested distribution." |
 | exhibits/EC Annuity 401k Appeal Procedure Notice 2016.pdf | The Plan's appeal procedure notice as received Sep 24, 2026, byte-for-byte |
 | exhibits/1000017953.jpg | The photograph sent Sep 25, 2026, 17:46 UTC, as the thread's last word — published from the giver's own copy, filename as sent. The record claims nothing about its contents |
-| ("Mears Acknowledgement.pdf") | The office's Sep 25 letter: quoted whole at THREAD.md §8a, SHA-256 recorded there; the PDF held unpublished for now (it carries the giver's postal address — the EEOC-letter rule), pending the giver's mark on a redacted or as-is copy. Still to be pulled: the Sep 24 Empower rejection email (RECORD.md open item 13) |
+| ("Mears Acknowledgement.pdf") | The office's Sep 25 letter: quoted whole at THREAD.md §8a, SHA-256 recorded there; the PDF held unpublished (it carries the giver's postal address — the EEOC-letter rule), pending the giver's mark on a redacted or as-is copy. RECORD.md open item 13 is otherwise closed |
 
 ## Rules this folder is kept under
 

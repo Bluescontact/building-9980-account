@@ -54,8 +54,8 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Sep 10, 2026, 7:51 AM MDT | The four-document packet sent, subject "Charges on Kevin Mears," to the members of Local 131 on the Local's own Dec 2024 distribution (84 Cc) and to the Office of the General President (To: arichards@iuec.org): (1) The Charges Against Kevin Mears — an unsigned Art. XVIII §3 form, two counts, on the sender's own writings; (2) The Charges Against Marvin L. Regensberg — an unsigned §3 form with its evidence reproduced in full as Parts A and B; (3) The Protections Invoked and Held; (4) The Question Before the Local. Both agency reference numbers stated (NM HRB 26-09-0983-E; EEOC 543-2026-01452). Neither form signed or filed; signing and filing left with the membership. Sent the morning of the Local's Sep 10 meeting | Gmail Sent — **IN HAND** (id 1a08b964bf434ddd, four PDF attachments; the packet as sent published at charges/packet-2026-09-10/) |
 | Sep 10, 2026, 11:14 AM MDT | NNSA FOIA office acknowledgement in writing (Paula Vigil, NNSA): the Sep 5 request for NNSA Sandia Field Office records, Building 9980, SNL-NM, 2025, is opened as case number **FOIA 26-00666-PV** | Gmail — **IN HAND** (id 1a08c506638dcbf4, acknowledgement letter attached) |
 | Sep 9, 2026 (letter date; received 6:36 PM MDT) | EEOC written confirmation of the inquiry, Albuquerque Area Office, from no-reply@service.eeoc.gov: Inquiry No. **543-2026-01452** confirmed; respondent "International Union Of Elevator Constructors Local #131" at its Pan American Fwy office address; bases stated by the agency as "Sex (including sexual orientation, and transgender status), Disability," date of harm **09/04/2026**; the agency's own line that "an inquiry is *not* a charge of discrimination"; charge to be filed "on or before **07/01/2027**" per the letter, with intake appointment to be scheduled. The Sep 9 row above stated the bases in the filer's words (perceived disability · perceived sexual orientation · retaliation) and the adverse actions as Sep 3–4; the agency's letter states its own framing and the Sep 4 date — the letter's wording governs what the agency received, superseding nothing about what was submitted | Gmail — **IN HAND** (id 1a088be7fedc26be). The letter itself carries the filer's home address and is held unpublished; this row carries its operative facts. NM HRB confirmation: **still to be pulled** — none in the mailbox as of Sep 10, 2026 morning sync (and none as of the Sep 25, 2026 sync) |
-| Sep 23, 2026 | Hardship withdrawal request submitted to the Elevator Constructors Annuity and 401(k) Retirement Plan (Plan No. 770430-01; recordkeeper Empower) — the only distribution the Plan's own forms offer a separated participant under 55 | reported; anchored by the Sep 24 rejection's Work Item ID |
-| Sep 24, 2026 | Empower rejection in writing: "No funds available for the requested distribution," Work Item ID 36804743 — the balance (~$142,000) sits in the "New" Annuity Account, which the hardship provision does not reach; no Plan provisions cited | referenced verbatim in the Sep 24 appeal (in hand); the message itself in the mailbox — **to be pulled** (open item 13) |
+| Sep 23, 2026, 1:31 PM MT | Hardship withdrawal request submitted to the Elevator Constructors Annuity and 401(k) Retirement Plan (Plan No. 770430-01; recordkeeper Empower) — the only distribution the Plan's own forms offer a separated participant under 55. Empower's written receipt the same hour: "Empower received a document upload for your account" (Ref# 770430-01/10845944) | Gmail — **IN HAND** (id 1a0cfd2d3ec70cb3; quoted whole at annuity/EMPOWER.md) |
+| Sep 24, 2026, 14:12 UTC | Empower's written response — on its own face an unable-to-process notice inviting a revised form, whose single listed issue is "No funds available for the requested distribution." (Work Item ID 36804743); no Plan provisions cited. The listed issue is not one a revised form can cure: the balance is all New Annuity, which the hardship rules exclude | Gmail — **IN HAND** (id 1a0d3c6249b36227; quoted whole at annuity/EMPOWER.md) |
 | Sep 24, 2026, 15:40 UTC | The Benefits Office (Kathy Hanlon, Accountant II – 401(k), NEI Benefit Plans), after a phone conversation the same day, sends the Plan's appeal procedures in writing; names the filing channel (annuity@neibenefits.org), the next Trustee meeting (December 2026), and the New-Annuity access conditions | Gmail — **IN HAND** (thread 1a0d41335da5ebe2; the procedure notice published at annuity/exhibits/; full thread transcribed at annuity/THREAD.md) |
 | Sep 24, 2026, 16:19 UTC | The appeal to the Trustees filed by email on the named channel — appeal of the denial; appeal of the New-Annuity lock under the Plan's policy-appeal procedure; request for expedited committee review; documents requested; ERISA §502(a) reserved. Sent carrying the draft's internal staging header unremoved — entered as sent (the Sep 5 rule) | Gmail Sent — **IN HAND** (id 1a0d436c19581814) |
 | Sep 24, 2026, 20:54 UTC | Request for the giver's complete union record, nine categories, Jan 1, 2025 – present, 30-day window, with a notice to preserve records citing EEOC 543-2026-01452 and NM HRB 26-09-0983-E and explicitly covering personal email accounts and phones | Gmail Sent — **IN HAND** (id 1a0d53274b987ac2; To: Regional Director Newton J. Blanchard IV, nblanchard@iuec.org; Cc: Office of the General President) |
@@ -230,14 +230,18 @@ date on it.
     entries drop from IN HAND to the repo-export or quotation discount their
     surviving copies support. Silence about a purged original is not claimed as
     possession.
-13. **Partially closed Sep 25, 2026, same day.** The "Mears Acknowledgement.pdf" letter
-    was pulled, read, and entered: entry 24 moved to DISPOSED on its provisions, entry 25's
-    December 8 date and the expedited-review silence entered, the letter quoted whole at
-    annuity/THREAD.md §8a with the original's SHA-256 recorded. The PDF itself is held
-    unpublished — it carries the filer's home address (the EEOC-letter rule) — pending the
-    giver's mark on a redacted or as-is copy. Still open: the Sep 24 Empower rejection
-    email, to be pulled into annuity/exhibits/; entry 24's "No funds available" quotation
-    rests meanwhile on the appeal's verbatim citation of it, in hand.
+13. **Closed Sep 25, 2026, in two passes the same day.** First pass: the "Mears
+    Acknowledgement.pdf" letter pulled, read, and entered — entry 24 moved to DISPOSED
+    on its provisions, entry 25's December 8 date and the expedited-review silence
+    entered, the letter quoted whole at annuity/THREAD.md §8a with the original's
+    SHA-256 recorded; the PDF itself held unpublished — it carries the filer's home
+    address (the EEOC-letter rule) — pending the giver's mark on a redacted or as-is
+    copy. Second pass: both Empower messages pulled and quoted whole at
+    annuity/EMPOWER.md — the Sep 23 document-upload receipt (which lifts the filing-date
+    row from the giver's-report discount to in-hand) and the Sep 24 unable-to-process
+    notice carrying "No funds available for the requested distribution." as its single
+    listed issue. Entry 24's quotation now rests on the recordkeeper's own message, not
+    on the appeal's citation of it.
 14. **Closed Sep 25, 2026, same day.** The photograph pulled from the giver's own copy
     and published at annuity/exhibits/1000017953.jpg. The record claims nothing about
     its contents; it is the message, as sent.
