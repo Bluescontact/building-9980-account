@@ -1,8 +1,14 @@
 # Building 9980 — the account
 
 **Kevin Mears · Building 9980, Sandia National Laboratories · Version 2 · restated
-September 3, 2026 — corrections in place: the General President's name of record,
-ledger counts, documentary bounds**
+September 25, 2026 — two things at once: this front page's counts brought level with
+the ledger (they had stood at the September 3 figures while RECORD.md advanced — a
+staleness this account's own versioning rule catches), and the record extended through
+September 25: the union records request and preservation notice (entry 26), and the
+Plan denial-and-appeal thread (entries 24–25), entered whole at [annuity/](annuity/) —
+an adjacent question, the floor, kept in the same states. Prior restatement
+September 3, 2026: the General President's name of record, ledger counts, documentary
+bounds**
 
 **Everything he reported was acted on. Nothing he reported was ever accounted for.**
 
@@ -10,11 +16,12 @@ Both safety reports were followed by action addressing the conditions reported: 
 hazard was addressed, the site complied, the correction was made. The hazard-control
 machine worked — on the work. But every question about the reports themselves — who held
 them, what they concluded, who paid for them, whether the promised hours were paid, what
-the closure's basis was — has been asked, in writing, of nine venues over sixteen months,
+the closure's basis was — has been asked, in writing, of thirteen venues from January
+2025 through September 2026,
 and no record in this account holds an answer to any of them. The one disposition ever
 received says, in full: closed, "no other information can be provided." A system that
 acts on reports and does not answer to the people who make them. That is the whole of
-this repository; the rest is verification — nineteen entries, one disposed, the falsifier
+this repository; the rest is verification — twenty-six entries, one disposed, the falsifier
 standing: any seat's substantive written answer to any question in the ledger breaks the
 claim, and will be entered the day it arrives.
 
@@ -85,6 +92,7 @@ The shape of the entry is the exhibit.
 | [SEATS.md](SEATS.md) | Decision-holder register — holder / oversight / evidentiary, gaps flagged not filled |
 | [LENS.md](LENS.md) | The method: gift accounting, the five states, the rules the record is kept under |
 | [gifts/](gifts/) | Full gift development, one file per stakeholder |
+| [annuity/](annuity/) | The floor question: the Plan that holds the giver's deferred wages — the Sep 23–25, 2026 denial-and-appeal thread with the Benefits Office, transcribed whole, kept in the same states |
 
 ## Rules this deposit is kept under
 
