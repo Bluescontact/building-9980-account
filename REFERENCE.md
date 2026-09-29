@@ -36,16 +36,42 @@ it says — never for what one hopes it says.*
   the OIG for safety allegations. It is **not** a worker safety-reporting mandate. Its CRD
   flows down only to subcontracts over $5.5M / 120 days.
 - **DOE O 442.1B** — the Employee Concerns Program: the route above the contractor that
-  actually existed, and was never transmitted.
+  actually existed~~, and was never transmitted~~. *Corrected Sep 28, 2026: whether it
+  was given to this worker is a question he is asking, not a finding. He does not
+  remember being given it and can find no record of it; the records that would settle it
+  are Sandia's training record for his badge and the ESH100 course content as assigned
+  in 2024.*
 - **DOE EA, *Independent Assessment of Work Planning and Control at SNL-NM*, May 2022** —
-  D-NTESS-12: OSHA poster instead of the DOE poster at all observed subcontracted
-  construction (§851.20(a)(10)); D-SFO-1: SFO ECP dispositions. B&D Industries among
-  first-tier subcontractors observed. No closure of these Deficiencies appears in the
-  public record.
+  *Corrected Sep 28, 2026. The poster point is retracted:* the report itself says that
+  when the assessors raised it, Sandia "took appropriate action to post the required
+  DOE-designated poster" (p. 11). There is no evidence here about what was posted at 9980
+  in 2025, so this account makes no claim about the poster. What stays is an open
+  question, on two passages: **p. 11**, "Interviews confirmed that NTESS Center 4700
+  construction managers did not fully understand DOE's WSH jurisdiction"; and
+  **D-SFO-1** (p. 19, discussed p. 16), that the Sandia Field Office "did not document two
+  employee concern case files in sufficient detail, and the final dispositions of the
+  cases were not correctly documented and communicated to the concerned employee," and
+  was overdue for required self-assessments of its program. The report (p. 9) also names
+  "the B&D Industries, Inc. and the Applied Construction Technologies, Inc. subcontracts"
+  among those it reviewed, and found their subcontract language and observed work
+  generally sound; Applied Construction Technologies was the general contractor at 9980.
+  The question is whether the jurisdiction understanding the report found missing had
+  reached the people running subcontracted work by 2025. The 2022 report proves nothing
+  about 2025.
+  *Superseded Sep 28, 2026 — was:* ~~"D-NTESS-12: OSHA poster instead of the DOE poster
+  at all observed subcontracted construction (§851.20(a)(10)); D-SFO-1: SFO ECP
+  dispositions. B&D Industries among first-tier subcontractors observed. No closure of
+  these Deficiencies appears in the public record."~~
 - **DOE-OIG-25-27** (Aug 4, 2025) — subcontract-closeout audit at Sandia, fieldwork Oct
   2024–May 2025. **No connection to the site, the hoistway, or the worker.** Its identity
   is entered here so the connection can never again be asserted by proximity. Likewise
   25-24 (NNSA SAFER IT), 25-29, 25-32 (Loan Programs Office), 26-05 — none concerns 9980.
+  *Added Sep 28, 2026:* the author's own earlier writing did assert the connection — his
+  Sep 2, 2025 hotline email ("Additional Context DOE -OIG 25-27"), his Dec 23, 2025 email
+  to the hotline (which also names 25-24 and 25-32), his August 2025 letters to the
+  Governor's office, and his May 2025 binder ("The DOE investigation validates it"). He
+  made the connection because the report concerned the same site at the same time, not
+  on any evidence. Each of those statements is retracted.
 - **EHSS variance**, signed Dec 23, 2025, approved Jan 5, 2026 — covers Office of Nuclear
   Energy reactor-pilot contractors. **Not Sandia/NNSA.** Directional relevance only.
 - **NPRM**, "Worker Safety and Health Requirements To Support Reform of Nuclear Reactor
@@ -90,15 +116,22 @@ F.2d 256 (6th Cir. 1980) — both verified).
 ## 5. Primary exhibits (the record's own documents)
 
 A · Jan 22, 2025 "Right to Refusal" thread (Gmail) — both directions, timed, signed.
-B · Jan 23, 2025 written refusal, photographed.
-C · Feb 25, 2025, 8:38 AM shutdown email (quoted in full inside D).
+B · Jan 23, 2025 written refusal — a Google Doc, dated by its version history (started
+the evening of Jan 22, finished by 5:07 AM Jan 23). ~~photographed~~ *Corrected Sep 28,
+2026: the photographs found are of Kone policy pages, taken Jan 21–22.*
+C · Feb 25, 2025, 8:37 AM shutdown email (quoted in full inside D). *Time corrected Sep
+28, 2026 — was 8:38.*
 D · Feb 28, 2025 Kone reply, cc three managers (Gmail).
-E · May 14, 2025 binder delivery, forty timestamped photographs.
+E · The binder: its pages photographed May 14, 2025 (forty timestamped photographs); the
+printed binder handed over in person Jun 2, 2025. ~~May 14, 2025 binder delivery~~
+*Corrected Sep 28, 2026.*
 F · May 21, 2025 Statement of Gift and Waiver.
 G · NEBA Agreement 2022–2027.
 H · the Safety Documentation Template — its one legal sentence ("protected under OSHA
 Section 11(c)") is accurate off DOE sites; on a DOE site the parallel is 10 CFR
-851.20(b)(8)–(9) and the ECP, which no version carries. **That gap is the finding.**
+851.20(b)(8)–(9) and the ECP, which no version carries. ~~**That gap is the finding.**~~
+*Corrected Sep 28, 2026: that gap is in the template; whether the DOE route was given
+to the worker is a question, not a finding.*
 I · OIG Hotline acknowledgments (Gmail).
 Plus: Governor emails as sent · EIWPF thread · NM OSHA thread · testimony (*But Did You
 Die*, first-person, signed — the only extant narrative of the pre-Sandia rerope incident

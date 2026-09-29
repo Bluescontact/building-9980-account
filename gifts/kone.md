@@ -17,8 +17,10 @@ Osterman (regional safety), Rogers, and Kone Management (recipient of the May 21
    asserts none.)
 3. **Credit where the record gives it — enlarged Sep 25, 2026.** The Feb 28 email is
    the only written employer response *to the two written safety reports*: it posed the
-   custody question ("whose permit are we on"), assigned it, and stated the hours were
-   "not 'lost work'… will thus be paid for." The account carries that verbatim, in
+   custody question ("whose permit are we on"), assigned it, and stated the ~~hours~~
+   26 hours lost before Feb 25 were "not 'lost work'… will thus be paid for"
+   *(scope corrected Sep 28, 2026: the note sits under that heading, not the
+   restriction)*. The account carries that verbatim, in
    Kone's favor. And the Sep 25, 2026 mailbox pass recovered a second written Kone
    engagement, earlier and also to Kone's credit: the Jan 20, 2025 reply to the
    pre-refusal personal statement — the matter "was brought up with our Safety Manager
@@ -29,7 +31,10 @@ Osterman (regional safety), Rogers, and Kone Management (recipient of the May 21
    posed ever being answered — by Kone or by anyone.
 
 **What it serves, in the receiver's terms.** A subcontractor operating on DOE sites whose
-crews are told OSHA is the authority carries the compliance risk EA documented in 2022.
+crews are told OSHA is the authority carries the compliance risk ~~EA documented in
+2022~~ the 2022 EA assessment pointed to when it recorded that construction managers at
+this site "did not fully understand DOE's WSH jurisdiction" (p. 11) *(corrected Sep 28,
+2026; the 2022 poster point is retracted)*.
 The template plus the two-line DOE-site correction is a ready-made control.
 
 **The question held.** What did the custody review conclude, and where is that recorded?
@@ -45,7 +50,9 @@ refusal; unrecorded outcome) wrong, and the account restates the day it appears.
 post-publication answer does not falsify; it closes.
 
 **State** (calibrated Sep 25, 2026). Entries 2, 3, 5: DELIVERED (silence since Jan 23,
-2025 — 610 days, the account's second-oldest) / RESPONDED (Feb 28, 2025, outcome
+2025 — 610 days, the account's second-oldest; *caveat added Sep 28, 2026: delivery of
+the written refusal to Kone is not confirmed in writing — if Kone received it, it was
+on paper or in person*) / RESPONDED (Feb 28, 2025, outcome
 unrecorded — 574 days) / DELIVERED (silence since May 21, 2025 — 492 days); omnibus
 Aug 29, 2026; notice of the published account sent to Kone Sep 5, 2026 (timeline —
 notice, not a claim), silence since.

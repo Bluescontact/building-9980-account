@@ -4,7 +4,7 @@
 Convention, Aug 2026 — the Sep 3, 2026 supplement's addressee; Christensen held the seat
 for the earlier rows, RECORD open item 8, closed; referred Dec 30, 2025 — "I will make
 sure Frank sees this"),
-arichards@iuec.org, and outside counsel (O'Donoghue & O'Donoghue, closure delivered
+the office's staff address at the International, and outside counsel (O'Donoghue & O'Donoghue, closure delivered
 May 19, 2026).
 
 **What is given.** The corrected reading of the International's own contract — the one the
@@ -13,14 +13,17 @@ library's earlier spine got wrong and the correction makes *stronger for the uni
 - Article XXVIII does **not** gag workers. §2(e) covers committee minutes only.
 - Article XXVIII **Par. 4** recognizes good-faith refusal, preserves continued employment,
   and provides alternative work — the protection the member asked for was already in the
-  Agreement, and no seat named it to him, including the BA who wrote "there is only so
-  much protection we have" the same day the contract said otherwise.
+  Agreement, and no seat named it to him, including the Business Representative who
+  wrote "As a mechanic there is only so much protection we have" the same day the
+  contract said otherwise *(quotation completed Sep 28, 2026)*.
 - The DOE-site gap: the Agreement's only federal-site clause is the Background-Check
   Letter; nothing tells a mechanic on a DOE site that OSHA's name on the wall is not the
   operative authority. That is a bargaining-table gift, not an accusation.
 
 This keeps the union off the target and on the same side of the question as the worker:
-the route existed in their own agreement, and it was never told either.
+~~the route existed in their own agreement, and it was never told either.~~ the refusal
+right was in their own agreement; whether the DOE route was ever given to members
+working DOE sites is a question, not a finding *(reworded Sep 28, 2026)*.
 
 **What it serves, in the receiver's terms.** A defense-ready reading of Art. XXVIII against
 any future "gag clause" claim; a training gap identified in the union's own document; a

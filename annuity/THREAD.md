@@ -15,6 +15,16 @@ wrote into the messages. Nothing else is altered, including errors. Times are UT
 Gmail message ids are given per message. Attachments are named where they
 occurred; their publication state is in the folder README.
 
+**Correction note, September 28, 2026.** The appeal of Sep 24, 16:19 UTC (§2) is
+transcribed as sent and is not edited. Three of its statements are corrected here:
+"covered hours between 2017 and 2025" and "I entered in 2017" — he entered the trade,
+and Local 131, on October 11, 2018; "almost eight years in the trade" — it was about six
+and a half; and "I paid half of the apprentice's lost wages out of my own pocket" — he
+paid half of the apprentice's union initiation dues, about $500, roughly what the
+apprentice had lost in wages. The appeal's June 2, 2025 withdrawal date is the date his
+later writing gives; his May 21, 2025 resignation letter already included his Local 131
+membership. None of this changes what the Plan was asked or what it answered.
+
 ---
 
 ## 1 · Sep 24, 2026, 15:40 UTC — KHanlon@neibenefits.org → kevin.mears@gmail.com

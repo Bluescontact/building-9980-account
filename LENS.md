@@ -18,8 +18,10 @@ a habit with four moves.*
 - **Acted on is not accounted for.** A system can address every hazard a report names and
   still never answer to the person who reported it. The two are different channels, and
   only the first is checked anywhere. Every other pattern below is a face of this one:
-  response-is-not-disposition is its per-entry form; the-route-existed is the missing
-  accounting channel; the cost default is what goes unassigned when action happens
+  response-is-not-disposition is its per-entry form; ~~the-route-existed is the missing
+  accounting channel~~ whether the accounting channel was ever given to the worker is
+  the question it asks *(corrected Sep 28, 2026: a question, not a finding)*; the cost
+  default is what goes unassigned when action happens
   without accounting. (Named Sep 2, 2026 — the record's clearest simplification, found
   on the third pass.)
 
@@ -32,9 +34,13 @@ a habit with four moves.*
 - **Routed without a decision, not wrongly routed.** The finding is the absence of the
   entry, not the wrongness of the person. No seat has to have been wrong for a cost to
   land on the giver; it only has to have not decided.
-- **The route existed; it was not transmitted.** A right in an institution's interior is
-  not held by the worker at its exterior until something crosses — a poster, an
-  orientation, a named holder, a case number, a returned disposition.
+- ~~**The route existed; it was not transmitted.**~~ **Was the route given?** *Corrected
+  Sep 28, 2026: this was listed as a surviving pattern; it is a question the author is
+  asking, not a finding. He does not remember being given the DOE route and can find no
+  record of it; whether it was given is put to the people who hold the records.* The
+  principle stands as a question to ask of any site: a right in an institution's
+  interior is not held by the worker at its exterior until something crosses — a poster,
+  an orientation, a named holder, a case number, a returned disposition.
 - **The five states.** DELIVERED → RECEIVED → RESPONDED → REFERRED → DISPOSED, with
   silence as the dated absence of movement.
 - **Three seat classes, not one list.** Holder · oversight · evidentiary. Merging them
@@ -48,7 +54,9 @@ a habit with four moves.*
 - **Search the mailbox before accepting any second-hand quotation** — including your own.
   (A year of paraphrasing the Feb 28 email ended in one Gmail search.)
 - **Existence is not availability** if the price of finding a route exceeds the capacity
-  of the one who needs it. (The ECP existed; the January 23 refusal cited OSHA.)
+  of the one who needs it. (The ECP existed; the January 23 refusal cited OSHA, because
+  OSHA was the only name the worker had. Whether the ECP was ever given to him is a
+  question, not a finding — *reworded Sep 28, 2026*.)
 
 ## Named September 25, 2026 — what the method gained after publication
 
@@ -58,18 +66,26 @@ the instruments that earned entry here, each dated, each already applied in RECO
 - **Time in state.** Days each open entry has sat where it sits, computed from the
   ledger's own dates. Converts "the process is slow" from testimony into measurement,
   and the ages advance on their own.
-- **Aged-silence bands.** Silences reported by age, not just count. Four of this
-  record's twelve have passed a year.
+- **Aged-silence bands.** Silences reported by age, not just count. ~~Four of this
+  record's twelve~~ Three of this record's eleven *(recounted Sep 28, 2026)* have passed
+  a year.
 - **The deferral entry.** A decision postponed with no named deferrer and no stated
   basis, entered as its own dated kind — the route finding at process scale. Worked
   example: the expedited-review request of Sep 25, 2026 (RECORD §4).
 - **The notice gap.** Date-of-knowledge and date-of-notice, held apart in the record;
-  the space between them is the finding. The route finding is its worked case: DOE's own
-  2022 assessment fixed a date of knowledge that the wrong poster stood at every observed
-  subcontracted project at this site; this worker's date of notice of the ECP route,
-  before his reports, is: never. "The route existed; it was not transmitted" and "the
-  notice gap" are one finding in two dresses, and the second one travels to any case
-  with two dates.
+  the space between them is the question. *Corrected Sep 28, 2026:* the worked case is
+  now a question, not a finding. The 2022 poster point is retracted (the 2022 report
+  says Sandia posted the DOE poster); what the 2022 assessment recorded that still bears
+  on this site is that construction managers "did not fully understand DOE's WSH
+  jurisdiction" (p. 11). This worker's date of notice of the ECP route, before his
+  reports, is one he does not remember and can find no record of — a question put to the
+  records holders. The instrument still travels to any case with two dates. *Superseded
+  — was:* ~~"the space between them is the finding. The route finding is its worked case:
+  DOE's own 2022 assessment fixed a date of knowledge that the wrong poster stood at every
+  observed subcontracted project at this site; this worker's date of notice of the ECP
+  route, before his reports, is: never. 'The route existed; it was not transmitted' and
+  'the notice gap' are one finding in two dresses, and the second one travels to any case
+  with two dates."~~
 - **The costless ask.** Asking exactly what cannot be refused without the refusal itself
   becoming the record. This record was already built from them — the Aug 31 three
   questions, the records request, the expedited-review question: each is answered, or

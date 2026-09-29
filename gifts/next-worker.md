@@ -1,14 +1,16 @@
 # Gift — the next worker
 
 **Who.** The next mechanic — union or not — dispatched by a subcontractor to a DOE site,
-who is likely to be told that OSHA is the authority — by everyone around them, and, per
+who is likely to be told that OSHA is the authority — by everyone around them~~, and, per
 DOE's own 2022 assessment of this site, by the wrong poster on the wall at every observed
-subcontracted project. And the affected workers already in the record (the apprentice, held out by
+subcontracted project~~ *(poster clause struck Sep 28, 2026: the 2022 report says Sandia
+posted the DOE poster)*. And the affected workers already in the record (the apprentice, held out by
 name-gate; role only).
 
 **What is given.** The route, in a place where someone might be given it:
 
-1. **The map that was never transmitted.** On a DOE site: 10 CFR 851 is the operative
+1. **The map** (~~that was never transmitted~~ *— whether it was given on this job is a
+   question, not a finding; corrected Sep 28, 2026*). On a DOE site: 10 CFR 851 is the operative
    rule; §851.20(b) is your stop-work and reporting right; the Employee Concerns Program
    (DOE O 442.1B) is the route above your employer; 10 CFR 708 protects you as a
    subcontractor's employee, with a **90-day** window; the OIG cannot be walled off from

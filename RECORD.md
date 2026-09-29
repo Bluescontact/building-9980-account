@@ -1,8 +1,16 @@
 # The Verified Record
 
-*Collapsed from `the_ledger.md` (Aug 29, 2026 floor). Every row cites its source class.
+*Collapsed from the author's private working ledger as it stood on Aug 29, 2026; corrected
+Sep 28, 2026 (Version 3.1 — see the README's corrections list; each correction is marked
+where it applies). Every row cites its source class.
 **IN HAND** = primary exhibit held. "Reported" = the giver's own narrative only, entered
 at that discount. Silence is not a state; it is the dated absence of movement.*
+
+*Note added Sep 28, 2026, for readers outside the author's files: folder names such as
+`eml-preservation-2026-09-09/`, `eml-preservation-2026-09-25/`, and
+`exhibits-preserved-2026-09-09/` are the author's own local archive of raw email exports
+with SHA-256 hashes; they are not in this repository and can be produced on request. "The
+map" and "the sibling ledger" are the author's private working documents.*
 
 ## 1. Timeline
 
@@ -15,31 +23,32 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Jan 17, 2025 | "Rodent Droppings" exchange with the Local: a formal safety-protocol adaptation request drafted; the Local's reply ("You're not a licensed mechanic… You could simply ask for extra PPE… We can't do that at this time"); two revisions; the giver's close: "I hate feeling like i'm stuck between taking care of my personal safety, and the pressure to not say anything, and just get the job done." | Gmail — **IN HAND** (thread 194746c7216aa1e7) |
 | Jan 20, 2025, ~8:08–8:56 AM MST | The Personal Statement sent three ways — to the Local's address, to the site superintendent (Botone Industries), and to Kone (Ferdinandus): the hazard, the Orkin pest-control background, the stoppage-pressure problem, and a three-point proposal (respirator fitting, CDC cleaning protocols, authorization to address contamination on discovery) | Gmail Sent — **IN HAND** (ids 19484422d12cf6b3, 1948446ed8bb2a1a, 1948ff63e99b7965/194846d4d982ce91) |
 | Jan 20, 2025, 9:24 AM MST | Kone's written reply (Ferdinandus, cc Osterman): "This was brought up with our Safety Manager last week when first discovered. I'm already working with D&B on how we can complete this work in-line with Sandias standard procedures on this type of cleanup. We understand the additional safety training needed to preform this work, **but we need to establish who will be responsible for these additional cost and delays.**" — the employer's own written statement of the unassigned-cost question, five days before the restriction; recovered by the Sep 25, 2026 mailbox pass, which supersedes in place the account's earlier "the Feb 28 email is the only written employer response" (that claim now bounds to: the only written employer response *to the two written safety reports*) | Gmail — **IN HAND** (id 1948487cb5ab390f) |
-| Jan 22, 2025, 11:58 AM MST | The site superintendent's "Area bio hazard de contamination protocol" order — to Kone, Sandia (Oetzel), and two B&D Industries addresses, cc the giver: "Kona: To have readily available mechanic/employees to operate and remove headers with" the hazmat teams the next day — the operation the Jan 22–23 refusal answered | Gmail — **IN HAND** (id 1948f61729de3bcc) |
+| Jan 22, 2025, 11:58 AM MST | The "Area bio hazard de contamination protocol" order from David Hidalgo, the general contractor's onsite project manager (his signature reads Site Superintendent) — to Kone, Sandia (a Sandia construction manager), and two B&D Industries addresses, cc the giver: "Kona: To have readily available mechanic/employees to operate and remove headers with" the hazmat teams the next day — the operation the Jan 22–23 refusal answered | Gmail — **IN HAND** (id 1948f61729de3bcc) |
 | Jan 22, 2025, 4:26 PM | Kevin asks the Local for help with a written refusal statement | Exhibit A — **IN HAND** |
 | Jan 22, 2025, 5:10 PM | Reply from iueclocal131@comcast.net, signed Marvin L. Regensberg: advised against writing; "only so much protection"; pointed to a MOD opening at TK | Exhibit A — **IN HAND** |
-| Jan 23, 2025 | Written "Refusal to Perform Unsafe Work"; OSHA citations only (29 CFR 1910.134, 1910.132, 1977.12; OSHA 11(c)); no DOE authority cited | Exhibit B — **IN HAND** |
-| Feb 20, 2025, 11:25 AM MST | 9980 Passenger Elevator Safety Walk — the site superintendent's own forward of the walk, whose signature block carries the entity of record: "David Hidalgo, Site Superintendent, Botone Industries LLC… Applied Construction Technologies is a joint venture between B&D [Industries and Botone]" | Gmail — **IN HAND** (id 195249ba574cc919; lifted from "reported" by the Sep 25, 2026 mailbox pass; the signature block is the document that closes the GC identification — see SEATS) |
-| Feb 25, 2025, 8:38 AM | Kevin to Ferdinandus: "Permit Required Confined Space Job Shut Down" — access restricted pending PRCS classification per 1910.146; the worker restricted the hoistway himself and the site complied | Exhibit C — **IN HAND** (quoted in full inside D) |
-| Feb 28, 2025, 3:10 PM | Smith to Kevin, cc Ferdinandus, Rogers, Osterman: "Whose permit are we on"; hours "not 'lost work'… will thus be paid for" | Exhibit D — **IN HAND** |
-| Feb 25 – Mar 2025 | Hoistway work restricted for a period not exhibited; whether compensated not established | reported; no figure carried |
-| May 14, 2025, 4:10 PM MDT | Resigned Kone; bound binder delivered to Local 131 Leadership (40 timestamped photos) | Exhibit E — **IN HAND** |
-| May 21, 2025 | Statement of Gift and Waiver; Formal Resignation (the Kone-addressed second set) | Exhibit F — **IN HAND** (Drive) |
-| Jun 2, 2025 | Withdrawal from Local 131 | reported (Kevin's own documents) |
+| Jan 23, 2025 | Written "Refusal to Perform Unsafe Work"; OSHA citations only (29 CFR 1910.134, 1910.132, 1977.12; OSHA 11(c)); no DOE authority cited. Written as a Google Doc, started the evening of Jan 22 and finished by 5:07 AM Jan 23; the Doc's version history dates it. *Added Sep 28, 2026:* delivery to Kone is not confirmed in writing. If Kone received the refusal, it was on paper or in person, and Kevin does not know which; the Local had his drafts the night before | Exhibit B — **IN HAND** (the Google Doc and its version history) |
+| Feb 20, 2025, 11:25 AM MST | 9980 Passenger Elevator Safety Walk — the general contractor's onsite project manager forwards Kevin the Dec 23–24, 2024 safety-walk emails, in which Sandia's industrial hygienist wrote on **Dec 24, 2024**: "The elevator shaft is classified as a PRCS due to electrical, and mechanical hazards. The shaft can be reclassified as a C7 if all recognized serious safety or health hazards have been eliminated prior to entry." Kone's operations manager had been copied in December; Kevin first saw the classification on this forward (*added Sep 28, 2026*). The forward's signature block carries the entity of record: "David Hidalgo, Site Superintendent, Botone Industries LLC… Applied Construction Technologies is a joint venture between B&D [Industries and Botone]" | Gmail — **IN HAND** (id 195249ba574cc919; lifted from "reported" by the Sep 25, 2026 mailbox pass; the signature block is the document that closes the GC identification — see SEATS) |
+| Feb 25, 2025, 8:37 AM MST | Kevin to Ferdinandus, no one else copied: "Permit Required Confined Space Job Shut Down" — access restricted pending PRCS classification per 1910.146; the worker restricted the hoistway himself and the site complied | Exhibit C — **IN HAND** (quoted in full inside D). *Corrected Sep 28, 2026: the time was given as 8:38 AM; the Sent copy reads 8:37 AM MST* |
+| Feb 28, 2025, 3:10 PM | Smith to Kevin, cc Ferdinandus, Rogers, Osterman: "Whose permit are we on"; hours "not 'lost work'… will thus be paid for" — a note written under Kevin's heading counting the 26 hours lost before Feb 25 (12 after the rodent report, 14 after a site-ordered sewer-line shutdown), not about the restriction that began Feb 25 (*scope added Sep 28, 2026*) | Exhibit D — **IN HAND** |
+| Feb 25 – ~Mar 25–27, 2025 | Hoistway work restricted until a permit; work resumed around Mar 25–27 (email markers Mar 11, 25, 27). Kevin kept working outside the hoistway (inventory, measurements, supply runs), about 8 hours a day, about four days a week, and every hour he worked was paid; the loss is the gap to the crew's ten-hour days — 24 or 32 hours (his May 2025 binder says 32). *Corrected Sep 28, 2026 — was:* ~~"Hoistway work restricted for a period not exhibited; whether compensated not established"~~ | Kevin's statement; the Mar 2025 emails; the binder (Exhibit E). ~~reported; no figure carried~~ |
+| May 14, 2025, 4:10 PM MDT | Last day on the job; the binder's pages photographed (40 timestamped photos). ~~Resigned Kone; bound binder delivered to Local 131 Leadership~~ *Corrected Sep 28, 2026: May 14 was the last day on the job and the day of the photographs; the resignation took effect May 21, and the printed binder was handed over Jun 2* | Exhibit E — **IN HAND** |
+| May 21, 2025 | Statement of Gift and Waiver; Formal Resignation (the Kone-addressed second set) — the resignation from Kone **and from Local 131 membership**, effective May 21, 2025; Kevin emailed the Local the same day (*added Sep 28, 2026*) | Exhibit F — **IN HAND** (Drive); the May 21 email to the Local — **IN HAND** |
+| Jun 2, 2025 | The printed 40-page binder handed in person to the Business Representative, Marvin L. Regensberg, at the hall — no words, no receipt. Kevin's later writing, including the charges packet, gives Jun 2 as his withdrawal date; his May 21 resignation letter already included his membership. ~~Withdrawal from Local 131~~ *Corrected Sep 28, 2026* | reported (Kevin's own recollection) |
+| Jun 3, 2025 | The Local replies in writing that it "cannot find your withdraw letter" | Gmail — **IN HAND**. *Added Sep 28, 2026* |
 | Aug 19, 21; Sep 1, 2025 | Three emails to the Governor's constituent services at a misspelled address; no reply, no bounce | Gmail — **IN HAND** |
 | Sep 2–3, 2025 | OIG Hotline narrative filed; identity disclosure consented; automated acknowledgments, no case number | Gmail; Exhibit I — **IN HAND** |
 | Nov 4, 2025 | Public post on IUEC Facebook page; comments locked | reported (Kevin's Dec 23 email) |
 | Dec 21–23, 2025 | OIG records request; reply: "use FOIA"; "contract or federal employee?" | Gmail — **IN HAND** |
-| Dec 29, 2025 | OIG email confirming complaint **25-0737-C** was opened on the September narrative and is closed | referenced verbatim in the Aug 29, 2026 omnibus (in hand); the email itself was not located in Gmail on this pass — **to be produced**. The number is independently established by the OIG's own Sep 1, 2026 email |
+| Dec 29, 2025 | OIG email confirming complaint **25-0737-C** was opened on the September narrative and is closed: "I can confirm complaint number 25-0737-C was opened. Per our website… we may only share with you whether the complaint is open or closed and this case is closed" | Gmail — **IN HAND**, recovered from Gmail's Trash Sep 28, 2026 (open item 1a). *Superseded Sep 28, 2026 — was:* ~~"referenced verbatim in the Aug 29, 2026 omnibus (in hand); the email itself was not located in Gmail on this pass — to be produced."~~ The number is also established by the OIG's own Sep 1, 2026 email |
 | Dec 30, 2025 | Materials to EIWPF and IUEC address; "I will make sure Frank sees this"; "nothing to do with policy" | Gmail — **IN HAND** |
 | Jan 16, 2026 | NM OSHA (NMED OHSB) contact after a phone call; template sent; no case opened | Gmail — **IN HAND** |
 | May 19, 2026 | Three-line closure to O'Donoghue & O'Donoghue, outside counsel to the IUEC International: matter closed, no claim, no engagement | reported (essay); Sent copy not yet pulled |
-| Aug 29, 2026 | Disclosure and Account, Version 1, published (Substack: "The Route Existed; I Was Never Given It") | live, verified (the_map) |
+| Aug 29, 2026 | Disclosure and Account, Version 1, published (Substack: "Worker Refusal Adjacent to DOE OIG 25-27," at the web address /p/the-route-existed-i-was-never-given). *Corrected Sep 28, 2026 — the title was given here as ~~"The Route Existed; I Was Never Given It"~~, which is the web address's wording. The post carries claims this version corrects: its headline places the case next to DOE-OIG-25-27 (that connection is retracted); its web address and one line state the DOE route as a finding (it is a question); its appendix dates the binder's delivery May 14 (it was Jun 2)* | live, verified |
 | Aug 29, 2026, 22:01 UTC | Notice **DELIVERED** to NTESS ECP (Ethicsteam@sandia.gov); message size consistent with the PDF attached — attachment not independently verified | Gmail Sent — **IN HAND** |
 | Aug 29, 2026, 22:13 UTC | Omnibus **DELIVERED** to eleven addresses (NNSA ECP, OIG Hotline, NTESS ECP, Kone, IUEC, Local 131 + cc's) — **with the wrong attachment** (an earlier HTML, not the named PDF); reply-all correction staged | Gmail Sent — **IN HAND** |
 | Aug 31, 2026 | OIG Hotline wrote offering a phone call for Sep 1. Kevin replied in writing: no interest in settlement, restitution, or reinstatement; asked that the disposition come in writing — (1) add the attachment to 25-0737-C, (2) the date and basis of closure, (3) whether the safety allegation was referred under DOE O 221.1B ¶5.a(7)(b). He then forwarded the exchange to all eleven addresses | Gmail — **IN HAND** |
 | Sep 1, 2026 | OIG in writing: "Your complaint 25-0737-C has been closed. No other information can be provided by our office," with a FOIA pointer. None of the three questions answered | Gmail — **IN HAND** |
-| Sep 2, 2026, 10:14 AM MDT | First written reply from the Local's address since Jan 22, 2025, to Kevin alone, unsigned, header name "L. Oscar Duran": "not relevant to anything I am working on"; "deleting any email I get from you"; concerns "were addressed by Kone and Sandia Labs"; the only email it will read is one with "Return to the IUEC" in the subject line | Gmail — **IN HAND** |
+| Sep 2, 2026, 10:14 AM MDT | ~~First written reply from the Local's address since Jan 22, 2025~~ *Corrected Sep 28, 2026: not the first — the Local replied in writing on Jun 3, 2025.* Reply from the Local's address, to Kevin alone, unsigned. Every email from the Local's address was written by Marvin Regensberg; the office account still displays the name of the Business Representative before him, because the address stayed with the office (Kevin's statement, Sep 28, 2026; the name that appears in the header is not repeated here): "not relevant to anything I am working on"; "deleting any email I get from you"; concerns "were addressed by Kone and Sandia Labs"; the only email it will read is one with "Return to the IUEC" in the subject line | Gmail — **IN HAND** |
 | Sep 2, 2026, 17:42 UTC | The Local's reply forwarded to the General President's office in full and unedited, without comment, with a stated commitment to send nothing further to the Local's address | Gmail Sent — **IN HAND** |
 | Sep 2, 2026, 18:23 UTC | Complaint to the General President regarding the conduct of the Local 131 Business Representative seat, Jan 2025 – Sep 2026: five items, four questions (a)–(d); no personal relief sought; copy to the Local's address | Gmail Sent — **IN HAND** |
 | Sep 3, 2026, 8:52 AM MDT | Notice to the members of Local 131, on the Local's own Dec 5, 2024 distribution: admission of the giver's own failure, while a member, to prefer charges in writing under Art. XVIII §2; reachable as a withdrawn member under Art. XV(B) §1; request that charges be brought against both; Statement of facts attached. The notice also went to the Local's address — a breach of the Sep 2 commitment, stated as such in the Sep 3 supplement, no reason offered | Gmail Sent — **IN HAND** |
@@ -49,7 +58,7 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Sep 3, 2026, 17:10 UTC | Follow-up on the supplement thread to the General President's office: the full exchange attached, with notice that it has been entered in the public repository | Gmail Sent — **IN HAND** |
 | Sep 3, 2026, 1:39 / 1:44 PM MDT | Fourth and fifth replies from the BR — near-identical texts from the Local's address (1:39) and the personal address (1:44). Both carry "You lost wages because you are stupid," "IUEC Local 131 members are getting tired of you. I would be careful," and "You are not a member now… file charges from outside the Union"; **"What a loser" and "You are a moron" appear only in the 1:44 personal-address version** | .eml exports with SHA-256, `eml-preservation-2026-09-09/` (Gmail ids 1a068ca190c6d94c, 1a068cd1758ea77b) — **IN HAND** (recovered Sep 9, 2026; quotation discount lifted) |
 | Sep 4, 2026, 12:44 PM MDT | Message from the BR's personal address: a link to bewellnm.com, "Here is a website that will help you with your autism and struggles in society. Good luck." Date now exact; the BA letter's transcription-error flag resolves — Sep 4 was correct | .eml export with SHA-256, `eml-preservation-2026-09-09/` (Gmail id 1a06dbcd7946a309) — **IN HAND** (recovered Sep 9, 2026) |
-| Sep 5, 2026, 13:37 UTC | Employee concern for determination sent to the NNSA ECP (ecp@nnsa.doe.gov, cc DOE HQ ECP), with the Version 1 disclosure PDF; the sent copy retains an unremoved staging line ("Crossing 1 of 3… Delete this line"), entered as sent | Gmail Sent — **IN HAND** |
+| Sep 5, 2026, 13:37 UTC | Employee concern for determination sent to the NNSA ECP (ecp@nnsa.doe.gov, cc DOE HQ ECP). It refers to an attached PDF but has no attachment; it links the published account. ~~with the Version 1 disclosure PDF~~ *Corrected Sep 28, 2026.* The sent copy retains an unremoved staging line ("Crossing 1 of 3… Delete this line"), entered as sent | Gmail Sent — **IN HAND** |
 | Sep 5, 2026, 14:03 UTC | FOIA request filed with the NNSA FOIA Officer (foiofficer@nnsa.doe.gov): NNSA Sandia Field Office records, Building 9980, SNL-NM, 2025 | Gmail Sent — **IN HAND** |
 | Sep 5, 2026, 14:08 UTC | Notice to Kone Inc. (Ferdinandus): the published account, Version 1 — notice, not a claim | Gmail Sent — **IN HAND** |
 | Sep 5, 2026, 14:20 / 14:30 / 14:47 UTC | Letter to the Business Agents of the other Locals, Bcc in three batches: the hoistway rodent-contamination hazard with a draft minor-decon procedure, and the BR's conduct quoted verbatim for each seat's own judgment under Art. XVIII §2; attachments: the decon draft and the Charges Statement. Recipient list: the published BA addresses (74 of 75 Locals carry one; Local 138 none — coverage note held) | Gmail Sent — **IN HAND** |
@@ -58,7 +67,7 @@ at that discount. Silence is not a state; it is the dated absence of movement.*
 | Sep 5, 2026, 15:11 UTC | The BA letter re-sent to Local 3's current address | Gmail Sent — **IN HAND** |
 | Sep 9, 2026 | EEOC Public Portal inquiry submitted against IUEC Local 131 (perceived disability · perceived sexual orientation · retaliation; adverse actions Sep 3–4, 2026), **Inquiry No. 543-2026-01452**. An inquiry, not yet a charge — the charge exists when signed after intake interview; NM HRB cross-filing to be requested at that step | Portal confirmation screen, reported by Kevin same day — confirmation letter now **IN HAND** (next Sep 9 row) |
 | Sep 9, 2026 | NM Human Rights Bureau intake inquiry submitted against IUEC Local 131 (same bases and adverse actions as the EEOC inquiry; EEOC Inquiry No. 543-2026-01452 cross-referenced), **Reference No. 26-09-0983-E**. An intake inquiry, not yet a docketed complaint — an intake officer contacts the complainant to prepare the formal complaint for signature | Reported by Kevin same day — confirmation **to be pulled** when it arrives |
-| Sep 10, 2026, 7:51 AM MDT | The four-document packet sent, subject "Charges on Kevin Mears," to the members of Local 131 on the Local's own Dec 2024 distribution (84 Cc) and to the Office of the General President (To: arichards@iuec.org): (1) The Charges Against Kevin Mears — an unsigned Art. XVIII §3 form, two counts, on the sender's own writings; (2) The Charges Against Marvin L. Regensberg — an unsigned §3 form with its evidence reproduced in full as Parts A and B; (3) The Protections Invoked and Held; (4) The Question Before the Local. Both agency reference numbers stated (NM HRB 26-09-0983-E; EEOC 543-2026-01452). Neither form signed or filed; signing and filing left with the membership. Sent the morning of the Local's Sep 10 meeting | Gmail Sent — **IN HAND** (id 1a08b964bf434ddd, four PDF attachments; the packet as sent published at charges/packet-2026-09-10/) |
+| Sep 10, 2026, 7:51 AM MDT | The four-document packet sent, subject "Charges on Kevin Mears," to the members of Local 131 on the Local's own Dec 2024 distribution (84 Cc) and to the Office of the General President (To: the office's staff address at the International): (1) The Charges Against Kevin Mears — an unsigned Art. XVIII §3 form, two counts, on the sender's own writings; (2) The Charges Against Marvin L. Regensberg — an unsigned §3 form with its evidence reproduced in full as Parts A and B; (3) The Protections Invoked and Held; (4) The Question Before the Local. Both agency reference numbers stated (NM HRB 26-09-0983-E; EEOC 543-2026-01452). Neither form signed or filed; signing and filing left with the membership. Sent the morning of the Local's Sep 10 meeting | Gmail Sent — **IN HAND** (id 1a08b964bf434ddd, four PDF attachments; the packet as sent published at charges/packet-2026-09-10/) |
 | Sep 10, 2026, 11:14 AM MDT | NNSA FOIA office acknowledgement in writing (Paula Vigil, NNSA): the Sep 5 request for NNSA Sandia Field Office records, Building 9980, SNL-NM, 2025, is opened as case number **FOIA 26-00666-PV** | Gmail — **IN HAND** (id 1a08c506638dcbf4, acknowledgement letter attached) |
 | Sep 9, 2026 (letter date; received 6:36 PM MDT) | EEOC written confirmation of the inquiry, Albuquerque Area Office, from no-reply@service.eeoc.gov: Inquiry No. **543-2026-01452** confirmed; respondent "International Union Of Elevator Constructors Local #131" at its Pan American Fwy office address; bases stated by the agency as "Sex (including sexual orientation, and transgender status), Disability," date of harm **09/04/2026**; the agency's own line that "an inquiry is *not* a charge of discrimination"; charge to be filed "on or before **07/01/2027**" per the letter, with intake appointment to be scheduled. The Sep 9 row above stated the bases in the filer's words (perceived disability · perceived sexual orientation · retaliation) and the adverse actions as Sep 3–4; the agency's letter states its own framing and the Sep 4 date — the letter's wording governs what the agency received, superseding nothing about what was submitted | Gmail — **IN HAND** (id 1a088be7fedc26be). The letter itself carries the filer's home address and is held unpublished; this row carries its operative facts. NM HRB confirmation: **still to be pulled** — none in the mailbox as of Sep 10, 2026 morning sync (and none as of the Sep 25, 2026 sync) |
 | Sep 23, 2026, 1:31 PM MT | Hardship withdrawal request submitted to the Elevator Constructors Annuity and 401(k) Retirement Plan (Plan No. 770430-01; recordkeeper Empower) — the only distribution the Plan's own forms offer a separated participant under 55. Empower's written receipt the same hour: "Empower received a document upload for your account" (Ref# 770430-01/10845944) | Gmail — **IN HAND** (id 1a0cfd2d3ec70cb3; quoted whole at annuity/EMPOWER.md) |
@@ -82,34 +91,39 @@ the seat whose it is.
 | # | Date | What left the giver's hands | To (seat) | What the seat did | State |
 |---|---|---|---|---|---|
 | 1 | Jan 22, 2025 | Request for help with a written refusal | Local 131 business representative | 5:10 PM reply: advised against writing; Art. XXVIII Par. 4 and Art. XXVII Par. 4 not named | **RESPONDED** — open |
-| 2 | Jan 23, 2025 | Written refusal, OSHA-cited | Kone (operations manager) | Verbal only, as reported | **DELIVERED** — silence since Jan 23, 2025 |
-| 3 | Feb 25, 2025 | Written stop-work over custody of a permit-required space | Kone; permit contractor; the site | Feb 28 written reply: "Whose permit are we on" (assigned to Osterman); no DOE route named | **RESPONDED** — custody outcome unrecorded |
-| 4 | May 14, 2025 | Bound packet: notice, executive summary, template | Local 131 Leadership | — | **DELIVERED** — silence since May 14, 2025 |
+| 2 | Jan 23, 2025 | Written refusal, OSHA-cited | Kone (operations manager) | Verbal only, as reported | **DELIVERED** — silence since Jan 23, 2025. *Caveat added Sep 28, 2026: delivery to Kone is not confirmed in writing; if Kone received the refusal it was on paper or in person, and Kevin does not know which* |
+| 3 | Feb 25, 2025 | Written stop-work over custody of a permit-required space | Kone — emailed to his supervisor, no one else copied (~~Kone; permit contractor; the site~~ *corrected Sep 28, 2026*) | Feb 28 written reply: "Whose permit are we on" (assigned to Osterman); no DOE route named | **RESPONDED** — custody outcome unrecorded |
+| 4 | Jun 2, 2025 | The printed binder, 40 pages (photographed May 14, 2025): notice, executive summary, template | Local 131 — handed in person to the Business Representative, no receipt | — | **DELIVERED** — silence since Jun 2, 2025. *Corrected Sep 28, 2026 — was dated May 14, 2025, to "Local 131 Leadership," silence since May 14* |
 | 5 | May 21, 2025 | Perpetual template license (one condition, the OSHA 11(c) sentence); waiver of all wage/delay claims; three months' silence | Kone Management; Local 131 | — | **DELIVERED** — silence; binds only the giver. **Scope (Kevin, Sep 1, 2026): the waiver extends to the union and the employer only — not to the GC, the site, or DOE** |
-| 6 | Jun 2, 2025 | Withdrawal with documentation | Local 131 | — | **DELIVERED** — silence |
+| 6 | Jun 2, 2025 | Withdrawal with documentation (the membership resignation was already in the May 21 letter, emailed to the Local that day; Kevin's later writing gives Jun 2 as the withdrawal date) | Local 131 | Jun 3, 2025, in writing: it "cannot find your withdraw letter" | **RESPONDED** — open. *Corrected Sep 28, 2026 — was:* ~~**DELIVERED** — silence~~ |
 | 7 | Aug 19–Sep 1, 2025 | Three letters with packet, template, analysis | Governor of New Mexico | — | **not entered** — misaddressed; my error |
-| 8 | Sep 2–3, 2025 | Named narrative; identity disclosure consented | DOE OIG Hotline | Acknowledgments without a number; Dec 23: "use FOIA"; Dec 29 (referenced): 25-0737-C confirmed opened and closed; Sep 1, 2026 in writing: "Your complaint 25-0737-C has been closed. No other information can be provided by our office" | **DISPOSED** — closed in writing under a number by the seat that held it; date, basis, and any referral undisclosed |
+| 8 | Sep 2–3, 2025 | Named narrative; identity disclosure consented | DOE OIG Hotline | Acknowledgments without a number; Dec 23: "use FOIA"; Dec 29 (in hand, recovered Sep 28, 2026; ~~referenced~~): 25-0737-C confirmed opened and closed; Sep 1, 2026 in writing: "Your complaint 25-0737-C has been closed. No other information can be provided by our office" | **DISPOSED** — closed in writing under a number by the seat that held it; date, basis, and any referral undisclosed |
 | 9 | Nov 4, 2025 | Public post | IUEC (page administrator) | Comments locked; post left up | **RECEIVED** — open |
 | 10 | Dec 30, 2025 | Post, timeline, framework | EIWPF (channel); IUEC address | "I will make sure Frank sees this"; "nothing to do with policy" | **REFERRED** to the General President's office — silence since |
 | 11 | Jan 16, 2026 | Template, agreement, public report | NM OSHA (NMED OHSB) | Contact only; no case; state plan does not reach DOE contractor employees | **RESPONDED** (contact only) |
 | 12 | May 19, 2026 | Closure: no claim, no engagement | IUEC outside counsel | — | **DELIVERED** — silence since May 19, 2026 |
 | 13 | Aug 29, 2026 | Disclosure and Account, Version 1: published; NTESS notice (22:01Z; size consistent with the PDF, not independently verified); omnibus to eleven addresses (22:13Z, attachment mismatch — correction staged) | NNSA ECP · DOE OIG Hotline · NTESS ECP · Kone · IUEC GP office · Local 131 | Aug 31: OIG wrote offering a phone call | **RESPONDED** (one seat of eleven); silence from the rest dated from Aug 29, 2026 |
 | 14 | Aug 31, 2026 | Written reply to the OIG: no settlement, restitution, or reinstatement sought; three questions asked as the written disposition (attachment added to 25-0737-C; date and basis of closure; 221.1B ¶5.a(7)(b) referral) | DOE OIG Hotline | Sep 1: closure restated in writing; none of the three questions answered | **RESPONDED** — the questions open |
-| 15 | Aug 31, 2026 | The OIG exchange forwarded to all eleven addresses | All seats on the omnibus | Sep 2: the Local's address replied to Kevin alone — first words from that seat since Jan 22, 2025 (quoted in the timeline; entered in full in the Sep 2 complaint) | **RESPONDED** (the Local seat only) |
+| 15 | Aug 31, 2026 | The OIG exchange forwarded to all eleven addresses | All seats on the omnibus | Sep 2: the Local's address replied to Kevin alone — ~~first words from that seat since Jan 22, 2025~~ *corrected Sep 28, 2026: the seat had also replied in writing on Jun 3, 2025* (quoted in the timeline; entered in full in the Sep 2 complaint) | **RESPONDED** (the Local seat only) |
 | 16 | Sep 2, 2026 | The Local's Sep 2 reply, forwarded in full and unedited, without comment | IUEC General President's office | — | **DELIVERED** |
 | 17 | Sep 2, 2026 | Complaint regarding the conduct of the BR seat: five items, questions (a)–(d); no personal relief; every wage/delay claim already waived May 21, 2025 | IUEC General President's office (copy to the Local's address) | — | **DELIVERED** — silence since Sep 2, 2026 |
 | 18 | Sep 3, 2026 | Notice to the members: the giver's own Art. XVIII §2 admission; Statement of facts; request that charges be brought against both the BR and the giver | Members of Local 131 (the Local's own Dec 5, 2024 distribution); the Local's address (breach of the Sep 2 commitment, stated) | Three replies the same morning from the BR — two from the Local's address, one from a personal address on the Local's thread; no member has replied | **RESPONDED** (by the accused seat; the members silent since Sep 3, 2026) |
 | 19 | Sep 3, 2026 | Supplement: the three communications verbatim, set beside Art. XIII §4 and Art. XVIII §1(12) and §2; two requests (entry with Charge 5 and a §2 preferral for GEB hearing under §9; channel restriction to §4 notices from an officer other than the accused) | IUEC General President's office | — | **DELIVERED** — silence since Sep 3, 2026 |
-| 20 | Sep 5, 2026 | Employee concern for determination, with the Version 1 disclosure PDF | NNSA ECP (cc DOE HQ ECP) | — | **DELIVERED** — silence since Sep 5, 2026 |
+| 20 | Sep 5, 2026 | Employee concern for determination; it refers to an attached PDF but has no attachment, links the published account, and retains a staging note (~~with the Version 1 disclosure PDF~~ *corrected Sep 28, 2026*) | NNSA ECP (cc DOE HQ ECP) | — | **DELIVERED** — silence since Sep 5, 2026 |
 | 21 | Sep 5, 2026 | FOIA request: NNSA Sandia Field Office records, Building 9980, 2025 | NNSA FOIA Officer | Sep 10, 2026: acknowledged in writing, case number FOIA 26-00666-PV | **RESPONDED** — acknowledgement with a number; the records response itself pending (an earlier "FOIA not yet filed" note elsewhere in this file was closed by this row and has since been superseded out; this clause preserves that it existed) |
 | 22 | Sep 5, 2026 | The BA letter: the hazard with a draft decon procedure, and the BR's conduct for each seat's judgment under Art. XVIII §2 | Business Agents of the other Locals (74 published addresses; Local 3 re-sent to its current address same day) | One address-change auto-notice (Local 3); no substantive reply | **DELIVERED** — the seats' silence dated from Sep 5, 2026 |
-| 23 | Sep 10, 2026 | The four-document packet ("Charges on Kevin Mears"): two unsigned §3 charge forms — one naming the giver, one naming the Business Representative with the evidence inside — the protections page, and the boundary document; signing, filing, or declining left entirely with the membership | Members of Local 131 (the Dec 2024 distribution, 84 Cc); Office of the General President (arichards@iuec.org) | — | **DELIVERED** — the morning of the Local's Sep 10 meeting; silence dated from Sep 10, 2026 |
+| 23 | Sep 10, 2026 | The four-document packet ("Charges on Kevin Mears"): two unsigned §3 charge forms — one naming the giver, one naming the Business Representative with the evidence inside — the protections page, and the boundary document; signing, filing, or declining left entirely with the membership | Members of Local 131 (the Dec 2024 distribution, 84 Cc); Office of the General President (the office's staff address at the International) | — | **DELIVERED** — the morning of the Local's Sep 10 meeting; silence dated from Sep 10, 2026 |
 | 24 | Sep 23, 2026 | Hardship withdrawal request — the only door the Plan's own forms offer a separated participant under 55 | EC Annuity and 401(k) Plan (recordkeeper Empower), Plan No. 770430-01 | Sep 24, in writing: "No funds available for the requested distribution" (Work Item ID 36804743), no provisions cited; then Sep 25, the Accounting Manager's signed letter citing §7.1 and §7.3(b) of the Plan Document: not eligible, the New Annuity Account excluded as a hardship source | **DISPOSED — against the request**, Sep 25, 2026: refused with reasons and provisions by a seat that names itself. The method counts a decision against the giver as a closure; the underlying claim continues as entry 25 |
 | 25 | Sep 24, 2026 | Appeal to the Trustees on the Benefits Office's named channel: reverse the denial, or amend the New-Annuity lock for participants separated from the industry; disclose any prior pre-retirement New-Annuity exception; hear in December and sooner by designated committee (expedited review); documents requested; ERISA §502(a) reserved | Board of Trustees, EC Annuity and 401(k) Retirement Plan, via the Benefits Office | Sep 25, in writing: "received and forwarded to the manager for submission at the next Trustee meeting which is in December"; then the Accounting Manager's letter: presentation to the Trustees **December 8, 2026**, decision by mail after. The letter does not address the expedited-review request or name the seat that declined it | **RESPONDED** — received and queued for December 8; the expedited-review ask and asks 2–3 (amendment; prior exceptions) unanswered, dated from Sep 25, 2026 |
 | 26 | Sep 24, 2026 | Request for the giver's complete union record, with a preservation notice citing both agency numbers; forwarded Sep 25 to IUEC headquarters after no confirmation of receipt | IUEC Regional Director (cc Office of the General President); IUEC headquarters | — | **DELIVERED** — no confirmation of receipt from any seat; silence dated from Sep 24, 2026 |
 
-**Balance.** Twenty-six entries. Nine responded in writing, one received by act, one
-referred, twelve delivered into silence, one misaddressed — and **two disposed**.
+**Balance.** Twenty-six entries. Ten responded in writing (entries 1, 3, 6, 11, 13, 14,
+15, 18, 21, 25), one received by act (9), one referred (10), eleven delivered into silence
+(2, 4, 5, 12, 16, 17, 19, 20, 22, 23, 26), one misaddressed (7) — and **two disposed** (8,
+24). *Recounted Sep 28, 2026 — was: ~~"Nine responded in writing, one received by act,
+one referred, twelve delivered into silence, one misaddressed."~~ One entry moved: entry
+6, to RESPONDED, on the Local's written reply of Jun 3, 2025 ("cannot find your withdraw
+letter"), which this record had not held.*
 *(Corrected by a scripted recount of this table, Sep 25, 2026: the sub-counts had lagged
 the table twice — "seven responded / twelve delivered" was never advanced when entry 21
 moved to RESPONDED on Sep 10, and the Sep 25 restatement inherited the lag as
@@ -138,9 +152,9 @@ from the table's own dates, as of September 25, 2026 — the measurement that co
 | 1 | RESPONDED — open | Jan 22, 2025 | 611 |
 | 2 | DELIVERED — silence | Jan 23, 2025 | 610 |
 | 3 | RESPONDED — open | Feb 28, 2025 | 574 |
-| 4 | DELIVERED — silence | May 14, 2025 | 499 |
+| 4 | DELIVERED — silence | Jun 2, 2025 | 480 (*corrected Sep 28, 2026 — was May 14, 2025, 499*) |
 | 5 | DELIVERED — silence | May 21, 2025 | 492 |
-| 6 | DELIVERED — silence | Jun 2, 2025 | 480 |
+| 6 | RESPONDED — open | Jun 3, 2025 | 479 (*corrected Sep 28, 2026 — was DELIVERED — silence, Jun 2, 2025, 480*) |
 | 9 | RECEIVED — open | Nov 4, 2025 | 325 |
 | 10 | REFERRED — open | Dec 30, 2025 | 269 |
 | 11 | RESPONDED — open | Jan 16, 2026 | 252 |
@@ -159,11 +173,14 @@ from the table's own dates, as of September 25, 2026 — the measurement that co
 | 25 | RESPONDED — queued for Dec 8 | Sep 25, 2026 | 0 |
 | 26 | DELIVERED — silence | Sep 24, 2026 | 1 |
 
-The twelve silences, by age band: **four over a year** (610, 499, 492, 480 days — the
-Jan 23, 2025 written refusal, with the employer; the May 14 packet, with the Local's
-leadership; the May 21 license, with the employer's management and the Local jointly;
-the Jun 2 withdrawal, with the Local), one at 91–365 (129 days — outside counsel),
-seven at 0–30 days. The record does not just count its silences; it ages them,
+The eleven silences, by age band: **three over a year** (610, 492, 480 days — the
+Jan 23, 2025 written refusal, with the employer; the May 21 license, with the employer's
+management and the Local jointly; the Jun 2 binder, with the Local), one at 91–365 (129
+days — outside counsel), seven at 0–30 days. *Corrected Sep 28, 2026 — was: ~~"The twelve
+silences, by age band: four over a year (610, 499, 492, 480 days … the May 14 packet, with
+the Local's leadership; … the Jun 2 withdrawal, with the Local)"~~. The binder is dated
+Jun 2, when it was handed over, and the withdrawal entry has the Local's Jun 3, 2025
+written reply.* The record does not just count its silences; it ages them,
 and the ages advance on their own.
 
 **The receipt line.** The balance above publishes as a receipt, not a handle, under the
@@ -184,9 +201,9 @@ NNSA Sandia Field Office Manager · DOE Enterprise Assessments (Dupuy; Olah) · 
 |---|---|---|---|---|
 | Local 131 (BR) | Jan 22, 2025 | Advice not to write; pointer to TK | — | Nothing on the record |
 | Kone (GM) | Feb 28, 2025 | "Whose permit are we on"; next steps | — | Custody question posed, assigned; outcome unrecorded |
-| Local Leadership; Kone Mgmt | May–Jun 2025 | Silence | — | Nothing |
+| Local Leadership; Kone Mgmt | May–Jun 2025 | Kone: silence. The Local: Jun 3, 2025, in writing, that it "cannot find your withdraw letter"; no word on the binder handed over Jun 2. (~~Silence~~ *corrected Sep 28, 2026*) | — | Nothing |
 | Governor of NM | Aug–Sep 2025 | Nothing (misaddressed) | — | Nothing; the giver's error |
-| DOE OIG Hotline | Sep 2025 – Sep 2026 | Acknowledgments; "use FOIA"; call offer; written closure | **25-0737-C** — confirmed opened and closed Dec 29, 2025 (referenced); closed again in writing Sep 1, 2026 | A number confirmed only at closure; date, basis, and referral undisclosed |
+| DOE OIG Hotline | Sep 2025 – Sep 2026 | Acknowledgments; "use FOIA"; call offer; written closure | **25-0737-C** — confirmed opened and closed Dec 29, 2025 (email in hand, recovered Sep 28, 2026; ~~referenced~~); closed again in writing Sep 1, 2026 | A number confirmed only at closure; date, basis, and referral undisclosed |
 | EIWPF / IUEC | Dec 30, 2025 | Forward; "nothing to do with policy" | — | A forward; silence |
 | NM OSHA | Jan 16, 2026 | Contact; no follow-up | **none opened** | Nothing |
 | IUEC outside counsel | May 19, 2026 | Silence | — | Nothing sought |
@@ -211,8 +228,11 @@ writing, stating no date, basis, or referral.
 A case number from the ECP (Sanchez / Castanon) · a FOIA response from the Field Office
 (Hauck) · **the OIG disposition — received Sep 1, 2026**; what remains of that line is
 the date and basis of the 25-0737-C closure and a referral record under DOE O 221.1B
-¶5.a(7)(b) (Nelson) · a verification of the 2022 corrections at SNL-NM (Dupuy / Olah /
-Martin) · a written answer from the International to the Sep 2 complaint's questions
+¶5.a(7)(b) (Nelson) · ~~a verification of the 2022 corrections at SNL-NM~~ *corrected
+Sep 28, 2026: the 2022 poster point is retracted; what stays for these seats is an open
+question — whether the understanding of DOE's worker-safety jurisdiction that the 2022
+assessment found missing among construction managers (p. 11) had reached subcontracted
+work by 2025* (Dupuy / Olah / Martin) · a written answer from the International to the Sep 2 complaint's questions
 (a)–(d) and the Sep 3 supplement's two requests (General President James Chapman III,
 seated Aug 2026; Christensen held the seat for the earlier rows — see open item 8, closed) ·
 a sentence about the template
@@ -235,8 +255,13 @@ without anyone recorded as deciding it should.
    Sent mail May 15–25, 2026 on closure terms, return nothing. If it went by web form,
    postal mail, or another account, name the channel; otherwise the entry stays at the
    giver's-report discount.
-1a. The Dec 29, 2025 OIG email confirming 25-0737-C opened and closed — referenced in the
-   omnibus but not located in Gmail on the Sep 1 pass. **Searched again Sep 3, 2026:**
+1a. **CLOSED Sep 28, 2026 — recovered.** The Dec 29, 2025 OIG email was in Gmail's
+   Trash and was restored on Sep 28, 2026 (thread 19b43bb0fdc01479). It reads: "I can
+   confirm complaint number 25-0737-C was opened. … this case is closed." It is now
+   **IN HAND**. The earlier text of this item follows as history; its conclusion ("No
+   Dec 29 email exists in this mailbox") is superseded.
+   ~~The Dec 29, 2025 OIG email confirming 25-0737-C opened and closed — referenced in the
+   omnibus but not located in Gmail on the Sep 1 pass.~~ **Searched again Sep 3, 2026:**
    a full-mailbox search for "25-0737" returns nothing before Aug 29, 2026, and the only
    OIG traffic Dec 20, 2025 – Jan 15, 2026 is the Dec 21–23 records-request thread and
    automated acknowledgments (Dec 22, Dec 25). No Dec 29 email exists in this mailbox.
@@ -289,9 +314,16 @@ without anyone recorded as deciding it should.
     lifted; the timeline rows restate the quotes with a precision correction
     ("What a loser" / "You are a moron" are 1:44-only). The same export pass
     preserved the Sep 1 OIG closure, the Aug 29 omnibus, the Aug 31 exchange,
-    and the Dec 2025 records-request thread — the compost mark on the mailbox
-    threads (item 12) stands, and no longer costs the record anything.
-12. **CLOSED by Kevin's mark, Sep 9, 2026 — the trashed threads stay trashed.**
+    and the Dec 2025 records-request thread — ~~the compost mark on the mailbox
+    threads (item 12) stands, and no longer costs the record anything.~~ *Corrected
+    Sep 28, 2026: the item 12 mark was reversed; see item 12.*
+12. **Superseded Sep 28, 2026 — the Sep 9 mark is reversed.** Kevin reversed the
+    Sep 9 "stay trashed" mark on Sep 28, 2026. Five threads were restored from Gmail's
+    Trash that day (thread ids 1990b11913c5048f, 1a04f93f7a60cbc5, 194905527ea91bf5,
+    19b43bb0fdc01479, 19ff73ecf7e2840e); 19b43bb0fdc01479 holds the Dec 29, 2025 OIG
+    email (item 1a, now closed). Who moved the threads to Trash is not known. The text
+    of the Sep 9 mark follows as history.
+    ~~**CLOSED by Kevin's mark, Sep 9, 2026 — the trashed threads stay trashed.**~~
     The Sep 6 finding stands as history: the mailbox source threads for exhibits
     01–04 and the Sep 1 OIG closure sit in Gmail's Trash (a Sep 9 sweep found at
     least eight evidentiary threads there, including the Jan 22, 2025 "Right to
@@ -324,12 +356,36 @@ without anyone recorded as deciding it should.
 
 ## 6. Cost account (kept apart — developed in [COST.md](COST.md))
 
-Roughly two months of work, on the giver's account, in a hoistway later restricted pending
-PRCS classification — its permit status during that period unanswered by the site. Two
-safety reports: the first cost income, as reported; the second stopped work for a period
-whose compensation is not established. Half the apprentice's lost wages paid from the
-reporter's own pocket, on his own account.
-Eight years in the trade ended May 14, 2025; homeless within a month (an illegal eviction,
-without notice); without a floor since. Whether the restriction period was compensated:
-not established — the employer's own phrase was "not 'lost work'." No figure carried, by
-decision. Stated so the account is complete; not transferred.
+*Corrected Sep 28, 2026; the Version 3 wording follows in a note.*
+
+Roughly two months of work, on the giver's account, in a hoistway Sandia had classified
+as a permit-required confined space on Dec 24, 2024 — a classification he received on
+Feb 20, 2025. The open question is what permits were issued for it, Dec 2024 – Mar 2025.
+Hours lost, none paid: 12 after the rodent report and 14 after a site-ordered sewer-line
+shutdown, before Feb 25 (the employer's Feb 28 "not 'lost work'… will thus be paid for"
+was written about these 26); then 24 or 32 during the confined-space delay (the binder
+says 32), when he worked about 32 hours a week, every hour of it paid, against the
+crew's ten-hour days. In all, 50 to 58 hours. The point is not the hours; it is whether
+he could refuse unsafe work without being penalized for refusing. He paid half of his
+apprentice's union initiation dues, about $500, roughly what the apprentice had lost in
+wages, on his own account. About six and a half years in the trade (from October 11,
+2018) ended with his last day on the job, May 14, 2025; the resignation took effect May
+21. Put out of his housing without notice on July 25, 2025; living in a bus since. The
+reachable portion of his retirement, about $40,000, withdrawn; about $142,000 in union
+annuity money locked until retirement age; the Sep 2026 hardship request rejected and
+under appeal to the Trustees in December. The crisis is ongoing. Stated so the account is
+complete; not transferred.
+
+*Superseded Sep 28, 2026 — the Version 3 wording, except the words about the housing
+loss, which characterized a private person and the act and are withdrawn:* "Roughly two
+months of work, on the giver's account, in a hoistway later restricted pending PRCS
+classification — its permit status during that period unanswered by the site. Two safety
+reports: the first cost income, as reported; the second stopped work for a period whose
+compensation is not established. Half the apprentice's lost wages paid from the
+reporter's own pocket, on his own account. Eight years in the trade ended May 14, 2025;
+homeless within a month […]; without a floor since. Whether the restriction period was
+compensated: not established — the employer's own phrase was 'not lost work.' No figure
+carried, by decision." (Why: the classification is in hand; the hours are now carried;
+the apprentice payment was half his initiation dues; the trade start was October 11,
+2018; May 14 was the last day on the job, not the resignation; the housing date is Jul
+25, 2025.)

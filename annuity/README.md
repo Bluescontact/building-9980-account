@@ -67,6 +67,16 @@ Three redactions run through this folder's public copies, stated where they
 occur: the giver's postal address, his phone number, and the masked personal
 identifier on the office's letter; all stand in the originals.
 
+**Correction note, September 28, 2026.** The appeal of Sep 24, 16:19 UTC (§2) is
+transcribed as sent and is not edited. Three of its statements are corrected here:
+"covered hours between 2017 and 2025" and "I entered in 2017" — he entered the trade,
+and Local 131, on October 11, 2018; "almost eight years in the trade" — it was about six
+and a half; and "I paid half of the apprentice's lost wages out of my own pocket" — he
+paid half of the apprentice's union initiation dues, about $500, roughly what the
+apprentice had lost in wages. The appeal's June 2, 2025 withdrawal date is the date his
+later writing gives; his May 21, 2025 resignation letter already included his Local 131
+membership. None of this changes what the Plan was asked or what it answered. See also the same note at the head of THREAD.md.
+
 *Falsifier: any message or document contradicting a state, a date, or a
 quoted line defeats that row; the correction enters here, superseding in
 place. A Trustee decision, whenever and however it comes, does not falsify

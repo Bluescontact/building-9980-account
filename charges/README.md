@@ -42,6 +42,15 @@ gifts/ by the record's own rule.
 Gmail message of Sep 3, 2026, 8:52 AM MDT (the notice to the members on the
 "dues table" thread). The repository copy is the document as sent.
 
+**Correction note, September 28, 2026** (the PDF is the document as sent and is not
+edited). The Statement says he "delivered a packet to Local leadership on May 14,
+2025." The binder's pages were photographed on May 14, 2025, his last day on the job;
+the printed binder was handed to the Business Representative in person on June 2, 2025,
+with no receipt. Its "member of Local 131 through June 2, 2025" is the withdrawal date
+his later writing gives; his resignation letter of May 21, 2025 already included his
+membership, and the Local replied in writing on June 3, 2025 that it could not find his
+withdrawal letter.
+
 ## The exchange as .eml — redacted for the name gate
 
 `eml-redacted/` holds the four messages of September 3, 2026, exported from the

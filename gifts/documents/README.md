@@ -1,13 +1,24 @@
 # The documents themselves — the May 2025 gift packet, and later deposits
 
 These are the four documents of the May 2025 gift packet, addressed to Kone and IUEC
-Local 131 — the bound packet delivered to Local 131 leadership on May 14, 2025 (Exhibit
-E), and the resignation-and-gift set of May 21, 2025 (Exhibit F). Source class: each is
+Local 131 — the binder, whose pages were photographed on May 14, 2025 and which was
+handed in print to the Business Representative on Jun 2, 2025 (Exhibit E; ~~the bound
+packet delivered to Local 131 leadership on May 14, 2025~~ *corrected Sep 28, 2026*), and
+the resignation-and-gift set of May 21, 2025 (Exhibit F). The resignation, from Kone and
+from Local 131 membership, took effect May 21, 2025. Source class: each is
 reproduced from the giver's own retained copy (Exhibit F, Drive); the delivery events
 are entered in [RECORD.md](../../RECORD.md) at their own source class.
 
 - [Formal Resignation and Framework Gift](Formal_Resignation_and_Framework_Gift.md) —
-  May 21, 2025, to Kone Management and IUEC Local #131; names the packet's contents
+  May 21, 2025, to Kone Management and IUEC Local #131; names the packet's contents.
+  *Note beside the letter, Sep 28, 2026 (the letter itself is reproduced as sent and is
+  not edited):* the letter gives his next step as "partnering with my father to build
+  aquaponic systems." That was not the reason he left. In the author's words, it was a
+  story offered to calm a reaction he had already set off inside the organizations; he
+  was scared, and knew that once his reporting left his hands he would be crossing
+  something that couldn't be undone. The reason is the one he wrote publicly in August
+  2026: "staying meant staying quiet about something I wasn't willing to stay quiet
+  about.
 - [Statement of Gift and Waiver](Statement_of_Gift_and_Waiver.md) — May 21, 2025, to
   Kone Corporation and IUEC Local #131; the waiver of every wage and delay claim, and
   the grant of full usage rights with one condition (the OSHA §11(c) reference stays)

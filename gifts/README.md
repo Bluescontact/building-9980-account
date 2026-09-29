@@ -2,7 +2,9 @@
 
 Six seats received something from this record; one has answered with a disposition —
 the OIG, whose written closure discloses no date, basis, or referral (RECORD entry 8) —
-and one has replied without answering (the Local, four times, Sep 2–3, 2026). (The
+and one has replied without answering (the Local, ~~four times~~ six times, Sep 2–3,
+2026, and once earlier, on Jun 3, 2025, that it could not find his withdrawal letter —
+*corrected Sep 28, 2026*). (The
 record's second disposition, the Plan's of Sep 25, 2026, belongs to the adjacent
 annuity matter, not to these six seats — see [annuity/](../annuity/).) These
 files hold the gift out to each seat in turn: **what is given** (documents, not
